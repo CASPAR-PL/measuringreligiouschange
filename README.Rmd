@@ -45,6 +45,21 @@ You can install the latest version of measuringreligiouschange from GitHub:
 pak::pak("CASPAR-PL/measuringreligiouschange")
 ```
 
+### Installation troubleshooting
+
+If `devtools::install_github()` or `remotes::install_github()` fails with
+`HTTP error 401. Bad credentials`, R is sending an expired or invalid GitHub
+token. The repository is public, so no token is needed. Either install with
+pak as shown above (recent versions fall back to anonymous access), or remove
+the token for the current session:
+
+```{r troubleshoot-pat, eval = FALSE}
+Sys.unsetenv(c("GITHUB_PAT", "GITHUB_TOKEN"))
+```
+
+To make this permanent, delete the `GITHUB_PAT` (or `GITHUB_TOKEN`) line from
+your `.Renviron` file (open it with `usethis::edit_r_environ()`) and restart R.
+
 ## Example
 
 A full projection for all countries using the included input data. Each projection object needs its own country list, and `post_switch` must match in both calls:

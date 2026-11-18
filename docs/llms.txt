@@ -42,6 +42,27 @@ GitHub:
 pak::pak("CASPAR-PL/measuringreligiouschange")
 ```
 
+### Installation troubleshooting
+
+If
+[`devtools::install_github()`](https://devtools.r-lib.org/reference/install-deprecated.html)
+or
+[`remotes::install_github()`](https://remotes.r-lib.org/reference/install_github.html)
+fails with `HTTP error 401. Bad credentials`, R is sending an expired or
+invalid GitHub token. The repository is public, so no token is needed.
+Either install with pak as shown above (recent versions fall back to
+anonymous access), or remove the token for the current session:
+
+``` r
+
+Sys.unsetenv(c("GITHUB_PAT", "GITHUB_TOKEN"))
+```
+
+To make this permanent, delete the `GITHUB_PAT` (or `GITHUB_TOKEN`) line
+from your `.Renviron` file (open it with
+[`usethis::edit_r_environ()`](https://usethis.r-lib.org/reference/edit.html))
+and restart R.
+
 ## User manual
 
 📖 [Measuring Religious Change – User Manual (v1.0.2,
