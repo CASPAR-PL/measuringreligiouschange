@@ -51,27 +51,30 @@ pak::pak("CASPAR-PL/measuringreligiouschange")
 
 ### Installation troubleshooting
 
-If `devtools::install_github()` or `remotes::install_github()` fails with
-`HTTP error 401. Bad credentials`, R is sending an expired or invalid GitHub
-token. The repository is public, so no token is needed. Either install with
-pak as shown above (recent versions fall back to anonymous access), or remove
-the token for the current session:
+If `devtools::install_github()` or `remotes::install_github()` fails
+with `HTTP error 401. Bad credentials`, R is sending an expired or
+invalid GitHub token. The repository is public, so no token is needed.
+Either install with pak as shown above (recent versions fall back to
+anonymous access), or remove the token for the current session:
 
 ``` r
 Sys.unsetenv(c("GITHUB_PAT", "GITHUB_TOKEN"))
 ```
 
-To make this permanent, delete the `GITHUB_PAT` (or `GITHUB_TOKEN`) line from
-your `.Renviron` file (open it with `usethis::edit_r_environ()`) and restart R.
+To make this permanent, delete the `GITHUB_PAT` (or `GITHUB_TOKEN`) line
+from your `.Renviron` file (open it with `usethis::edit_r_environ()`)
+and restart R.
 
 ## User manual
 
-📖 [Measuring Religious Change – User Manual (v1.0.2, PDF)](MRC_manual_V1.0.2.pdf)
+📖 [Measuring Religious Change – User Manual (v1.0.2,
+PDF)](MRC_manual_V1.0.2.pdf)
 
-The manual explains how to install and use the package step by step. It describes
-the MRC model and its input data (population structures, religious affiliation,
-fertility, mortality, migration and religious switching), and shows how to run
-projections, set up scenarios, modify input data, and save output files and plots.
+The manual explains how to install and use the package step by step. It
+describes the MRC model and its input data (population structures,
+religious affiliation, fertility, mortality, migration and religious
+switching), and shows how to run projections, set up scenarios, modify
+input data, and save output files and plots.
 
 ## Example
 
