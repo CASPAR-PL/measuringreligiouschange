@@ -1,0 +1,8 @@
+bibentry(
+  bibtype = "TechReport",
+  title = "The Future of World Religions: Population Growth Projections, 2020-2070",
+  author = person("Pew Research Center"),
+  institution = "Pew Research Center",
+  year = "2026",
+  url = "https://github.com/CASPAR-PL/measuringreligiouschange"
+)

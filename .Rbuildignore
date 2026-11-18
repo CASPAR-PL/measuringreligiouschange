@@ -1,0 +1,53 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^\.positai$
+^\.claude$
+^\.RDataTmp$
+^data-raw$
+^LICENSE\.md$
+
+# Development scratch scripts
+^test\.R$
+^test2\.R$
+^Test3\.R$
+
+# Large regression baseline and the test that depends on it (run locally only)
+^tests/testthat/testdata$
+^tests/testthat/test-projection-workflow\.R$
+
+# Comparative plot output folder
+^comparative$
+
+# Ad-hoc projection output folders (named after projection objects)
+^Main_1$
+^Main_2$
+^test_normal$
+^test_normal_ps$
+^test_no_mig$
+^test_no_mig_ps
+^normal$
+^nodiff$
+^SC1$
+^10OCT2026$
+^docs$
+^_pkgdown\.yml$
+^pkgdown$
+^figures$
+^mrc\.drawio
+^mrc\.drawio\.pdf
+
+# Reference / comparison data files in package root
+^projection_structure_data\.csv$
+^base_data_list \(1\)\.rda$
+^base_data_list\.rda$
+
+# Diagram source and intermediate render artefacts
+^mrc\.drawio\.pdf$
+^vignettes/figures/diagram_p[0-9]+_raw\.png$
+
+# README source (built markdown committed separately)
+^README\.Rmd$
+
+^MRC_manual_V1\.0\.2\.pdf$
+

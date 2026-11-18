@@ -1,0 +1,202 @@
+Country,Country_code,Region_name,percentage_fertility,flat_fertility,bottom_fertility_cap,upper_fertility_cap,percentage_migration,convergence_steps,fertility_factorization
+Albania,8,EURO,1,0,NA,NA,1,16,1
+Algeria,12,MENA,1,0,NA,NA,1,16,1
+Angola,24,SSAF,1,0,NA,NA,1,16,1
+Azerbaijan,31,ASPA,1,0,NA,NA,1,16,1
+Argentina,32,LACA,1,0,NA,NA,1,16,1
+Australia,36,ASPA,1,0,NA,NA,1,16,1
+Austria,40,EURO,1,0,NA,NA,1,16,1
+Bahamas,44,LACA,1,0,NA,NA,1,16,1
+Bahrain,48,MENA,1,0,NA,NA,1,16,1
+Bangladesh,50,ASPA,1,0,NA,NA,1,16,1
+Armenia,51,ASPA,1,0,NA,NA,1,16,1
+Barbados,52,LACA,1,0,NA,NA,1,16,1
+Belgium,56,EURO,1,0,NA,NA,1,16,1
+Bolivia,68,LACA,1,0,NA,NA,1,16,1
+Bosnia and Herzegovina,70,EURO,1,0,NA,NA,1,16,1
+Botswana,72,SSAF,1,0,NA,NA,1,16,1
+Brazil,76,LACA,1,0,NA,NA,1,16,1
+Belize,84,LACA,1,0,NA,NA,1,16,1
+Bulgaria,100,EURO,1,0,NA,NA,1,16,1
+Burundi,108,SSAF,1,0,NA,NA,1,16,1
+Belarus,112,EURO,1,0,NA,NA,1,16,1
+Cambodia,116,ASPA,1,0,NA,NA,1,16,1
+Cameroon,120,SSAF,1,0,NA,NA,1,16,1
+Canada,124,NOAM,1,0,NA,NA,1,16,1
+Cape Verde,132,SSAF,1,0,NA,NA,1,16,1
+Central African Republic,140,SSAF,1,0,NA,NA,1,16,1
+Sri Lanka,144,ASPA,1,0,NA,NA,1,16,1
+Chad,148,SSAF,1,0,NA,NA,1,16,1
+Chile,152,LACA,1,0,NA,NA,1,16,1
+China,156,ASPA,1,0,NA,NA,1,16,1
+"China,  Taiwan Province of China",158,ASPA,1,0,NA,NA,1,16,1
+Colombia,170,LACA,1,0,NA,NA,1,16,1
+Comoros,174,SSAF,1,0,NA,NA,1,16,1
+Mayotte,175,SSAF,1,0,NA,NA,1,16,1
+Congo,178,SSAF,1,0,NA,NA,1,16,1
+"Congo,  Dem. Rep.",180,SSAF,1,0,NA,NA,1,16,1
+Costa Rica,188,LACA,1,0,NA,NA,1,16,1
+Croatia,191,EURO,1,0,NA,NA,1,16,1
+Cuba,192,LACA,1,0,NA,NA,1,16,1
+Cyprus,196,ASPA,1,0,NA,NA,1,16,1
+Czechia,203,EURO,1,0,NA,NA,1,16,1
+Benin,204,SSAF,1,0,NA,NA,1,16,1
+Denmark,208,EURO,1,0,NA,NA,1,16,1
+Dominican Republic,214,LACA,1,0,NA,NA,1,16,1
+Ecuador,218,LACA,1,0,NA,NA,1,16,1
+El Salvador,222,LACA,1,0,NA,NA,1,16,1
+Equatorial Guinea,226,SSAF,1,0,NA,NA,1,16,1
+Ethiopia,231,SSAF,1,0,NA,NA,1,16,1
+Eritrea,232,SSAF,1,0,NA,NA,1,16,1
+Estonia,233,EURO,1,0,NA,NA,1,16,1
+Finland,246,EURO,1,0,NA,NA,1,16,1
+France,250,EURO,1,0,NA,NA,1,16,1
+French Guiana,254,LACA,1,0,NA,NA,1,16,1
+Djibouti,262,SSAF,1,0,NA,NA,1,16,1
+Gabon,266,SSAF,1,0,NA,NA,1,16,1
+Georgia,268,EURO,1,0,NA,NA,1,16,1
+Gambia,270,SSAF,1,0,NA,NA,1,16,1
+Palestine,275,MENA,1,0,NA,NA,1,16,1
+Germany,276,EURO,1,0,NA,NA,1,16,1
+Ghana,288,SSAF,1,0,NA,NA,1,16,1
+Greece,300,EURO,1,0,NA,NA,1,16,1
+Grenada,308,LACA,1,0,NA,NA,1,16,1
+Guadeloupe,312,LACA,1,0,NA,NA,1,16,1
+Guatemala,320,LACA,1,0,NA,NA,1,16,1
+Guinea,324,SSAF,1,0,NA,NA,1,16,1
+Guyana,328,LACA,1,0,NA,NA,1,16,1
+Haiti,332,LACA,1,0,NA,NA,1,16,1
+Honduras,340,LACA,1,0,NA,NA,1,16,1
+"China,  Hong Kong SAR",344,ASPA,1,0,NA,NA,1,16,1
+Hungary,348,EURO,1,0,NA,NA,1,16,1
+Iceland,352,EURO,1,0,NA,NA,1,16,1
+India,356,ASPA,1,0,NA,NA,1,16,1
+Indonesia,360,ASPA,1,0,NA,NA,1,16,1
+Iraq,368,MENA,1,0,NA,NA,1,16,1
+Ireland,372,EURO,1,0,NA,NA,1,16,1
+Israel,376,MENA,1,0,NA,NA,1,16,1
+Italy,380,EURO,1,0,NA,NA,1,16,1
+Ivory Coast,384,SSAF,1,0,NA,NA,1,16,1
+Jamaica,388,LACA,1,0,NA,NA,1,16,1
+Japan,392,ASPA,1,0,NA,NA,1,16,1
+Kazakhstan,398,ASPA,1,0,NA,NA,1,16,1
+Jordan,400,MENA,1,0,NA,NA,1,16,1
+Kenya,404,SSAF,1,0,NA,NA,1,16,1
+Republic of Korea,410,ASPA,1,0,NA,NA,1,16,1
+Kosovo,412,EURO,1,0,NA,NA,1,16,1
+Kuwait,414,MENA,1,0,NA,NA,1,16,1
+Kyrgyzstan,417,ASPA,1,0,NA,NA,1,16,1
+Lebanon,422,MENA,1,0,NA,NA,1,16,1
+Lesotho,426,SSAF,1,0,NA,NA,1,16,1
+Latvia,428,EURO,1,0,NA,NA,1,16,1
+Liberia,430,SSAF,1,0,NA,NA,1,16,1
+Libya,434,MENA,1,0,NA,NA,1,16,1
+Lithuania,440,EURO,1,0,NA,NA,1,16,1
+Luxembourg,442,EURO,1,0,NA,NA,1,16,1
+Madagascar,450,SSAF,1,0,NA,NA,1,16,1
+Malawi,454,SSAF,1,0,NA,NA,1,16,1
+Malaysia,458,ASPA,1,0,NA,NA,1,16,1
+Mali,466,SSAF,1,0,NA,NA,1,16,1
+Malta,470,EURO,1,0,NA,NA,1,16,1
+Martinique,474,LACA,1,0,NA,NA,1,16,1
+Mauritania,478,SSAF,1,0,NA,NA,1,16,1
+Mauritius,480,SSAF,1,0,NA,NA,1,16,1
+Mexico,484,LACA,1,0,NA,NA,1,16,1
+Mongolia,496,ASPA,1,0,NA,NA,1,16,1
+Moldova,498,EURO,1,0,NA,NA,1,16,1
+Montenegro,499,EURO,1,0,NA,NA,1,16,1
+Morocco,504,MENA,1,0,NA,NA,1,16,1
+Mozambique,508,SSAF,1,0,NA,NA,1,16,1
+Oman,512,MENA,1,0,NA,NA,1,16,1
+Namibia,516,SSAF,1,0,NA,NA,1,16,1
+Nepal,524,ASPA,1,0,NA,NA,1,16,1
+Netherlands,528,EURO,1,0,NA,NA,1,16,1
+Curacao,531,LACA,1,0,NA,NA,1,16,1
+Aruba,533,LACA,1,0,NA,NA,1,16,1
+New Zealand,554,ASPA,1,0,NA,NA,1,16,1
+Nicaragua,558,LACA,1,0,NA,NA,1,16,1
+Niger,562,SSAF,1,0,NA,NA,1,16,1
+Nigeria,566,SSAF,1,0,NA,NA,1,16,1
+Norway,578,EURO,1,0,NA,NA,1,16,1
+Pakistan,586,ASPA,1,0,NA,NA,1,16,1
+Panama,591,LACA,1,0,NA,NA,1,16,1
+Paraguay,600,LACA,1,0,NA,NA,1,16,1
+Peru,604,LACA,1,0,NA,NA,1,16,1
+Philippines,608,ASPA,1,0,NA,NA,1,16,1
+Poland,616,EURO,1,0,NA,NA,1,16,1
+Portugal,620,EURO,1,0,NA,NA,1,16,1
+Guinea-Bissau,624,SSAF,1,0,NA,NA,1,16,1
+Puerto Rico,630,LACA,1,0,NA,NA,1,16,1
+Qatar,634,MENA,1,0,NA,NA,1,16,1
+Réunion,638,SSAF,1,0,NA,NA,1,16,1
+Romania,642,EURO,1,0,NA,NA,1,16,1
+Russia,643,EURO,1,0,NA,NA,1,16,1
+Rwanda,646,SSAF,1,0,NA,NA,1,16,1
+St. Lucia,662,LACA,1,0,NA,NA,1,16,1
+Saint Vincent and the Grenadines,670,LACA,1,0,NA,NA,1,16,1
+Sao Tome & Principe,678,SSAF,1,0,NA,NA,1,16,1
+Saudi Arabia,682,MENA,1,0,NA,NA,1,16,1
+Senegal,686,SSAF,1,0,NA,NA,1,16,1
+Serbia,688,EURO,1,0,NA,NA,1,16,1
+Seychelles,690,SSAF,1,0,NA,NA,1,16,1
+Sierra Leone,694,SSAF,1,0,NA,NA,1,16,1
+Singapore,702,ASPA,1,0,NA,NA,1,16,1
+Slovakia,703,EURO,1,0,NA,NA,1,16,1
+Viet Nam,704,ASPA,1,0,NA,NA,1,16,1
+Slovenia,705,EURO,1,0,NA,NA,1,16,1
+Somalia,706,SSAF,1,0,NA,NA,1,16,1
+South Africa,710,SSAF,1,0,NA,NA,1,16,1
+Zimbabwe,716,SSAF,1,0,NA,NA,1,16,1
+Spain,724,EURO,1,0,NA,NA,1,16,1
+South Sudan,728,SSAF,1,0,NA,NA,1,16,1
+Sudan,729,MENA,1,0,NA,NA,1,16,1
+Western Sahara,732,MENA,1,0,NA,NA,1,16,1
+Suriname,740,LACA,1,0,NA,NA,1,16,1
+Eswatini,748,SSAF,1,0,NA,NA,1,16,1
+Sweden,752,EURO,1,0,NA,NA,1,16,1
+Switzerland,756,EURO,1,0,NA,NA,1,16,1
+Syria,760,MENA,1,0,NA,NA,1,16,1
+Tajikistan,762,ASPA,1,0,NA,NA,1,16,1
+Thailand,764,ASPA,1,0,NA,NA,1,16,1
+Togo,768,SSAF,1,0,NA,NA,1,16,1
+Trinidad & Tobago,780,LACA,1,0,NA,NA,1,16,1
+United Arab Emirates,784,MENA,1,0,NA,NA,1,16,1
+Tunisia,788,MENA,1,0,NA,NA,1,16,1
+Türkiye,792,ASPA,1,0,NA,NA,1,16,1
+Uganda,800,SSAF,1,0,NA,NA,1,16,1
+Ukraine,804,EURO,1,0,NA,NA,1,16,1
+North Macedonia,807,EURO,1,0,NA,NA,1,16,1
+Egypt,818,MENA,1,0,NA,NA,1,16,1
+United Kingdom,826,EURO,1,0,NA,NA,1,16,1
+Channel Islands,830,EURO,1,0,NA,NA,1,16,1
+Tanzania,834,SSAF,1,0,NA,NA,1,16,1
+USA,840,NOAM,1,0,NA,NA,1,16,1
+U.S. Virgin Islands,850,LACA,1,0,NA,NA,1,16,1
+Burkina Faso,854,SSAF,1,0,NA,NA,1,16,1
+Uruguay,858,LACA,1,0,NA,NA,1,16,1
+Uzbekistan,860,ASPA,1,0,NA,NA,1,16,1
+Venezuela,862,LACA,1,0,NA,NA,1,16,1
+Yemen,887,MENA,1,0,NA,NA,1,16,1
+Zambia,894,SSAF,1,0,NA,NA,1,16,1
+Macao,446,ASPA,1,0,NA,NA,1,16,1
+North Korea,408,ASPA,1,0,NA,NA,1,16,1
+Turkmenistan,795,ASPA,1,0,NA,NA,1,16,1
+Afghanistan,4,ASPA,1,0,NA,NA,1,16,1
+Bhutan,64,ASPA,1,0,NA,NA,1,16,1
+Iran,364,ASPA,1,0,NA,NA,1,16,1
+Maldives,462,ASPA,1,0,NA,NA,1,16,1
+Brunei,96,ASPA,1,0,NA,NA,1,16,1
+Laos,418,ASPA,1,0,NA,NA,1,16,1
+Myanmar,104,ASPA,1,0,NA,NA,1,16,1
+East Timor,626,ASPA,1,0,NA,NA,1,16,1
+Kiribati,296,ASPA,1,0,NA,NA,1,16,1
+Fiji,242,ASPA,1,0,NA,NA,1,16,1
+New Caledonia,540,ASPA,1,0,NA,NA,1,16,1
+Papua New Guinea,598,ASPA,1,0,NA,NA,1,16,1
+Solomon Islands,90,ASPA,1,0,NA,NA,1,16,1
+Vanuatu,548,ASPA,1,0,NA,NA,1,16,1
+Guam,316,ASPA,1,0,NA,NA,1,16,1
+Micronesia,583,ASPA,1,0,NA,NA,1,16,1
+French Polynesia,258,ASPA,1,0,NA,NA,1,16,1
+Samoa,882,ASPA,1,0,NA,NA,1,16,1
+Tonga,776,ASPA,1,0,NA,NA,1,16,1

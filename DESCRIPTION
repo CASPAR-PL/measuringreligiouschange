@@ -1,0 +1,71 @@
+Package: measuringreligiouschange
+Type: Package
+Title: Demographic projections of religious groups
+Version: 1.0.2
+Date: 2026-11-13
+Authors@R: c(
+    person(
+      "Michał", "Bożek",
+      email = "mbozek@uek.krakow.pl",
+      role = c("aut", "cre")
+    ),
+    person(
+      "Krzysztof", "Kiecoń",
+      email = "kieconk@uek.krakow.pl",
+      role = c("aut")
+    ),
+    person(
+      "Marcin", "Stonawski",
+      email = "stonawsm@uek.krakow.pl",
+      role = c("aut")
+    )
+  )
+Description: Measuringreligiouschange is a package developed by the Center for Advanced Studies of Population and Religion (CASPAR) for a joint project with the Pew Research Center as part of the Pew-Templeton Global Religious Futures project.
+    The software package can generate religious group population projections at the global, regional and national level resulting from initial age-sex composition of populations, demographic processes (fertility, mortality and migration) and religious processes (transmission of religion between generations and religious switching). The package is a flexible tool that can be used to numerically reproduce the projections presented in the Pew Research Center report “The Future of World Religions: Population Growth Projections, 2020-2070”, generate other projection variants based on the included input data, or create projections from user-supplied input data and adjustments to demographic and religious processes.
+    This package may be most useful for users with training in demographic analysis and some experience using and programming in R.
+    For inquiries, please contact: caspar@uek.krakow.pl.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends:
+    methods,
+    R (>= 4.4.0)
+Imports:
+    dplyr,
+    ggplot2,
+    progress,
+    grid,
+    gridExtra,
+    data.table
+Collate: 
+    'plots_methods.R'
+    'region_base.R'
+    'class_base.R'
+    'class_utilities.R'
+    'class_migration.R'
+    'class_projection.R'
+    'class_plots.R'
+    'projection_class_base.R'
+    'projection_class_utilities.R'
+    'projection_class_project.R'
+    'projection_class_saving.R'
+    'projection_class_plots.R'
+    'data_adjustment.R'
+    'Loader.R'
+    'Variants.R'
+    'datasets.R'
+    'measuringreligiouschange-package.R'
+    'plots_comparative.R'
+    'scenarios.R'
+    'wrappers.R'
+    'zzz.R'
+URL: https://github.com/CASPAR-PL/measuringreligiouschange
+BugReports: https://github.com/CASPAR-PL/measuringreligiouschange/issues
+Suggests:
+    testthat (>= 3.0.0),
+    withr,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.1

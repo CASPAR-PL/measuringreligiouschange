@@ -1,0 +1,2815 @@
+Country,Country_code,Region,Sex,Religion,Christians,Muslims,Unaffiliated,Buddhists,Hindus,Jews,Other_Religions
+Afghanistan,4,ASPA,1,Christians,1,0,0,0,0,0,0
+Afghanistan,4,ASPA,1,Muslims,0,1,0,0,0,0,0
+Afghanistan,4,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Afghanistan,4,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Afghanistan,4,ASPA,1,Hindus,0,0,0,0,1,0,0
+Afghanistan,4,ASPA,1,Jews,0,0,0,0,0,1,0
+Afghanistan,4,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Afghanistan,4,ASPA,2,Christians,1,0,0,0,0,0,0
+Afghanistan,4,ASPA,2,Muslims,0,1,0,0,0,0,0
+Afghanistan,4,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Afghanistan,4,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Afghanistan,4,ASPA,2,Hindus,0,0,0,0,1,0,0
+Afghanistan,4,ASPA,2,Jews,0,0,0,0,0,1,0
+Afghanistan,4,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Albania,8,EURO,1,Christians,1,0,0,0,0,0,0
+Albania,8,EURO,1,Muslims,0,1,0,0,0,0,0
+Albania,8,EURO,1,Unaffiliated,0.2332510449,0.7114120206,0.05533693447,0,0,0,0
+Albania,8,EURO,1,Buddhists,0,0,0,1,0,0,0
+Albania,8,EURO,1,Hindus,0,0,0,0,1,0,0
+Albania,8,EURO,1,Jews,0,0,0,0,0,1,0
+Albania,8,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Albania,8,EURO,2,Christians,1,0,0,0,0,0,0
+Albania,8,EURO,2,Muslims,0.006169904510000001,0.9923844744,0.00144562111,0,0,0,0
+Albania,8,EURO,2,Unaffiliated,0.3239836289,0.5921964529,0.08381991813999999,0,0,0,0
+Albania,8,EURO,2,Buddhists,0,0,0,1,0,0,0
+Albania,8,EURO,2,Hindus,0,0,0,0,1,0,0
+Albania,8,EURO,2,Jews,0,0,0,0,0,1,0
+Albania,8,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Algeria,12,MENA,1,Christians,1,0,0,0,0,0,0
+Algeria,12,MENA,1,Muslims,0,1,0,0,0,0,0
+Algeria,12,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Algeria,12,MENA,1,Buddhists,0,0,0,1,0,0,0
+Algeria,12,MENA,1,Hindus,0,0,0,0,1,0,0
+Algeria,12,MENA,1,Jews,0,0,0,0,0,1,0
+Algeria,12,MENA,1,Other_Religions,0,0.4285714286,0,0,0,0,0.5714285713999999
+Algeria,12,MENA,2,Christians,1,0,0,0,0,0,0
+Algeria,12,MENA,2,Muslims,0,1,0,0,0,0,0
+Algeria,12,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Algeria,12,MENA,2,Buddhists,0,0,0,1,0,0,0
+Algeria,12,MENA,2,Hindus,0,0,0,0,1,0,0
+Algeria,12,MENA,2,Jews,0,0,0,0,0,1,0
+Algeria,12,MENA,2,Other_Religions,0,0.4285714286,0,0,0,0,0.5714285713999999
+Angola,24,SSAF,1,Christians,1,0,0,0,0,0,0
+Angola,24,SSAF,1,Muslims,0,1,0,0,0,0,0
+Angola,24,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Angola,24,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Angola,24,SSAF,1,Hindus,0,0,0,0,1,0,0
+Angola,24,SSAF,1,Jews,0,0,0,0,0,1,0
+Angola,24,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Angola,24,SSAF,2,Christians,1,0,0,0,0,0,0
+Angola,24,SSAF,2,Muslims,0,1,0,0,0,0,0
+Angola,24,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Angola,24,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Angola,24,SSAF,2,Hindus,0,0,0,0,1,0,0
+Angola,24,SSAF,2,Jews,0,0,0,0,0,1,0
+Angola,24,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Azerbaijan,31,ASPA,1,Christians,1,0,0,0,0,0,0
+Azerbaijan,31,ASPA,1,Muslims,0,1,0,0,0,0,0
+Azerbaijan,31,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Azerbaijan,31,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Azerbaijan,31,ASPA,1,Hindus,0,0,0,0,1,0,0
+Azerbaijan,31,ASPA,1,Jews,0,0,0,0,0,1,0
+Azerbaijan,31,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Azerbaijan,31,ASPA,2,Christians,1,0,0,0,0,0,0
+Azerbaijan,31,ASPA,2,Muslims,0,1,0,0,0,0,0
+Azerbaijan,31,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Azerbaijan,31,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Azerbaijan,31,ASPA,2,Hindus,0,0,0,0,1,0,0
+Azerbaijan,31,ASPA,2,Jews,0,0,0,0,0,1,0
+Azerbaijan,31,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Argentina,32,LACA,1,Christians,0.7476462522,0,0.23867254970000001,0,0.0020978065300000003,0,0.01158339152
+Argentina,32,LACA,1,Muslims,0,1,0,0,0,0,0
+Argentina,32,LACA,1,Unaffiliated,0.3250873858,0,0.6749126142,0,0,0,0
+Argentina,32,LACA,1,Buddhists,0,0,0,1,0,0,0
+Argentina,32,LACA,1,Hindus,0,0,0,0,1,0,0
+Argentina,32,LACA,1,Jews,0,0,0,0,0,1,0
+Argentina,32,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Argentina,32,LACA,2,Christians,0.8010665368,0,0.18510408739999998,0,0,0,0.01382937584
+Argentina,32,LACA,2,Muslims,0,1,0,0,0,0,0
+Argentina,32,LACA,2,Unaffiliated,0.3405437849,0,0.6594562151,0,0,0,0
+Argentina,32,LACA,2,Buddhists,0,0,0,1,0,0,0
+Argentina,32,LACA,2,Hindus,0,0,0,0,1,0,0
+Argentina,32,LACA,2,Jews,0,0,0,0,0,1,0
+Argentina,32,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Australia,36,ASPA,1,Christians,0.5306508330999999,0,0.4360593737,0.0061662841,0,0.0023579798,0.02476552931
+Australia,36,ASPA,1,Muslims,0,0.8410787388,0.1589212612,0,0,0,0
+Australia,36,ASPA,1,Unaffiliated,0.09217091306,0,0.8749851218000001,0.00861768278,0.00399209924,0,0.020234183080000002
+Australia,36,ASPA,1,Buddhists,0,0,0.453494176,0.46614253769999997,0,0,0.08036328622
+Australia,36,ASPA,1,Hindus,0,0,0.08048673988999999,0,0.9195132601,0,0
+Australia,36,ASPA,1,Jews,0,0,0,0,0,1,0
+Australia,36,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Australia,36,ASPA,2,Christians,0.5686076384,0,0.4299086616,0,0,0,0.00148369997
+Australia,36,ASPA,2,Muslims,0,0.8410787388,0.1589212612,0,0,0,0
+Australia,36,ASPA,2,Unaffiliated,0.0703814538,0,0.8745529431999999,0.02170479387,0,0,0.03336080908
+Australia,36,ASPA,2,Buddhists,0.08058423491,0,0.36530261740000003,0.5541131477,0,0,0
+Australia,36,ASPA,2,Hindus,0,0,0.08048673988999999,0,0.9195132601,0,0
+Australia,36,ASPA,2,Jews,0,0,0,0,0,1,0
+Australia,36,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Austria,40,EURO,1,Christians,0.7243992050999999,0,0.2756007949,0,0,0,0
+Austria,40,EURO,1,Muslims,0,0.9130961314,0.08690386857,0,0,0,0
+Austria,40,EURO,1,Unaffiliated,0.1125348725,0,0.8874651275,0,0,0,0
+Austria,40,EURO,1,Buddhists,0,0,0,1,0,0,0
+Austria,40,EURO,1,Hindus,0,0,0,0,1,0,0
+Austria,40,EURO,1,Jews,0,0,0,0,0,1,0
+Austria,40,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Austria,40,EURO,2,Christians,0.7678227450999999,0,0.2321772549,0,0,0,0
+Austria,40,EURO,2,Muslims,0,0.9508710102000001,0.04912898983,0,0,0,0
+Austria,40,EURO,2,Unaffiliated,0.08018863358999999,0,0.9198113664,0,0,0,0
+Austria,40,EURO,2,Buddhists,0,0,0,1,0,0,0
+Austria,40,EURO,2,Hindus,0,0,0,0,1,0,0
+Austria,40,EURO,2,Jews,0,0,0,0,0,1,0
+Austria,40,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Bahamas,44,LACA,1,Christians,1,0,0,0,0,0,0
+Bahamas,44,LACA,1,Muslims,0,1,0,0,0,0,0
+Bahamas,44,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Bahamas,44,LACA,1,Buddhists,0,0,0,1,0,0,0
+Bahamas,44,LACA,1,Hindus,0,0,0,0,1,0,0
+Bahamas,44,LACA,1,Jews,0,0,0,0,0,1,0
+Bahamas,44,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Bahamas,44,LACA,2,Christians,1,0,0,0,0,0,0
+Bahamas,44,LACA,2,Muslims,0,1,0,0,0,0,0
+Bahamas,44,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Bahamas,44,LACA,2,Buddhists,0,0,0,1,0,0,0
+Bahamas,44,LACA,2,Hindus,0,0,0,0,1,0,0
+Bahamas,44,LACA,2,Jews,0,0,0,0,0,1,0
+Bahamas,44,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Bahrain,48,MENA,1,Christians,1,0,0,0,0,0,0
+Bahrain,48,MENA,1,Muslims,0,1,0,0,0,0,0
+Bahrain,48,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Bahrain,48,MENA,1,Buddhists,0,0,0,1,0,0,0
+Bahrain,48,MENA,1,Hindus,0,0,0,0,1,0,0
+Bahrain,48,MENA,1,Jews,0,0,0,0,0,1,0
+Bahrain,48,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Bahrain,48,MENA,2,Christians,1,0,0,0,0,0,0
+Bahrain,48,MENA,2,Muslims,0,1,0,0,0,0,0
+Bahrain,48,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Bahrain,48,MENA,2,Buddhists,0,0,0,1,0,0,0
+Bahrain,48,MENA,2,Hindus,0,0,0,0,1,0,0
+Bahrain,48,MENA,2,Jews,0,0,0,0,0,1,0
+Bahrain,48,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Bangladesh,50,ASPA,1,Christians,1,0,0,0,0,0,0
+Bangladesh,50,ASPA,1,Muslims,0,1,0,0,0,0,0
+Bangladesh,50,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Bangladesh,50,ASPA,1,Buddhists,0,0,0,0.9845272474,0.01547275256,0,0
+Bangladesh,50,ASPA,1,Hindus,0,0.015740570920000002,0,0.01851576118,0.9657436679,0,0
+Bangladesh,50,ASPA,1,Jews,0,0,0,0,0,1,0
+Bangladesh,50,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Bangladesh,50,ASPA,2,Christians,1,0,0,0,0,0,0
+Bangladesh,50,ASPA,2,Muslims,5.1666128e-4,0.9962576445000001,0,0.00145814383,0.0017675504,0,0
+Bangladesh,50,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Bangladesh,50,ASPA,2,Buddhists,0,0,0,0.9845272474,0.01547275256,0,0
+Bangladesh,50,ASPA,2,Hindus,0,0,0,0,1,0,0
+Bangladesh,50,ASPA,2,Jews,0,0,0,0,0,1,0
+Bangladesh,50,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Armenia,51,ASPA,1,Christians,0.9771766605000001,0,0.01417704021,0.00116359936,0,0.006658740010000001,8.239599000000001e-4
+Armenia,51,ASPA,1,Muslims,0,1,0,0,0,0,0
+Armenia,51,ASPA,1,Unaffiliated,0.7078799354,0,0.2921200646,0,0,0,0
+Armenia,51,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Armenia,51,ASPA,1,Hindus,0,0,0,0,1,0,0
+Armenia,51,ASPA,1,Jews,0,0,0,0,0,1,0
+Armenia,51,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Armenia,51,ASPA,2,Christians,0.9887355368,0,0.01126446319,0,0,0,0
+Armenia,51,ASPA,2,Muslims,0,1,0,0,0,0,0
+Armenia,51,ASPA,2,Unaffiliated,0.712776005,0,0.287223995,0,0,0,0
+Armenia,51,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Armenia,51,ASPA,2,Hindus,0,0,0,0,1,0,0
+Armenia,51,ASPA,2,Jews,0,0,0,0,0,1,0
+Armenia,51,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Barbados,52,LACA,1,Christians,1,0,0,0,0,0,0
+Barbados,52,LACA,1,Muslims,0,1,0,0,0,0,0
+Barbados,52,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Barbados,52,LACA,1,Buddhists,0,0,0,1,0,0,0
+Barbados,52,LACA,1,Hindus,0,0,0,0,1,0,0
+Barbados,52,LACA,1,Jews,0,0,0,0,0,1,0
+Barbados,52,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Barbados,52,LACA,2,Christians,1,0,0,0,0,0,0
+Barbados,52,LACA,2,Muslims,0,1,0,0,0,0,0
+Barbados,52,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Barbados,52,LACA,2,Buddhists,0,0,0,1,0,0,0
+Barbados,52,LACA,2,Hindus,0,0,0,0,1,0,0
+Barbados,52,LACA,2,Jews,0,0,0,0,0,1,0
+Barbados,52,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Belgium,56,EURO,1,Christians,0.5741949784,0.005169999450000001,0.41111220969999995,0.00701204457,0,0,0.00251076792
+Belgium,56,EURO,1,Muslims,0,0.8498938394,0.1501061606,0,0,0,0
+Belgium,56,EURO,1,Unaffiliated,0.07155740966,0.02240192228,0.8688774164,0.03201804664,0,0,0.005145205000000001
+Belgium,56,EURO,1,Buddhists,0,0,0,1,0,0,0
+Belgium,56,EURO,1,Hindus,0,0,0,0,1,0,0
+Belgium,56,EURO,1,Jews,0,0,0,0,0,1,0
+Belgium,56,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Belgium,56,EURO,2,Christians,0.6528730403999999,0.02024111156,0.2972419661,0.01934260826,0.00147425692,0,0.00882701681
+Belgium,56,EURO,2,Muslims,0,0.7594558915,0.1513095528,0,0,0,0.08923455569
+Belgium,56,EURO,2,Unaffiliated,0.10985272419999999,0.01792225801,0.8566644911,0.015560526669999998,0,0,0
+Belgium,56,EURO,2,Buddhists,0,0,0,1,0,0,0
+Belgium,56,EURO,2,Hindus,0,0,0,0,1,0,0
+Belgium,56,EURO,2,Jews,0,0,0,0,0,1,0
+Belgium,56,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Bhutan,64,ASPA,1,Christians,1,0,0,0,0,0,0
+Bhutan,64,ASPA,1,Muslims,0,1,0,0,0,0,0
+Bhutan,64,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Bhutan,64,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Bhutan,64,ASPA,1,Hindus,0,0,0,0,1,0,0
+Bhutan,64,ASPA,1,Jews,0,0,0,0,0,1,0
+Bhutan,64,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Bhutan,64,ASPA,2,Christians,1,0,0,0,0,0,0
+Bhutan,64,ASPA,2,Muslims,0,1,0,0,0,0,0
+Bhutan,64,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Bhutan,64,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Bhutan,64,ASPA,2,Hindus,0,0,0,0,1,0,0
+Bhutan,64,ASPA,2,Jews,0,0,0,0,0,1,0
+Bhutan,64,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Bolivia,68,LACA,1,Christians,0.9529962430000001,0,0.04635289137,0,0,0,6.5086562e-4
+Bolivia,68,LACA,1,Muslims,0,1,0,0,0,0,0
+Bolivia,68,LACA,1,Unaffiliated,0.6169353502,0,0.33020580860000004,0,0,0,0.05285884120999999
+Bolivia,68,LACA,1,Buddhists,0,0,0,1,0,0,0
+Bolivia,68,LACA,1,Hindus,0,0,0,0,1,0,0
+Bolivia,68,LACA,1,Jews,0,0,0,0,0,1,0
+Bolivia,68,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Bolivia,68,LACA,2,Christians,0.9690875755,0,0.028554917319999998,0,0,0,0.00235750718
+Bolivia,68,LACA,2,Muslims,0,1,0,0,0,0,0
+Bolivia,68,LACA,2,Unaffiliated,0.6169353502,0,0.33020580860000004,0,0,0,0.05285884120999999
+Bolivia,68,LACA,2,Buddhists,0,0,0,1,0,0,0
+Bolivia,68,LACA,2,Hindus,0,0,0,0,1,0,0
+Bolivia,68,LACA,2,Jews,0,0,0,0,0,1,0
+Bolivia,68,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Bosnia and Herzegovina,70,EURO,1,Christians,0.9918228215,0,0.00817717845,0,0,0,0
+Bosnia and Herzegovina,70,EURO,1,Muslims,0.00494556962,0.9712439869,0.023810443499999997,0,0,0,0
+Bosnia and Herzegovina,70,EURO,1,Unaffiliated,0.1630918599,0.6331394578,0.2037686823,0,0,0,0
+Bosnia and Herzegovina,70,EURO,1,Buddhists,0,0,0,1,0,0,0
+Bosnia and Herzegovina,70,EURO,1,Hindus,0,0,0,0,1,0,0
+Bosnia and Herzegovina,70,EURO,1,Jews,0,0,0,0,0,1,0
+Bosnia and Herzegovina,70,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Bosnia and Herzegovina,70,EURO,2,Christians,0.9834778710000001,0,0.01308634372,0,0,0,0.0034357853100000003
+Bosnia and Herzegovina,70,EURO,2,Muslims,0.00277446448,0.9928256994,0.00439983609,0,0,0,0
+Bosnia and Herzegovina,70,EURO,2,Unaffiliated,0.1668227722,0.2777854732,0.48067248890000003,0,0,0,0.07471926569
+Bosnia and Herzegovina,70,EURO,2,Buddhists,0,0,0,1,0,0,0
+Bosnia and Herzegovina,70,EURO,2,Hindus,0,0,0,0,1,0,0
+Bosnia and Herzegovina,70,EURO,2,Jews,0,0,0,0,0,1,0
+Bosnia and Herzegovina,70,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Botswana,72,SSAF,1,Christians,0.9247048397000001,0.00366443917,0.06250320971,0,0,0,0.00912751146
+Botswana,72,SSAF,1,Muslims,0,1,0,0,0,0,0
+Botswana,72,SSAF,1,Unaffiliated,0.5694745635999999,0,0.4305254364,0,0,0,0
+Botswana,72,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Botswana,72,SSAF,1,Hindus,0,0,0,0,1,0,0
+Botswana,72,SSAF,1,Jews,0,0,0,0,0,1,0
+Botswana,72,SSAF,1,Other_Religions,0.4285985358,0,0.347677578,0,0,0,0.2237238862
+Botswana,72,SSAF,2,Christians,0.9519265977000001,0.0020679120200000002,0.04600549027,0,0,0,0
+Botswana,72,SSAF,2,Muslims,0,1,0,0,0,0,0
+Botswana,72,SSAF,2,Unaffiliated,0.5694745635999999,0,0.4305254364,0,0,0,0
+Botswana,72,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Botswana,72,SSAF,2,Hindus,0,0,0,0,1,0,0
+Botswana,72,SSAF,2,Jews,0,0,0,0,0,1,0
+Botswana,72,SSAF,2,Other_Religions,0.4285985358,0,0.347677578,0,0,0,0.2237238862
+Brazil,76,LACA,1,Christians,0.8136439944,0,0.1512672654,0.0042412048099999995,0,0,0.03084753534
+Brazil,76,LACA,1,Muslims,0,1,0,0,0,0,0
+Brazil,76,LACA,1,Unaffiliated,0.3517878383,0,0.5896841945,0,0,0,0.058527967199999996
+Brazil,76,LACA,1,Buddhists,0,0,0,1,0,0,0
+Brazil,76,LACA,1,Hindus,0,0,0,0,1,0,0
+Brazil,76,LACA,1,Jews,0,0,0,0,0,1,0
+Brazil,76,LACA,1,Other_Religions,0.1578734633,0,0.09881158812,0,0,0.01070758992,0.7326073587
+Brazil,76,LACA,2,Christians,0.8180574472000001,0,0.1285529873,0,0,0,0.05338956552
+Brazil,76,LACA,2,Muslims,0,1,0,0,0,0,0
+Brazil,76,LACA,2,Unaffiliated,0.3517878383,0,0.5896841945,0,0,0,0.058527967199999996
+Brazil,76,LACA,2,Buddhists,0,0,0,1,0,0,0
+Brazil,76,LACA,2,Hindus,0,0,0,0,1,0,0
+Brazil,76,LACA,2,Jews,0,0,0,0,0,1,0
+Brazil,76,LACA,2,Other_Religions,0.1578734633,0,0.09881158812,0,0,0.01070758992,0.7326073587
+Belize,84,LACA,1,Christians,1,0,0,0,0,0,0
+Belize,84,LACA,1,Muslims,0,1,0,0,0,0,0
+Belize,84,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Belize,84,LACA,1,Buddhists,0,0,0,1,0,0,0
+Belize,84,LACA,1,Hindus,0,0,0,0,1,0,0
+Belize,84,LACA,1,Jews,0,0,0,0,0,1,0
+Belize,84,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Belize,84,LACA,2,Christians,1,0,0,0,0,0,0
+Belize,84,LACA,2,Muslims,0,1,0,0,0,0,0
+Belize,84,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Belize,84,LACA,2,Buddhists,0,0,0,1,0,0,0
+Belize,84,LACA,2,Hindus,0,0,0,0,1,0,0
+Belize,84,LACA,2,Jews,0,0,0,0,0,1,0
+Belize,84,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Solomon Islands,90,ASPA,1,Christians,1,0,0,0,0,0,0
+Solomon Islands,90,ASPA,1,Muslims,0,1,0,0,0,0,0
+Solomon Islands,90,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Solomon Islands,90,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Solomon Islands,90,ASPA,1,Hindus,0,0,0,0,1,0,0
+Solomon Islands,90,ASPA,1,Jews,0,0,0,0,0,1,0
+Solomon Islands,90,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Solomon Islands,90,ASPA,2,Christians,1,0,0,0,0,0,0
+Solomon Islands,90,ASPA,2,Muslims,0,1,0,0,0,0,0
+Solomon Islands,90,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Solomon Islands,90,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Solomon Islands,90,ASPA,2,Hindus,0,0,0,0,1,0,0
+Solomon Islands,90,ASPA,2,Jews,0,0,0,0,0,1,0
+Solomon Islands,90,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Brunei,96,ASPA,1,Christians,1,0,0,0,0,0,0
+Brunei,96,ASPA,1,Muslims,0,1,0,0,0,0,0
+Brunei,96,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Brunei,96,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Brunei,96,ASPA,1,Hindus,0,0,0,0,1,0,0
+Brunei,96,ASPA,1,Jews,0,0,0,0,0,1,0
+Brunei,96,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Brunei,96,ASPA,2,Christians,1,0,0,0,0,0,0
+Brunei,96,ASPA,2,Muslims,0,1,0,0,0,0,0
+Brunei,96,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Brunei,96,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Brunei,96,ASPA,2,Hindus,0,0,0,0,1,0,0
+Brunei,96,ASPA,2,Jews,0,0,0,0,0,1,0
+Brunei,96,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Bulgaria,100,EURO,1,Christians,0.8979515394,0,0.1020484606,0,0,0,0
+Bulgaria,100,EURO,1,Muslims,0,1,0,0,0,0,0
+Bulgaria,100,EURO,1,Unaffiliated,0.37731777219999996,0.09668844902,0.5259937788,0,0,0,0
+Bulgaria,100,EURO,1,Buddhists,0,0,0,1,0,0,0
+Bulgaria,100,EURO,1,Hindus,0,0,0,0,1,0,0
+Bulgaria,100,EURO,1,Jews,0,0,0,0,0,1,0
+Bulgaria,100,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Bulgaria,100,EURO,2,Christians,0.9829219596000001,0,0.01707804039,0,0,0,0
+Bulgaria,100,EURO,2,Muslims,0,1,0,0,0,0,0
+Bulgaria,100,EURO,2,Unaffiliated,0.37731777219999996,0.09668844902,0.5259937788,0,0,0,0
+Bulgaria,100,EURO,2,Buddhists,0,0,0,1,0,0,0
+Bulgaria,100,EURO,2,Hindus,0,0,0,0,1,0,0
+Bulgaria,100,EURO,2,Jews,0,0,0,0,0,1,0
+Bulgaria,100,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Myanmar,104,ASPA,1,Christians,1,0,0,0,0,0,0
+Myanmar,104,ASPA,1,Muslims,0,1,0,0,0,0,0
+Myanmar,104,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Myanmar,104,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Myanmar,104,ASPA,1,Hindus,0,0,0,0,1,0,0
+Myanmar,104,ASPA,1,Jews,0,0,0,0,0,1,0
+Myanmar,104,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Myanmar,104,ASPA,2,Christians,1,0,0,0,0,0,0
+Myanmar,104,ASPA,2,Muslims,0,1,0,0,0,0,0
+Myanmar,104,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Myanmar,104,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Myanmar,104,ASPA,2,Hindus,0,0,0,0,1,0,0
+Myanmar,104,ASPA,2,Jews,0,0,0,0,0,1,0
+Myanmar,104,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Burundi,108,SSAF,1,Christians,1,0,0,0,0,0,0
+Burundi,108,SSAF,1,Muslims,0,1,0,0,0,0,0
+Burundi,108,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Burundi,108,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Burundi,108,SSAF,1,Hindus,0,0,0,0,1,0,0
+Burundi,108,SSAF,1,Jews,0,0,0,0,0,1,0
+Burundi,108,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Burundi,108,SSAF,2,Christians,1,0,0,0,0,0,0
+Burundi,108,SSAF,2,Muslims,0,1,0,0,0,0,0
+Burundi,108,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Burundi,108,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Burundi,108,SSAF,2,Hindus,0,0,0,0,1,0,0
+Burundi,108,SSAF,2,Jews,0,0,0,0,0,1,0
+Burundi,108,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Belarus,112,EURO,1,Christians,0.9596227853000001,0,0.03625573924,0.004121475439999999,0,0,0
+Belarus,112,EURO,1,Muslims,0,1,0,0,0,0,0
+Belarus,112,EURO,1,Unaffiliated,0.7082343135000001,0,0.2917656865,0,0,0,0
+Belarus,112,EURO,1,Buddhists,0,0,0,1,0,0,0
+Belarus,112,EURO,1,Hindus,0,0,0,0,1,0,0
+Belarus,112,EURO,1,Jews,0,0,0,0,0,1,0
+Belarus,112,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Belarus,112,EURO,2,Christians,0.9797644939,0,0.01240454294,0,0,0,0.00783096311
+Belarus,112,EURO,2,Muslims,0,1,0,0,0,0,0
+Belarus,112,EURO,2,Unaffiliated,0.7082343135000001,0,0.2917656865,0,0,0,0
+Belarus,112,EURO,2,Buddhists,0,0,0,1,0,0,0
+Belarus,112,EURO,2,Hindus,0,0,0,0,1,0,0
+Belarus,112,EURO,2,Jews,0,0,0,0,0,1,0
+Belarus,112,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Cambodia,116,ASPA,1,Christians,1,0,0,0,0,0,0
+Cambodia,116,ASPA,1,Muslims,0,0.9631346569999999,0,0.03686534304,0,0,0
+Cambodia,116,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Cambodia,116,ASPA,1,Buddhists,0.0064732097099999995,0,0,0.9935267903,0,0,0
+Cambodia,116,ASPA,1,Hindus,0,0,0,0,1,0,0
+Cambodia,116,ASPA,1,Jews,0,0,0,0,0,1,0
+Cambodia,116,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Cambodia,116,ASPA,2,Christians,1,0,0,0,0,0,0
+Cambodia,116,ASPA,2,Muslims,0,0.9631346569999999,0,0.03686534304,0,0,0
+Cambodia,116,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Cambodia,116,ASPA,2,Buddhists,0.00817734537,0,0,0.9918226546,0,0,0
+Cambodia,116,ASPA,2,Hindus,0,0,0,0,1,0,0
+Cambodia,116,ASPA,2,Jews,0,0,0,0,0,1,0
+Cambodia,116,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Cameroon,120,SSAF,1,Christians,0.9803571429,0.008928571429999999,0.01071428571,0,0,0,0
+Cameroon,120,SSAF,1,Muslims,0.036231884060000004,0.9565217391,0.00724637681,0,0,0,0
+Cameroon,120,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Cameroon,120,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Cameroon,120,SSAF,1,Hindus,0,0,0,0,1,0,0
+Cameroon,120,SSAF,1,Jews,0,0,0,0,0,1,0
+Cameroon,120,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Cameroon,120,SSAF,2,Christians,0.9803571429,0.008928571429999999,0.01071428571,0,0,0,0
+Cameroon,120,SSAF,2,Muslims,0.054054054049999994,0.9324324324,0.013513513509999998,0,0,0,0
+Cameroon,120,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Cameroon,120,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Cameroon,120,SSAF,2,Hindus,0,0,0,0,1,0,0
+Cameroon,120,SSAF,2,Jews,0,0,0,0,0,1,0
+Cameroon,120,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Canada,124,NOAM,1,Christians,0.5723372889,0.00595607109,0.4089867531,0,0,0,0.012719886920000001
+Canada,124,NOAM,1,Muslims,0,1,0,0,0,0,0
+Canada,124,NOAM,1,Unaffiliated,0.1087554062,0,0.8470841944999999,0,0,0.00907967529,0.035080724
+Canada,124,NOAM,1,Buddhists,0,0,0,1,0,0,0
+Canada,124,NOAM,1,Hindus,0,0,0,0,1,0,0
+Canada,124,NOAM,1,Jews,0,0,0,0,0,1,0
+Canada,124,NOAM,1,Other_Religions,0.3064977743,0.06255116974,0.2728243542,0,0,0,0.3581267018
+Canada,124,NOAM,2,Christians,0.5184530207,0,0.4498693916,0,0,0,0.031677587699999996
+Canada,124,NOAM,2,Muslims,0,1,0,0,0,0,0
+Canada,124,NOAM,2,Unaffiliated,0.1288758893,0,0.8062103362999999,0,0,0.019026469690000002,0.045887304770000005
+Canada,124,NOAM,2,Buddhists,0,0,0,1,0,0,0
+Canada,124,NOAM,2,Hindus,0,0,0,0,1,0,0
+Canada,124,NOAM,2,Jews,0,0,0,0,0,1,0
+Canada,124,NOAM,2,Other_Religions,0.3064977743,0.06255116974,0.2728243542,0,0,0,0.3581267018
+Cape Verde,132,SSAF,1,Christians,1,0,0,0,0,0,0
+Cape Verde,132,SSAF,1,Muslims,0,1,0,0,0,0,0
+Cape Verde,132,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Cape Verde,132,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Cape Verde,132,SSAF,1,Hindus,0,0,0,0,1,0,0
+Cape Verde,132,SSAF,1,Jews,0,0,0,0,0,1,0
+Cape Verde,132,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Cape Verde,132,SSAF,2,Christians,1,0,0,0,0,0,0
+Cape Verde,132,SSAF,2,Muslims,0,1,0,0,0,0,0
+Cape Verde,132,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Cape Verde,132,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Cape Verde,132,SSAF,2,Hindus,0,0,0,0,1,0,0
+Cape Verde,132,SSAF,2,Jews,0,0,0,0,0,1,0
+Cape Verde,132,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Central African Republic,140,SSAF,1,Christians,1,0,0,0,0,0,0
+Central African Republic,140,SSAF,1,Muslims,0,1,0,0,0,0,0
+Central African Republic,140,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Central African Republic,140,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Central African Republic,140,SSAF,1,Hindus,0,0,0,0,1,0,0
+Central African Republic,140,SSAF,1,Jews,0,0,0,0,0,1,0
+Central African Republic,140,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Central African Republic,140,SSAF,2,Christians,1,0,0,0,0,0,0
+Central African Republic,140,SSAF,2,Muslims,0,1,0,0,0,0,0
+Central African Republic,140,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Central African Republic,140,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Central African Republic,140,SSAF,2,Hindus,0,0,0,0,1,0,0
+Central African Republic,140,SSAF,2,Jews,0,0,0,0,0,1,0
+Central African Republic,140,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Sri Lanka,144,ASPA,1,Christians,0.9872254278,0,0,0.0127745722,0,0,0
+Sri Lanka,144,ASPA,1,Muslims,0,1,0,0,0,0,0
+Sri Lanka,144,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Sri Lanka,144,ASPA,1,Buddhists,0.00760042784,0.0026585486200000003,0.0055819873499999995,0.9841590361999999,0,0,0
+Sri Lanka,144,ASPA,1,Hindus,0.1205638134,0,0.00339334533,0,0.8760428412,0,0
+Sri Lanka,144,ASPA,1,Jews,0,0,0,0,0,1,0
+Sri Lanka,144,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Sri Lanka,144,ASPA,2,Christians,0.8634678667,0,0,0.10698830470000001,0.0295438286,0,0
+Sri Lanka,144,ASPA,2,Muslims,0,1,0,0,0,0,0
+Sri Lanka,144,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Sri Lanka,144,ASPA,2,Buddhists,0.020890100130000002,0.0042750611,0.00171249602,0.9715407435,0.00158159924,0,0
+Sri Lanka,144,ASPA,2,Hindus,0.061867691870000005,0.01509893071,0.013752170619999999,0.01555387872,0.8937273281,0,0
+Sri Lanka,144,ASPA,2,Jews,0,0,0,0,0,1,0
+Sri Lanka,144,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Chad,148,SSAF,1,Christians,0.9692307692,0.00923076923,0.02153846154,0,0,0,0
+Chad,148,SSAF,1,Muslims,0.00215982721,0.9913606910999999,0.00647948164,0,0,0,0
+Chad,148,SSAF,1,Unaffiliated,0.2727272727,0.1212121212,0.5757575758,0,0,0,0.0303030303
+Chad,148,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Chad,148,SSAF,1,Hindus,0,0,0,0,1,0,0
+Chad,148,SSAF,1,Jews,0,0,0,0,0,1,0
+Chad,148,SSAF,1,Other_Religions,0.10810810809999999,0.08108108107999999,0.027027027029999998,0,0,0,0.7837837838
+Chad,148,SSAF,2,Christians,0.9676113359999999,0.01214574899,0.01214574899,0,0,0,0.00809716599
+Chad,148,SSAF,2,Muslims,0.00343642612,0.9931271477999999,0,0,0,0,0.00343642612
+Chad,148,SSAF,2,Unaffiliated,0.1578947368,0.1052631579,0.6842105263,0,0,0,0.05263157895
+Chad,148,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Chad,148,SSAF,2,Hindus,0,0,0,0,1,0,0
+Chad,148,SSAF,2,Jews,0,0,0,0,0,1,0
+Chad,148,SSAF,2,Other_Religions,0.125,0,0.125,0,0,0,0.75
+Chile,152,LACA,1,Christians,0.5968290369,0,0.40317096309999995,0,0,0,0
+Chile,152,LACA,1,Muslims,0,1,0,0,0,0,0
+Chile,152,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Chile,152,LACA,1,Buddhists,0,0,0,1,0,0,0
+Chile,152,LACA,1,Hindus,0,0,0,0,1,0,0
+Chile,152,LACA,1,Jews,0,0,0,0,0,1,0
+Chile,152,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Chile,152,LACA,2,Christians,0.6253997782999999,0,0.3746002217,0,0,0,0
+Chile,152,LACA,2,Muslims,0,1,0,0,0,0,0
+Chile,152,LACA,2,Unaffiliated,0.08880914938000001,0,0.9111908506,0,0,0,0
+Chile,152,LACA,2,Buddhists,0,0,0,1,0,0,0
+Chile,152,LACA,2,Hindus,0,0,0,0,1,0,0
+Chile,152,LACA,2,Jews,0,0,0,0,0,1,0
+Chile,152,LACA,2,Other_Religions,0,0,0,0,0,0,1
+China,156,ASPA,1,Christians,0.3281406764,0,0.6718593236,0,0,0,0
+China,156,ASPA,1,Muslims,0,0.958086711,0.04191328898,0,0,0,0
+China,156,ASPA,1,Unaffiliated,0.00601591822,3.1704667999999997e-4,0.9802221508,0.00958727892,0,0,0.0038576054199999997
+China,156,ASPA,1,Buddhists,0,0,0.528319847,0.4405524036,0,0,0.03112774946
+China,156,ASPA,1,Hindus,0,0,0,0,1,0,0
+China,156,ASPA,1,Jews,0,0,0,0,0,1,0
+China,156,ASPA,1,Other_Religions,0,0,0.20784227770000002,0.01079707647,0,0,0.7813606459
+China,156,ASPA,2,Christians,0.3300188695,0.03183623961,0.5514431342,0.08670175673,0,0,0
+China,156,ASPA,2,Muslims,0,1,0,0,0,0,0
+China,156,ASPA,2,Unaffiliated,0.01157436089,0.00165233357,0.9646840253000001,0.017857025550000002,0,0,0.00423225473
+China,156,ASPA,2,Buddhists,0,0,0.5691881707,0.4206295901,0,0,0.01018223919
+China,156,ASPA,2,Hindus,0,0,0,0,1,0,0
+China,156,ASPA,2,Jews,0,0,0,0,0,1,0
+China,156,ASPA,2,Other_Religions,0,0,0.2726890863,0.03077064401,0,0,0.6965402695999999
+"China, Taiwan Province of China",158,ASPA,1,Christians,0.4816332709,0,0.3487280463,0.010428270019999998,0,0,0.1592104128
+"China, Taiwan Province of China",158,ASPA,1,Muslims,0,1,0,0,0,0,0
+"China, Taiwan Province of China",158,ASPA,1,Unaffiliated,0.011265764869999998,0,0.6008321667,0.1328125013,0,0,0.25508956709999997
+"China, Taiwan Province of China",158,ASPA,1,Buddhists,0.01588204959,0,0.2518548139,0.6128867832,0,0,0.11937635330000002
+"China, Taiwan Province of China",158,ASPA,1,Hindus,0,0,0,0,1,0,0
+"China, Taiwan Province of China",158,ASPA,1,Jews,0,0,0,0,0,1,0
+"China, Taiwan Province of China",158,ASPA,1,Other_Religions,0.0322396946,0,0.3274940067,0.07689353966,0,0,0.5633727590000001
+"China, Taiwan Province of China",158,ASPA,2,Christians,0.6135650921,0,0.2315116101,0.1125559241,0,0,0.042367373720000004
+"China, Taiwan Province of China",158,ASPA,2,Muslims,0,1,0,0,0,0,0
+"China, Taiwan Province of China",158,ASPA,2,Unaffiliated,0.049800219529999995,0,0.5372901897,0.2665266992,0,0,0.14638289159999998
+"China, Taiwan Province of China",158,ASPA,2,Buddhists,0.05107468915,0,0.23187573220000002,0.6279040413,0,0,0.08914553739
+"China, Taiwan Province of China",158,ASPA,2,Hindus,0,0,0,0,1,0,0
+"China, Taiwan Province of China",158,ASPA,2,Jews,0,0,0,0,0,1,0
+"China, Taiwan Province of China",158,ASPA,2,Other_Religions,0.04418205049,0,0.298036646,0.08084106686,0,0,0.5769402367
+Colombia,170,LACA,1,Christians,0.7207102204,0,0.268740104,0,0,0,0.01054967563
+Colombia,170,LACA,1,Muslims,0,1,0,0,0,0,0
+Colombia,170,LACA,1,Unaffiliated,0.51259882,0,0.48740118000000004,0,0,0,0
+Colombia,170,LACA,1,Buddhists,0,0,0,1,0,0,0
+Colombia,170,LACA,1,Hindus,0,0,0,0,1,0,0
+Colombia,170,LACA,1,Jews,0,0,0,0,0,1,0
+Colombia,170,LACA,1,Other_Religions,0.38202055020000003,0,0.5911171351,0,0,0,0.02686231465
+Colombia,170,LACA,2,Christians,0.7582037355,0,0.2403244943,0,0,0,0.0014717702699999999
+Colombia,170,LACA,2,Muslims,0,1,0,0,0,0,0
+Colombia,170,LACA,2,Unaffiliated,0.4334978591,0,0.5665021409,0,0,0,0
+Colombia,170,LACA,2,Buddhists,0,0,0,1,0,0,0
+Colombia,170,LACA,2,Hindus,0,0,0,0,1,0,0
+Colombia,170,LACA,2,Jews,0,0,0,0,0,1,0
+Colombia,170,LACA,2,Other_Religions,0.38202055020000003,0,0.5911171351,0,0,0,0.02686231465
+Comoros,174,SSAF,1,Christians,1,0,0,0,0,0,0
+Comoros,174,SSAF,1,Muslims,0,1,0,0,0,0,0
+Comoros,174,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Comoros,174,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Comoros,174,SSAF,1,Hindus,0,0,0,0,1,0,0
+Comoros,174,SSAF,1,Jews,0,0,0,0,0,1,0
+Comoros,174,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Comoros,174,SSAF,2,Christians,1,0,0,0,0,0,0
+Comoros,174,SSAF,2,Muslims,0,1,0,0,0,0,0
+Comoros,174,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Comoros,174,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Comoros,174,SSAF,2,Hindus,0,0,0,0,1,0,0
+Comoros,174,SSAF,2,Jews,0,0,0,0,0,1,0
+Comoros,174,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Mayotte,175,SSAF,1,Christians,1,0,0,0,0,0,0
+Mayotte,175,SSAF,1,Muslims,0,1,0,0,0,0,0
+Mayotte,175,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Mayotte,175,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Mayotte,175,SSAF,1,Hindus,0,0,0,0,1,0,0
+Mayotte,175,SSAF,1,Jews,0,0,0,0,0,1,0
+Mayotte,175,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Mayotte,175,SSAF,2,Christians,1,0,0,0,0,0,0
+Mayotte,175,SSAF,2,Muslims,0,1,0,0,0,0,0
+Mayotte,175,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Mayotte,175,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Mayotte,175,SSAF,2,Hindus,0,0,0,0,1,0,0
+Mayotte,175,SSAF,2,Jews,0,0,0,0,0,1,0
+Mayotte,175,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Congo,178,SSAF,1,Christians,1,0,0,0,0,0,0
+Congo,178,SSAF,1,Muslims,0,1,0,0,0,0,0
+Congo,178,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Congo,178,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Congo,178,SSAF,1,Hindus,0,0,0,0,1,0,0
+Congo,178,SSAF,1,Jews,0,0,0,0,0,1,0
+Congo,178,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Congo,178,SSAF,2,Christians,1,0,0,0,0,0,0
+Congo,178,SSAF,2,Muslims,0,1,0,0,0,0,0
+Congo,178,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Congo,178,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Congo,178,SSAF,2,Hindus,0,0,0,0,1,0,0
+Congo,178,SSAF,2,Jews,0,0,0,0,0,1,0
+Congo,178,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+"Congo, Dem. Rep.",180,SSAF,1,Christians,1,0,0,0,0,0,0
+"Congo, Dem. Rep.",180,SSAF,1,Muslims,0,1,0,0,0,0,0
+"Congo, Dem. Rep.",180,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+"Congo, Dem. Rep.",180,SSAF,1,Buddhists,0,0,0,1,0,0,0
+"Congo, Dem. Rep.",180,SSAF,1,Hindus,0,0,0,0,1,0,0
+"Congo, Dem. Rep.",180,SSAF,1,Jews,0,0,0,0,0,1,0
+"Congo, Dem. Rep.",180,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+"Congo, Dem. Rep.",180,SSAF,2,Christians,1,0,0,0,0,0,0
+"Congo, Dem. Rep.",180,SSAF,2,Muslims,0,1,0,0,0,0,0
+"Congo, Dem. Rep.",180,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+"Congo, Dem. Rep.",180,SSAF,2,Buddhists,0,0,0,1,0,0,0
+"Congo, Dem. Rep.",180,SSAF,2,Hindus,0,0,0,0,1,0,0
+"Congo, Dem. Rep.",180,SSAF,2,Jews,0,0,0,0,0,1,0
+"Congo, Dem. Rep.",180,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Costa Rica,188,LACA,1,Christians,0.9016832150999999,0,0.09747917178,0,0,0,8.376131400000001e-4
+Costa Rica,188,LACA,1,Muslims,0,1,0,0,0,0,0
+Costa Rica,188,LACA,1,Unaffiliated,0.259355835,0,0.740644165,0,0,0,0
+Costa Rica,188,LACA,1,Buddhists,0,0,0,1,0,0,0
+Costa Rica,188,LACA,1,Hindus,0,0,0,0,1,0,0
+Costa Rica,188,LACA,1,Jews,0,0,0,0,0,1,0
+Costa Rica,188,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Costa Rica,188,LACA,2,Christians,0.9435217901999999,0,0.05090501705,0,0,0.00222668933,0.00334650345
+Costa Rica,188,LACA,2,Muslims,0,1,0,0,0,0,0
+Costa Rica,188,LACA,2,Unaffiliated,0.3474620171,0,0.6525379829000001,0,0,0,0
+Costa Rica,188,LACA,2,Buddhists,0,0,0,1,0,0,0
+Costa Rica,188,LACA,2,Hindus,0,0,0,0,1,0,0
+Costa Rica,188,LACA,2,Jews,0,0,0,0,0,1,0
+Costa Rica,188,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Croatia,191,EURO,1,Christians,0.9499876711999999,0,0.05001232882,0,0,0,0
+Croatia,191,EURO,1,Muslims,0.12308906049999999,0.8769109395,0,0,0,0,0
+Croatia,191,EURO,1,Unaffiliated,0.4431044723,0,0.5568955277,0,0,0,0
+Croatia,191,EURO,1,Buddhists,0,0,0,1,0,0,0
+Croatia,191,EURO,1,Hindus,0,0,0,0,1,0,0
+Croatia,191,EURO,1,Jews,0,0,0,0,0,1,0
+Croatia,191,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Croatia,191,EURO,2,Christians,0.9689158460999999,0,0.03108415388,0,0,0,0
+Croatia,191,EURO,2,Muslims,0.12308906049999999,0.8769109395,0,0,0,0,0
+Croatia,191,EURO,2,Unaffiliated,0.1495353477,0,0.8504646522999999,0,0,0,0
+Croatia,191,EURO,2,Buddhists,0,0,0,1,0,0,0
+Croatia,191,EURO,2,Hindus,0,0,0,0,1,0,0
+Croatia,191,EURO,2,Jews,0,0,0,0,0,1,0
+Croatia,191,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Cuba,192,LACA,1,Christians,1,0,0,0,0,0,0
+Cuba,192,LACA,1,Muslims,0,1,0,0,0,0,0
+Cuba,192,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Cuba,192,LACA,1,Buddhists,0,0,0,1,0,0,0
+Cuba,192,LACA,1,Hindus,0,0,0,0,1,0,0
+Cuba,192,LACA,1,Jews,0,0,0,0,0,1,0
+Cuba,192,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Cuba,192,LACA,2,Christians,1,0,0,0,0,0,0
+Cuba,192,LACA,2,Muslims,0,1,0,0,0,0,0
+Cuba,192,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Cuba,192,LACA,2,Buddhists,0,0,0,1,0,0,0
+Cuba,192,LACA,2,Hindus,0,0,0,0,1,0,0
+Cuba,192,LACA,2,Jews,0,0,0,0,0,1,0
+Cuba,192,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Cyprus,196,ASPA,1,Christians,0.9946808511,0,0.005319148940000001,0,0,0,0
+Cyprus,196,ASPA,1,Muslims,0,1,0,0,0,0,0
+Cyprus,196,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Cyprus,196,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Cyprus,196,ASPA,1,Hindus,0,0,0,0,1,0,0
+Cyprus,196,ASPA,1,Jews,0,0,0,0,0,1,0
+Cyprus,196,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Cyprus,196,ASPA,2,Christians,0.9947916667,0,0.00520833333,0,0,0,0
+Cyprus,196,ASPA,2,Muslims,0,1,0,0,0,0,0
+Cyprus,196,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Cyprus,196,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Cyprus,196,ASPA,2,Hindus,0,0,0,0,1,0,0
+Cyprus,196,ASPA,2,Jews,0,0,0,0,0,1,0
+Cyprus,196,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Czechia,203,EURO,1,Christians,0.634900486,0,0.36509951399999996,0,0,0,0
+Czechia,203,EURO,1,Muslims,0,1,0,0,0,0,0
+Czechia,203,EURO,1,Unaffiliated,0.01394904756,0,0.9782851049999999,0.0021765449,0,0.0029334174200000003,0.00265588508
+Czechia,203,EURO,1,Buddhists,0,0,0,1,0,0,0
+Czechia,203,EURO,1,Hindus,0,0,0,0,1,0,0
+Czechia,203,EURO,1,Jews,0,0,0,0,0,1,0
+Czechia,203,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Czechia,203,EURO,2,Christians,0.7495158705,0,0.2442207567,0,0,0,0.00626337284
+Czechia,203,EURO,2,Muslims,0,1,0,0,0,0,0
+Czechia,203,EURO,2,Unaffiliated,0.05381752356,0.00302552283,0.9395059449000001,0,0,0.00212310785,0.0015279008499999999
+Czechia,203,EURO,2,Buddhists,0,0,0,1,0,0,0
+Czechia,203,EURO,2,Hindus,0,0,0,0,1,0,0
+Czechia,203,EURO,2,Jews,0,0,0,0,0,1,0
+Czechia,203,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Benin,204,SSAF,1,Christians,1,0,0,0,0,0,0
+Benin,204,SSAF,1,Muslims,0,1,0,0,0,0,0
+Benin,204,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Benin,204,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Benin,204,SSAF,1,Hindus,0,0,0,0,1,0,0
+Benin,204,SSAF,1,Jews,0,0,0,0,0,1,0
+Benin,204,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Benin,204,SSAF,2,Christians,1,0,0,0,0,0,0
+Benin,204,SSAF,2,Muslims,0,1,0,0,0,0,0
+Benin,204,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Benin,204,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Benin,204,SSAF,2,Hindus,0,0,0,0,1,0,0
+Benin,204,SSAF,2,Jews,0,0,0,0,0,1,0
+Benin,204,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Denmark,208,EURO,1,Christians,0.6051734862,0,0.36677677709999995,0.007088847860000001,0,0,0.020960888830000003
+Denmark,208,EURO,1,Muslims,0,0.9043733662,0.09562663381,0,0,0,0
+Denmark,208,EURO,1,Unaffiliated,0.1349359366,0.00857444012,0.7892400601999999,0.02407578716,0,0,0.04317377592
+Denmark,208,EURO,1,Buddhists,0,0,0,1,0,0,0
+Denmark,208,EURO,1,Hindus,0,0,0,0,1,0,0
+Denmark,208,EURO,1,Jews,0,0,0,0,0,1,0
+Denmark,208,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Denmark,208,EURO,2,Christians,0.7672490304,0,0.2263889548,0,0,0,0.0063620147999999994
+Denmark,208,EURO,2,Muslims,0,0.9043733662,0.09562663381,0,0,0,0
+Denmark,208,EURO,2,Unaffiliated,0.2720516549,0.05748043864999999,0.6558892265999999,0.014578679910000001,0,0,0
+Denmark,208,EURO,2,Buddhists,0,0,0,1,0,0,0
+Denmark,208,EURO,2,Hindus,0,0,0,0,1,0,0
+Denmark,208,EURO,2,Jews,0,0,0,0,0,1,0
+Denmark,208,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Dominican Republic,214,LACA,1,Christians,0.8155398727,0,0.1844601273,0,0,0,0
+Dominican Republic,214,LACA,1,Muslims,0,1,0,0,0,0,0
+Dominican Republic,214,LACA,1,Unaffiliated,0.1614970925,0,0.8385029075,0,0,0,0
+Dominican Republic,214,LACA,1,Buddhists,0,0,0,1,0,0,0
+Dominican Republic,214,LACA,1,Hindus,0,0,0,0,1,0,0
+Dominican Republic,214,LACA,1,Jews,0,0,0,0,0,1,0
+Dominican Republic,214,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Dominican Republic,214,LACA,2,Christians,0.8780256797,0,0.1185813944,0,0,0,0.00339292592
+Dominican Republic,214,LACA,2,Muslims,0,1,0,0,0,0,0
+Dominican Republic,214,LACA,2,Unaffiliated,0.24329866930000002,0,0.7567013307,0,0,0,0
+Dominican Republic,214,LACA,2,Buddhists,0,0,0,1,0,0,0
+Dominican Republic,214,LACA,2,Hindus,0,0,0,0,1,0,0
+Dominican Republic,214,LACA,2,Jews,0,0,0,0,0,1,0
+Dominican Republic,214,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Ecuador,218,LACA,1,Christians,0.9361433970999999,0,0.057507967759999994,0,0,0.0040484673,0.00230016788
+Ecuador,218,LACA,1,Muslims,0,1,0,0,0,0,0
+Ecuador,218,LACA,1,Unaffiliated,0.2381743973,0,0.7618256027,0,0,0,0
+Ecuador,218,LACA,1,Buddhists,0,0,0,1,0,0,0
+Ecuador,218,LACA,1,Hindus,0,0,0,0,1,0,0
+Ecuador,218,LACA,1,Jews,0,0,0,0,0,1,0
+Ecuador,218,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Ecuador,218,LACA,2,Christians,0.9626561465000001,0,0.03734385354,0,0,0,0
+Ecuador,218,LACA,2,Muslims,0,1,0,0,0,0,0
+Ecuador,218,LACA,2,Unaffiliated,0.2381743973,0,0.7618256027,0,0,0,0
+Ecuador,218,LACA,2,Buddhists,0,0,0,1,0,0,0
+Ecuador,218,LACA,2,Hindus,0,0,0,0,1,0,0
+Ecuador,218,LACA,2,Jews,0,0,0,0,0,1,0
+Ecuador,218,LACA,2,Other_Religions,0,0,0,0,0,0,1
+EL Salvador,222,LACA,1,Christians,0.8449539457999999,0,0.1515706846,0,0,0.00113261808,0.00234275155
+EL Salvador,222,LACA,1,Muslims,0,1,0,0,0,0,0
+EL Salvador,222,LACA,1,Unaffiliated,0.2338338895,0,0.7661661105,0,0,0,0
+EL Salvador,222,LACA,1,Buddhists,0,0,0,1,0,0,0
+EL Salvador,222,LACA,1,Hindus,0,0,0,0,1,0,0
+EL Salvador,222,LACA,1,Jews,0,0,0,0,0,1,0
+EL Salvador,222,LACA,1,Other_Religions,0,0,0,0,0,0,1
+EL Salvador,222,LACA,2,Christians,0.9399634768999999,0,0.06003652312,0,0,0,0
+EL Salvador,222,LACA,2,Muslims,0,1,0,0,0,0,0
+EL Salvador,222,LACA,2,Unaffiliated,0.6576478244,0,0.34235217560000003,0,0,0,0
+EL Salvador,222,LACA,2,Buddhists,0,0,0,1,0,0,0
+EL Salvador,222,LACA,2,Hindus,0,0,0,0,1,0,0
+EL Salvador,222,LACA,2,Jews,0,0,0,0,0,1,0
+EL Salvador,222,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Equatorial Guinea,226,SSAF,1,Christians,1,0,0,0,0,0,0
+Equatorial Guinea,226,SSAF,1,Muslims,0,1,0,0,0,0,0
+Equatorial Guinea,226,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Equatorial Guinea,226,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Equatorial Guinea,226,SSAF,1,Hindus,0,0,0,0,1,0,0
+Equatorial Guinea,226,SSAF,1,Jews,0,0,0,0,0,1,0
+Equatorial Guinea,226,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Equatorial Guinea,226,SSAF,2,Christians,1,0,0,0,0,0,0
+Equatorial Guinea,226,SSAF,2,Muslims,0,1,0,0,0,0,0
+Equatorial Guinea,226,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Equatorial Guinea,226,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Equatorial Guinea,226,SSAF,2,Hindus,0,0,0,0,1,0,0
+Equatorial Guinea,226,SSAF,2,Jews,0,0,0,0,0,1,0
+Equatorial Guinea,226,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Ethiopia,231,SSAF,1,Christians,0.9851694915,0.01059322034,0.00423728814,0,0,0,0
+Ethiopia,231,SSAF,1,Muslims,0.026431718059999998,0.9735682819,0,0,0,0,0
+Ethiopia,231,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Ethiopia,231,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Ethiopia,231,SSAF,1,Hindus,0,0,0,0,1,0,0
+Ethiopia,231,SSAF,1,Jews,0,0,0,0,0,1,0
+Ethiopia,231,SSAF,1,Other_Religions,0.8965517241000001,0,0,0,0,0,0.1034482759
+Ethiopia,231,SSAF,2,Christians,0.9821029083,0.01565995526,0.0022371364699999997,0,0,0,0
+Ethiopia,231,SSAF,2,Muslims,0.01666666667,0.9833333333000001,0,0,0,0,0
+Ethiopia,231,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Ethiopia,231,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Ethiopia,231,SSAF,2,Hindus,0,0,0,0,1,0,0
+Ethiopia,231,SSAF,2,Jews,0,0,0,0,0,1,0
+Ethiopia,231,SSAF,2,Other_Religions,0.8965517241000001,0,0,0,0,0,0.1034482759
+Eritrea,232,SSAF,1,Christians,1,0,0,0,0,0,0
+Eritrea,232,SSAF,1,Muslims,0,1,0,0,0,0,0
+Eritrea,232,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Eritrea,232,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Eritrea,232,SSAF,1,Hindus,0,0,0,0,1,0,0
+Eritrea,232,SSAF,1,Jews,0,0,0,0,0,1,0
+Eritrea,232,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Eritrea,232,SSAF,2,Christians,1,0,0,0,0,0,0
+Eritrea,232,SSAF,2,Muslims,0,1,0,0,0,0,0
+Eritrea,232,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Eritrea,232,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Eritrea,232,SSAF,2,Hindus,0,0,0,0,1,0,0
+Eritrea,232,SSAF,2,Jews,0,0,0,0,0,1,0
+Eritrea,232,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Estonia,233,EURO,1,Christians,0.7314216141,0,0.2685783859,0,0,0,0
+Estonia,233,EURO,1,Muslims,0,1,0,0,0,0,0
+Estonia,233,EURO,1,Unaffiliated,0.1037226701,0,0.8962773299,0,0,0,0
+Estonia,233,EURO,1,Buddhists,0,0,0,1,0,0,0
+Estonia,233,EURO,1,Hindus,0,0,0,0,1,0,0
+Estonia,233,EURO,1,Jews,0,0,0,0,0,1,0
+Estonia,233,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Estonia,233,EURO,2,Christians,0.8449310378,0.00707174489,0.1311783472,0.01681887005,0,0,0
+Estonia,233,EURO,2,Muslims,0,1,0,0,0,0,0
+Estonia,233,EURO,2,Unaffiliated,0.1870012423,0,0.8129987577,0,0,0,0
+Estonia,233,EURO,2,Buddhists,0,0,0,1,0,0,0
+Estonia,233,EURO,2,Hindus,0,0,0,0,1,0,0
+Estonia,233,EURO,2,Jews,0,0,0,0,0,1,0
+Estonia,233,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Fiji,242,ASPA,1,Christians,1,0,0,0,0,0,0
+Fiji,242,ASPA,1,Muslims,0,1,0,0,0,0,0
+Fiji,242,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Fiji,242,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Fiji,242,ASPA,1,Hindus,0,0,0,0,1,0,0
+Fiji,242,ASPA,1,Jews,0,0,0,0,0,1,0
+Fiji,242,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Fiji,242,ASPA,2,Christians,1,0,0,0,0,0,0
+Fiji,242,ASPA,2,Muslims,0,1,0,0,0,0,0
+Fiji,242,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Fiji,242,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Fiji,242,ASPA,2,Hindus,0,0,0,0,1,0,0
+Fiji,242,ASPA,2,Jews,0,0,0,0,0,1,0
+Fiji,242,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Finland,246,EURO,1,Christians,0.6338041915,0.00558011969,0.3572172819,0.0033984069,0,0,0
+Finland,246,EURO,1,Muslims,0,1,0,0,0,0,0
+Finland,246,EURO,1,Unaffiliated,0.1878809213,0,0.8121190787,0,0,0,0
+Finland,246,EURO,1,Buddhists,0,0,0,1,0,0,0
+Finland,246,EURO,1,Hindus,0,0,0,0,1,0,0
+Finland,246,EURO,1,Jews,0,0,0,0,0,1,0
+Finland,246,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Finland,246,EURO,2,Christians,0.7287144152,0,0.2683343769,0,0,0,0.0029512078600000004
+Finland,246,EURO,2,Muslims,0,1,0,0,0,0,0
+Finland,246,EURO,2,Unaffiliated,0.204164039,0,0.795835961,0,0,0,0
+Finland,246,EURO,2,Buddhists,0,0,0,1,0,0,0
+Finland,246,EURO,2,Hindus,0,0,0,0,1,0,0
+Finland,246,EURO,2,Jews,0,0,0,0,0,1,0
+Finland,246,EURO,2,Other_Religions,0,0,0,0,0,0,1
+France,250,EURO,1,Christians,0.4176578657,0.00512897682,0.5732872231,0,0,0.0039259344,0
+France,250,EURO,1,Muslims,0,1,0,0,0,0,0
+France,250,EURO,1,Unaffiliated,0.014940588509999998,0,0.9850594115,0,0,0,0
+France,250,EURO,1,Buddhists,0,0,0,1,0,0,0
+France,250,EURO,1,Hindus,0,0,0,0,1,0,0
+France,250,EURO,1,Jews,0,0,0,0,0,1,0
+France,250,EURO,1,Other_Religions,0,0,0,0,0,0,1
+France,250,EURO,2,Christians,0.6069656817,0.00489628308,0.3843322372,0,0,0,0.0038057980400000003
+France,250,EURO,2,Muslims,0,0.8704757472,0.1295242528,0,0,0,0
+France,250,EURO,2,Unaffiliated,0.07054168033,0,0.9177076252,0,0,0,0.011750694459999999
+France,250,EURO,2,Buddhists,0,0,0,1,0,0,0
+France,250,EURO,2,Hindus,0,0,0,0,1,0,0
+France,250,EURO,2,Jews,0,0,0,0,0,1,0
+France,250,EURO,2,Other_Religions,0,0,0,0,0,0,1
+French Guiana,254,LACA,1,Christians,1,0,0,0,0,0,0
+French Guiana,254,LACA,1,Muslims,0,1,0,0,0,0,0
+French Guiana,254,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+French Guiana,254,LACA,1,Buddhists,0,0,0,1,0,0,0
+French Guiana,254,LACA,1,Hindus,0,0,0,0,1,0,0
+French Guiana,254,LACA,1,Jews,0,0,0,0,0,1,0
+French Guiana,254,LACA,1,Other_Religions,0,0,0,0,0,0,1
+French Guiana,254,LACA,2,Christians,1,0,0,0,0,0,0
+French Guiana,254,LACA,2,Muslims,0,1,0,0,0,0,0
+French Guiana,254,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+French Guiana,254,LACA,2,Buddhists,0,0,0,1,0,0,0
+French Guiana,254,LACA,2,Hindus,0,0,0,0,1,0,0
+French Guiana,254,LACA,2,Jews,0,0,0,0,0,1,0
+French Guiana,254,LACA,2,Other_Religions,0,0,0,0,0,0,1
+French Polynesia,258,ASPA,1,Christians,1,0,0,0,0,0,0
+French Polynesia,258,ASPA,1,Muslims,0,1,0,0,0,0,0
+French Polynesia,258,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+French Polynesia,258,ASPA,1,Buddhists,0,0,0,1,0,0,0
+French Polynesia,258,ASPA,1,Hindus,0,0,0,0,1,0,0
+French Polynesia,258,ASPA,1,Jews,0,0,0,0,0,1,0
+French Polynesia,258,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+French Polynesia,258,ASPA,2,Christians,1,0,0,0,0,0,0
+French Polynesia,258,ASPA,2,Muslims,0,1,0,0,0,0,0
+French Polynesia,258,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+French Polynesia,258,ASPA,2,Buddhists,0,0,0,1,0,0,0
+French Polynesia,258,ASPA,2,Hindus,0,0,0,0,1,0,0
+French Polynesia,258,ASPA,2,Jews,0,0,0,0,0,1,0
+French Polynesia,258,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Djibouti,262,SSAF,1,Christians,0.6488714754999999,0.28339592150000004,0.035833860940000004,0,0,0.03189874207,0
+Djibouti,262,SSAF,1,Muslims,0.0075596997,0.9886410062000001,0,0.00107982256,0,0,0.00271947157
+Djibouti,262,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Djibouti,262,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Djibouti,262,SSAF,1,Hindus,0,0,0,0,1,0,0
+Djibouti,262,SSAF,1,Jews,0,0,0,0,0,1,0
+Djibouti,262,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Djibouti,262,SSAF,2,Christians,0.6488714754999999,0.28339592150000004,0.035833860940000004,0,0,0.03189874207,0
+Djibouti,262,SSAF,2,Muslims,0.00681523454,0.9845085742999999,0.0016345224,0,0,0.00213810159,0.0049035672
+Djibouti,262,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Djibouti,262,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Djibouti,262,SSAF,2,Hindus,0,0,0,0,1,0,0
+Djibouti,262,SSAF,2,Jews,0,0,0,0,0,1,0
+Djibouti,262,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Gabon,266,SSAF,1,Christians,1,0,0,0,0,0,0
+Gabon,266,SSAF,1,Muslims,0,1,0,0,0,0,0
+Gabon,266,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Gabon,266,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Gabon,266,SSAF,1,Hindus,0,0,0,0,1,0,0
+Gabon,266,SSAF,1,Jews,0,0,0,0,0,1,0
+Gabon,266,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Gabon,266,SSAF,2,Christians,1,0,0,0,0,0,0
+Gabon,266,SSAF,2,Muslims,0,1,0,0,0,0,0
+Gabon,266,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Gabon,266,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Gabon,266,SSAF,2,Hindus,0,0,0,0,1,0,0
+Gabon,266,SSAF,2,Jews,0,0,0,0,0,1,0
+Gabon,266,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Georgia,268,EURO,1,Christians,0.9947551430999999,0,0.005244856879999999,0,0,0,0
+Georgia,268,EURO,1,Muslims,0.2216388452,0.7666238167,0.01173733809,0,0,0,0
+Georgia,268,EURO,1,Unaffiliated,0,0,1,0,0,0,0
+Georgia,268,EURO,1,Buddhists,0,0,0,1,0,0,0
+Georgia,268,EURO,1,Hindus,0,0,0,0,1,0,0
+Georgia,268,EURO,1,Jews,0,0,0,0,0,1,0
+Georgia,268,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Georgia,268,EURO,2,Christians,1,0,0,0,0,0,0
+Georgia,268,EURO,2,Muslims,0.17129837009999999,0.8185837518,0.01011787808,0,0,0,0
+Georgia,268,EURO,2,Unaffiliated,0,0,1,0,0,0,0
+Georgia,268,EURO,2,Buddhists,0,0,0,1,0,0,0
+Georgia,268,EURO,2,Hindus,0,0,0,0,1,0,0
+Georgia,268,EURO,2,Jews,0,0,0,0,0,1,0
+Georgia,268,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Gambia,270,SSAF,1,Christians,1,0,0,0,0,0,0
+Gambia,270,SSAF,1,Muslims,0,1,0,0,0,0,0
+Gambia,270,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Gambia,270,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Gambia,270,SSAF,1,Hindus,0,0,0,0,1,0,0
+Gambia,270,SSAF,1,Jews,0,0,0,0,0,1,0
+Gambia,270,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Gambia,270,SSAF,2,Christians,1,0,0,0,0,0,0
+Gambia,270,SSAF,2,Muslims,0,1,0,0,0,0,0
+Gambia,270,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Gambia,270,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Gambia,270,SSAF,2,Hindus,0,0,0,0,1,0,0
+Gambia,270,SSAF,2,Jews,0,0,0,0,0,1,0
+Gambia,270,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Palestine,275,MENA,1,Christians,1,0,0,0,0,0,0
+Palestine,275,MENA,1,Muslims,0,1,0,0,0,0,0
+Palestine,275,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Palestine,275,MENA,1,Buddhists,0,0,0,1,0,0,0
+Palestine,275,MENA,1,Hindus,0,0,0,0,1,0,0
+Palestine,275,MENA,1,Jews,0,0,0,0,0,1,0
+Palestine,275,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Palestine,275,MENA,2,Christians,1,0,0,0,0,0,0
+Palestine,275,MENA,2,Muslims,0,1,0,0,0,0,0
+Palestine,275,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Palestine,275,MENA,2,Buddhists,0,0,0,1,0,0,0
+Palestine,275,MENA,2,Hindus,0,0,0,0,1,0,0
+Palestine,275,MENA,2,Jews,0,0,0,0,0,1,0
+Palestine,275,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Germany,276,EURO,1,Christians,0.577399468,0,0.4040306258,0,0.00513481612,0,0.013435090030000001
+Germany,276,EURO,1,Muslims,0.02852551045,0.8677428824000001,0.053698833419999994,0,0,0,0.050032773700000005
+Germany,276,EURO,1,Unaffiliated,0.042027186470000005,0.02898623051,0.9216290630999999,0,0,0.0073575199300000005,0
+Germany,276,EURO,1,Buddhists,0,0,0,1,0,0,0
+Germany,276,EURO,1,Hindus,0,0,0,0,1,0,0
+Germany,276,EURO,1,Jews,0,0,0,0,0,1,0
+Germany,276,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Germany,276,EURO,2,Christians,0.6237870626,0.01931159475,0.353848882,0,0,0,0.00305246063
+Germany,276,EURO,2,Muslims,0.02852551045,0.8677428824000001,0.053698833419999994,0,0,0,0.050032773700000005
+Germany,276,EURO,2,Unaffiliated,0.1929119495,0,0.7799371526000001,0,0,0,0.02715089792
+Germany,276,EURO,2,Buddhists,0,0,0,1,0,0,0
+Germany,276,EURO,2,Hindus,0,0,0,0,1,0,0
+Germany,276,EURO,2,Jews,0,0,0,0,0,1,0
+Germany,276,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Ghana,288,SSAF,1,Christians,0.9213483146,0.01123595506,0.03370786517,0.00280898876,0,0,0.0308988764
+Ghana,288,SSAF,1,Muslims,0.04210526316,0.9473684211,0,0,0,0,0.01052631579
+Ghana,288,SSAF,1,Unaffiliated,0.7333333333000001,0.11111111109999999,0.08888888889,0,0,0,0.06666666667
+Ghana,288,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Ghana,288,SSAF,1,Hindus,0,0,0,0,1,0,0
+Ghana,288,SSAF,1,Jews,0,0,0,0,0,1,0
+Ghana,288,SSAF,1,Other_Religions,0.4126984127,0.04761904762,0.04761904762,0,0,0,0.4920634921
+Ghana,288,SSAF,2,Christians,0.9394618834,0.011210762329999999,0.01793721973,0,0,0,0.03139013453
+Ghana,288,SSAF,2,Muslims,0.1411764706,0.8352941176,0.011764705879999999,0,0,0,0.011764705879999999
+Ghana,288,SSAF,2,Unaffiliated,0.7333333333000001,0.11111111109999999,0.08888888889,0,0,0,0.06666666667
+Ghana,288,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Ghana,288,SSAF,2,Hindus,0,0,0,0,1,0,0
+Ghana,288,SSAF,2,Jews,0,0,0,0,0,1,0
+Ghana,288,SSAF,2,Other_Religions,0.4032258065,0.04838709677,0.03225806452,0,0,0,0.5161290323
+Kiribati,296,ASPA,1,Christians,1,0,0,0,0,0,0
+Kiribati,296,ASPA,1,Muslims,0,1,0,0,0,0,0
+Kiribati,296,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Kiribati,296,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Kiribati,296,ASPA,1,Hindus,0,0,0,0,1,0,0
+Kiribati,296,ASPA,1,Jews,0,0,0,0,0,1,0
+Kiribati,296,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Kiribati,296,ASPA,2,Christians,1,0,0,0,0,0,0
+Kiribati,296,ASPA,2,Muslims,0,1,0,0,0,0,0
+Kiribati,296,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Kiribati,296,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Kiribati,296,ASPA,2,Hindus,0,0,0,0,1,0,0
+Kiribati,296,ASPA,2,Jews,0,0,0,0,0,1,0
+Kiribati,296,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Greece,300,EURO,1,Christians,0.7844868189,0,0.21091543640000002,0,0,0.0045977447500000004,0
+Greece,300,EURO,1,Muslims,0,1,0,0,0,0,0
+Greece,300,EURO,1,Unaffiliated,0.3571710059,0,0.5549836633999999,0,0,0,0.08784533074
+Greece,300,EURO,1,Buddhists,0,0,0,1,0,0,0
+Greece,300,EURO,1,Hindus,0,0,0,0,1,0,0
+Greece,300,EURO,1,Jews,0,0,0,0,0,1,0
+Greece,300,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Greece,300,EURO,2,Christians,0.9011580970999999,0,0.0988419029,0,0,0,0
+Greece,300,EURO,2,Muslims,0,1,0,0,0,0,0
+Greece,300,EURO,2,Unaffiliated,0.3571710059,0,0.5549836633999999,0,0,0,0.08784533074
+Greece,300,EURO,2,Buddhists,0,0,0,1,0,0,0
+Greece,300,EURO,2,Hindus,0,0,0,0,1,0,0
+Greece,300,EURO,2,Jews,0,0,0,0,0,1,0
+Greece,300,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Grenada,308,LACA,1,Christians,1,0,0,0,0,0,0
+Grenada,308,LACA,1,Muslims,0,1,0,0,0,0,0
+Grenada,308,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Grenada,308,LACA,1,Buddhists,0,0,0,1,0,0,0
+Grenada,308,LACA,1,Hindus,0,0,0,0,1,0,0
+Grenada,308,LACA,1,Jews,0,0,0,0,0,1,0
+Grenada,308,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Grenada,308,LACA,2,Christians,1,0,0,0,0,0,0
+Grenada,308,LACA,2,Muslims,0,1,0,0,0,0,0
+Grenada,308,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Grenada,308,LACA,2,Buddhists,0,0,0,1,0,0,0
+Grenada,308,LACA,2,Hindus,0,0,0,0,1,0,0
+Grenada,308,LACA,2,Jews,0,0,0,0,0,1,0
+Grenada,308,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Guadeloupe,312,LACA,1,Christians,1,0,0,0,0,0,0
+Guadeloupe,312,LACA,1,Muslims,0,1,0,0,0,0,0
+Guadeloupe,312,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Guadeloupe,312,LACA,1,Buddhists,0,0,0,1,0,0,0
+Guadeloupe,312,LACA,1,Hindus,0,0,0,0,1,0,0
+Guadeloupe,312,LACA,1,Jews,0,0,0,0,0,1,0
+Guadeloupe,312,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Guadeloupe,312,LACA,2,Christians,1,0,0,0,0,0,0
+Guadeloupe,312,LACA,2,Muslims,0,1,0,0,0,0,0
+Guadeloupe,312,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Guadeloupe,312,LACA,2,Buddhists,0,0,0,1,0,0,0
+Guadeloupe,312,LACA,2,Hindus,0,0,0,0,1,0,0
+Guadeloupe,312,LACA,2,Jews,0,0,0,0,0,1,0
+Guadeloupe,312,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Guam,316,ASPA,1,Christians,1,0,0,0,0,0,0
+Guam,316,ASPA,1,Muslims,0,1,0,0,0,0,0
+Guam,316,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Guam,316,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Guam,316,ASPA,1,Hindus,0,0,0,0,1,0,0
+Guam,316,ASPA,1,Jews,0,0,0,0,0,1,0
+Guam,316,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Guam,316,ASPA,2,Christians,1,0,0,0,0,0,0
+Guam,316,ASPA,2,Muslims,0,1,0,0,0,0,0
+Guam,316,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Guam,316,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Guam,316,ASPA,2,Hindus,0,0,0,0,1,0,0
+Guam,316,ASPA,2,Jews,0,0,0,0,0,1,0
+Guam,316,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Guatemala,320,LACA,1,Christians,0.9280160356,0,0.06833805568,0,0,0.00156440314,0.0020815055800000003
+Guatemala,320,LACA,1,Muslims,0,1,0,0,0,0,0
+Guatemala,320,LACA,1,Unaffiliated,0.44915501480000003,0,0.5508449851999999,0,0,0,0
+Guatemala,320,LACA,1,Buddhists,0,0,0,1,0,0,0
+Guatemala,320,LACA,1,Hindus,0,0,0,0,1,0,0
+Guatemala,320,LACA,1,Jews,0,0,0,0,0,1,0
+Guatemala,320,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Guatemala,320,LACA,2,Christians,0.9641494632,0,0.03585053677,0,0,0,0
+Guatemala,320,LACA,2,Muslims,0,1,0,0,0,0,0
+Guatemala,320,LACA,2,Unaffiliated,0.44915501480000003,0,0.5508449851999999,0,0,0,0
+Guatemala,320,LACA,2,Buddhists,0,0,0,1,0,0,0
+Guatemala,320,LACA,2,Hindus,0,0,0,0,1,0,0
+Guatemala,320,LACA,2,Jews,0,0,0,0,0,1,0
+Guatemala,320,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Guinea,324,SSAF,1,Christians,1,0,0,0,0,0,0
+Guinea,324,SSAF,1,Muslims,0,1,0,0,0,0,0
+Guinea,324,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Guinea,324,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Guinea,324,SSAF,1,Hindus,0,0,0,0,1,0,0
+Guinea,324,SSAF,1,Jews,0,0,0,0,0,1,0
+Guinea,324,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Guinea,324,SSAF,2,Christians,1,0,0,0,0,0,0
+Guinea,324,SSAF,2,Muslims,0,1,0,0,0,0,0
+Guinea,324,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Guinea,324,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Guinea,324,SSAF,2,Hindus,0,0,0,0,1,0,0
+Guinea,324,SSAF,2,Jews,0,0,0,0,0,1,0
+Guinea,324,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Guyana,328,LACA,1,Christians,1,0,0,0,0,0,0
+Guyana,328,LACA,1,Muslims,0,1,0,0,0,0,0
+Guyana,328,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Guyana,328,LACA,1,Buddhists,0,0,0,1,0,0,0
+Guyana,328,LACA,1,Hindus,0,0,0,0,1,0,0
+Guyana,328,LACA,1,Jews,0,0,0,0,0,1,0
+Guyana,328,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Guyana,328,LACA,2,Christians,1,0,0,0,0,0,0
+Guyana,328,LACA,2,Muslims,0,1,0,0,0,0,0
+Guyana,328,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Guyana,328,LACA,2,Buddhists,0,0,0,1,0,0,0
+Guyana,328,LACA,2,Hindus,0,0,0,0,1,0,0
+Guyana,328,LACA,2,Jews,0,0,0,0,0,1,0
+Guyana,328,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Haiti,332,LACA,1,Christians,1,0,0,0,0,0,0
+Haiti,332,LACA,1,Muslims,0,1,0,0,0,0,0
+Haiti,332,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Haiti,332,LACA,1,Buddhists,0,0,0,1,0,0,0
+Haiti,332,LACA,1,Hindus,0,0,0,0,1,0,0
+Haiti,332,LACA,1,Jews,0,0,0,0,0,1,0
+Haiti,332,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Haiti,332,LACA,2,Christians,1,0,0,0,0,0,0
+Haiti,332,LACA,2,Muslims,0,1,0,0,0,0,0
+Haiti,332,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Haiti,332,LACA,2,Buddhists,0,0,0,1,0,0,0
+Haiti,332,LACA,2,Hindus,0,0,0,0,1,0,0
+Haiti,332,LACA,2,Jews,0,0,0,0,0,1,0
+Haiti,332,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Honduras,340,LACA,1,Christians,0.8632764852,0,0.1339026331,0,0,0,0.0028208817400000004
+Honduras,340,LACA,1,Muslims,0,1,0,0,0,0,0
+Honduras,340,LACA,1,Unaffiliated,0.2612297456,0,0.7387702544,0,0,0,0
+Honduras,340,LACA,1,Buddhists,0,0,0,1,0,0,0
+Honduras,340,LACA,1,Hindus,0,0,0,0,1,0,0
+Honduras,340,LACA,1,Jews,0,0,0,0,0,1,0
+Honduras,340,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Honduras,340,LACA,2,Christians,0.9632159742,0,0.03678402583,0,0,0,0
+Honduras,340,LACA,2,Muslims,0,1,0,0,0,0,0
+Honduras,340,LACA,2,Unaffiliated,0.5213017993,0,0.4786982007,0,0,0,0
+Honduras,340,LACA,2,Buddhists,0,0,0,1,0,0,0
+Honduras,340,LACA,2,Hindus,0,0,0,0,1,0,0
+Honduras,340,LACA,2,Jews,0,0,0,0,0,1,0
+Honduras,340,LACA,2,Other_Religions,0,0,0,0,0,0,1
+"China, Hong Kong SAR",344,ASPA,1,Christians,0.36429378700000004,0,0.5750144001,0.04580912814,0,0,0.014882684770000001
+"China, Hong Kong SAR",344,ASPA,1,Muslims,0,1,0,0,0,0,0
+"China, Hong Kong SAR",344,ASPA,1,Unaffiliated,0.09021484611,0.0065772754499999996,0.8490385842000001,0.050604434940000005,0,0,0.00356485926
+"China, Hong Kong SAR",344,ASPA,1,Buddhists,0.07186916385,0,0.5286113567999999,0.3866192108,0,0,0.01290026864
+"China, Hong Kong SAR",344,ASPA,1,Hindus,0,0,0,0,1,0,0
+"China, Hong Kong SAR",344,ASPA,1,Jews,0,0,0,0,0,1,0
+"China, Hong Kong SAR",344,ASPA,1,Other_Religions,0.1557079838,0,0.5799689913,0.0837393273,0,0,0.1805836976
+"China, Hong Kong SAR",344,ASPA,2,Christians,0.3828351309,0.00427139634,0.5412965304,0.05845579446,0,0,0.01314114789
+"China, Hong Kong SAR",344,ASPA,2,Muslims,0,1,0,0,0,0,0
+"China, Hong Kong SAR",344,ASPA,2,Unaffiliated,0.1356070068,0.0066531585800000004,0.8378691458,0.00987598845,0,0,0.00999470033
+"China, Hong Kong SAR",344,ASPA,2,Buddhists,0.1263065477,0,0.5845174059,0.2697298827,0,0,0.0194461637
+"China, Hong Kong SAR",344,ASPA,2,Hindus,0,0,0,0,1,0,0
+"China, Hong Kong SAR",344,ASPA,2,Jews,0,0,0,0,0,1,0
+"China, Hong Kong SAR",344,ASPA,2,Other_Religions,0.2504606425,0.01642370254,0.6100222251999999,0.09653072535,0,0,0.026562704359999998
+Hungary,348,EURO,1,Christians,0.9879493674,0,0.01205063262,0,0,0,0
+Hungary,348,EURO,1,Muslims,0,1,0,0,0,0,0
+Hungary,348,EURO,1,Unaffiliated,0.1068820067,0,0.8931179933,0,0,0,0
+Hungary,348,EURO,1,Buddhists,0,0,0,1,0,0,0
+Hungary,348,EURO,1,Hindus,0,0,0,0,1,0,0
+Hungary,348,EURO,1,Jews,0,0,0,0,0,1,0
+Hungary,348,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Hungary,348,EURO,2,Christians,0.9621959293000001,0,0.03780407075,0,0,0,0
+Hungary,348,EURO,2,Muslims,0,1,0,0,0,0,0
+Hungary,348,EURO,2,Unaffiliated,0.1801359271,0,0.8132223463,0,0,0,0.00664172663
+Hungary,348,EURO,2,Buddhists,0,0,0,1,0,0,0
+Hungary,348,EURO,2,Hindus,0,0,0,0,1,0,0
+Hungary,348,EURO,2,Jews,0,0,0,0,0,1,0
+Hungary,348,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Iceland,352,EURO,1,Christians,0.6150234742,0,0.3568075117,0,0,0,0.028169014080000002
+Iceland,352,EURO,1,Muslims,0,1,0,0,0,0,0
+Iceland,352,EURO,1,Unaffiliated,0.35,0,0.6,0,0,0.01666666667,0.03333333333
+Iceland,352,EURO,1,Buddhists,0,0,0,1,0,0,0
+Iceland,352,EURO,1,Hindus,0,0,0,0,1,0,0
+Iceland,352,EURO,1,Jews,0,0,0,0,0,1,0
+Iceland,352,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Iceland,352,EURO,2,Christians,0.7799227799,0,0.1776061776,0,0,0,0.042471042470000005
+Iceland,352,EURO,2,Muslims,0,1,0,0,0,0,0
+Iceland,352,EURO,2,Unaffiliated,0.20754716980000001,0,0.7735849057,0,0,0,0.01886792453
+Iceland,352,EURO,2,Buddhists,0,0,0,1,0,0,0
+Iceland,352,EURO,2,Hindus,0,0,0,0,1,0,0
+Iceland,352,EURO,2,Jews,0,0,0,0,0,1,0
+Iceland,352,EURO,2,Other_Religions,0,0,0,0,0,0,1
+India,356,ASPA,1,Christians,0.9440550776000001,0.00836271123,0,0.00430119539,0.041666505330000006,0,0.0016145104099999999
+India,356,ASPA,1,Muslims,0.0042558801499999995,0.978052323,0,5.5328083e-4,0.0164256911,0,7.128248800000001e-4
+India,356,ASPA,1,Unaffiliated,0.03082839976,0.05164367615,0.073992973,0.024102608230000003,0.7612172363,0,0.05821510655
+India,356,ASPA,1,Buddhists,0.00527193048,0,0,0.9759981501999999,0.014924463919999999,0,0.00380545541
+India,356,ASPA,1,Hindus,0.0046332957499999996,0.00344644962,2.6277453e-4,6.4096444e-4,0.9900224028,0,9.9411286e-4
+India,356,ASPA,1,Jews,0,0,0,0,0,1,0
+India,356,ASPA,1,Other_Religions,0.00220134509,0.0027352846200000003,0.0044499862000000005,1.7796444000000002e-4,0.09883383041,0,0.8916015892
+India,356,ASPA,2,Christians,0.9362004643,0.0020350884,0,0.0026943293099999997,0.05672298877,0,0.00234712922
+India,356,ASPA,2,Muslims,0.00181491483,0.9705214266,0.00205991385,0,0.02524736302,0,3.5638167999999995e-4
+India,356,ASPA,2,Unaffiliated,0.03082839976,0.05164367615,0.073992973,0.024102608230000003,0.7612172363,0,0.05821510655
+India,356,ASPA,2,Buddhists,0,0,0,0.9671347885,0.02982809968,0,0.00303711182
+India,356,ASPA,2,Hindus,0.0041839469800000004,0.00320260092,2.266611e-5,6.3608422e-4,0.9913682973,0,5.864044200000001e-4
+India,356,ASPA,2,Jews,0,0,0,0,0,1,0
+India,356,ASPA,2,Other_Religions,9.2748782e-4,0.00850601831,0,0.0031295125299999997,0.1085736325,0,0.8788633489
+Indonesia,360,ASPA,1,Christians,0.9215664259,0.06828176963,0,0,0,0,0.01015180444
+Indonesia,360,ASPA,1,Muslims,0,1,0,0,0,0,0
+Indonesia,360,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Indonesia,360,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Indonesia,360,ASPA,1,Hindus,0,0,0,0,1,0,0
+Indonesia,360,ASPA,1,Jews,0,0,0,0,0,1,0
+Indonesia,360,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Indonesia,360,ASPA,2,Christians,0.9700593947,0.029940605250000002,0,0,0,0,0
+Indonesia,360,ASPA,2,Muslims,5.0335061e-4,0.9994966494,0,0,0,0,0
+Indonesia,360,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Indonesia,360,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Indonesia,360,ASPA,2,Hindus,0,0,0,0,1,0,0
+Indonesia,360,ASPA,2,Jews,0,0,0,0,0,1,0
+Indonesia,360,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Iran,364,ASPA,1,Christians,1,0,0,0,0,0,0
+Iran,364,ASPA,1,Muslims,0,1,0,0,0,0,0
+Iran,364,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Iran,364,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Iran,364,ASPA,1,Hindus,0,0,0,0,1,0,0
+Iran,364,ASPA,1,Jews,0,0,0,0,0,1,0
+Iran,364,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Iran,364,ASPA,2,Christians,1,0,0,0,0,0,0
+Iran,364,ASPA,2,Muslims,0,1,0,0,0,0,0
+Iran,364,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Iran,364,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Iran,364,ASPA,2,Hindus,0,0,0,0,1,0,0
+Iran,364,ASPA,2,Jews,0,0,0,0,0,1,0
+Iran,364,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Iraq,368,MENA,1,Christians,1,0,0,0,0,0,0
+Iraq,368,MENA,1,Muslims,0,1,0,0,0,0,0
+Iraq,368,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Iraq,368,MENA,1,Buddhists,0,0,0,1,0,0,0
+Iraq,368,MENA,1,Hindus,0,0,0,0,1,0,0
+Iraq,368,MENA,1,Jews,0,0,0,0,0,1,0
+Iraq,368,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Iraq,368,MENA,2,Christians,1,0,0,0,0,0,0
+Iraq,368,MENA,2,Muslims,0,1,0,0,0,0,0
+Iraq,368,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Iraq,368,MENA,2,Buddhists,0,0,0,1,0,0,0
+Iraq,368,MENA,2,Hindus,0,0,0,0,1,0,0
+Iraq,368,MENA,2,Jews,0,0,0,0,0,1,0
+Iraq,368,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Ireland,372,EURO,1,Christians,0.8347486143,0.0017824276399999999,0.1624063933,0.00106256482,0,0,0
+Ireland,372,EURO,1,Muslims,0.01672674154,0.9832732584999999,0,0,0,0,0
+Ireland,372,EURO,1,Unaffiliated,0.1898674166,0.03466297428,0.7531959529,0,0.00971561093,0.01255804525,0
+Ireland,372,EURO,1,Buddhists,0,0,0,1,0,0,0
+Ireland,372,EURO,1,Hindus,0,0,0,0,1,0,0
+Ireland,372,EURO,1,Jews,0,0,0,0,0,1,0
+Ireland,372,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Ireland,372,EURO,2,Christians,0.8860068273999999,0.005888501000000001,0.1081046716,0,0,0,0
+Ireland,372,EURO,2,Muslims,0.01672674154,0.9832732584999999,0,0,0,0,0
+Ireland,372,EURO,2,Unaffiliated,0.1898674166,0.03466297428,0.7531959529,0,0.00971561093,0.01255804525,0
+Ireland,372,EURO,2,Buddhists,0,0,0,1,0,0,0
+Ireland,372,EURO,2,Hindus,0,0,0,0,1,0,0
+Ireland,372,EURO,2,Jews,0,0,0,0,0,1,0
+Ireland,372,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Israel,376,MENA,1,Christians,0.8786422113000001,0.1213577887,0,0,0,0,0
+Israel,376,MENA,1,Muslims,0,1,0,0,0,0,0
+Israel,376,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Israel,376,MENA,1,Buddhists,0,0,0,1,0,0,0
+Israel,376,MENA,1,Hindus,0,0,0,0,1,0,0
+Israel,376,MENA,1,Jews,0,0,0,0,0,1,0
+Israel,376,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Israel,376,MENA,2,Christians,1,0,0,0,0,0,0
+Israel,376,MENA,2,Muslims,0,1,0,0,0,0,0
+Israel,376,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Israel,376,MENA,2,Buddhists,0,0,0,1,0,0,0
+Israel,376,MENA,2,Hindus,0,0,0,0,1,0,0
+Israel,376,MENA,2,Jews,0,0,0.00388345874,0,0,0.9961165413,0
+Israel,376,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Italy,380,EURO,1,Christians,0.6532644553,0,0.3259803646,0.00579082262,8.2499835e-4,0,0.01413935913
+Italy,380,EURO,1,Muslims,0,0.8013122552999999,0.19868774470000003,0,0,0,0
+Italy,380,EURO,1,Unaffiliated,0.10396982440000001,0.01363059557,0.88239958,0,0,0,0
+Italy,380,EURO,1,Buddhists,0,0,0,1,0,0,0
+Italy,380,EURO,1,Hindus,0,0,0,0,1,0,0
+Italy,380,EURO,1,Jews,0,0,0,0,0,1,0
+Italy,380,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Italy,380,EURO,2,Christians,0.8075438115,0,0.182933807,0.00952238153,0,0,0
+Italy,380,EURO,2,Muslims,0,0.8013122552999999,0.19868774470000003,0,0,0,0
+Italy,380,EURO,2,Unaffiliated,0.10396982440000001,0.01363059557,0.88239958,0,0,0,0
+Italy,380,EURO,2,Buddhists,0,0,0,1,0,0,0
+Italy,380,EURO,2,Hindus,0,0,0,0,1,0,0
+Italy,380,EURO,2,Jews,0,0,0,0,0,1,0
+Italy,380,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Ivory Coast,384,SSAF,1,Christians,1,0,0,0,0,0,0
+Ivory Coast,384,SSAF,1,Muslims,0,1,0,0,0,0,0
+Ivory Coast,384,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Ivory Coast,384,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Ivory Coast,384,SSAF,1,Hindus,0,0,0,0,1,0,0
+Ivory Coast,384,SSAF,1,Jews,0,0,0,0,0,1,0
+Ivory Coast,384,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Ivory Coast,384,SSAF,2,Christians,1,0,0,0,0,0,0
+Ivory Coast,384,SSAF,2,Muslims,0,1,0,0,0,0,0
+Ivory Coast,384,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Ivory Coast,384,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Ivory Coast,384,SSAF,2,Hindus,0,0,0,0,1,0,0
+Ivory Coast,384,SSAF,2,Jews,0,0,0,0,0,1,0
+Ivory Coast,384,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Jamaica,388,LACA,1,Christians,1,0,0,0,0,0,0
+Jamaica,388,LACA,1,Muslims,0,1,0,0,0,0,0
+Jamaica,388,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Jamaica,388,LACA,1,Buddhists,0,0,0,1,0,0,0
+Jamaica,388,LACA,1,Hindus,0,0,0,0,1,0,0
+Jamaica,388,LACA,1,Jews,0,0,0,0,0,1,0
+Jamaica,388,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Jamaica,388,LACA,2,Christians,1,0,0,0,0,0,0
+Jamaica,388,LACA,2,Muslims,0,1,0,0,0,0,0
+Jamaica,388,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Jamaica,388,LACA,2,Buddhists,0,0,0,1,0,0,0
+Jamaica,388,LACA,2,Hindus,0,0,0,0,1,0,0
+Jamaica,388,LACA,2,Jews,0,0,0,0,0,1,0
+Jamaica,388,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Japan,392,ASPA,1,Christians,0.32547808500000003,0,0.6000910162,0.043376527869999994,0,0,0.03105437103
+Japan,392,ASPA,1,Muslims,0,1,0,0,0,0,0
+Japan,392,ASPA,1,Unaffiliated,0.01894963114,0,0.8875492749,0.042519250189999996,0,0,0.05098184376
+Japan,392,ASPA,1,Buddhists,0.0023843532900000002,0,0.274147114,0.6920204106,0,0,0.03144812213
+Japan,392,ASPA,1,Hindus,0,0,0,0,1,0,0
+Japan,392,ASPA,1,Jews,0,0,0,0,0,1,0
+Japan,392,ASPA,1,Other_Religions,0,0,0.3427980259,0.09749383033999999,0,0,0.5597081438
+Japan,392,ASPA,2,Christians,0.22922876460000002,0,0.6556132054,0.09583458817,0,0,0.01932344182
+Japan,392,ASPA,2,Muslims,0,1,0,0,0,0,0
+Japan,392,ASPA,2,Unaffiliated,0.01499839675,0,0.8231294040999999,0.0970681382,0,0,0.06480406096
+Japan,392,ASPA,2,Buddhists,0.0081246981,0,0.295149804,0.6815412081,0,0,0.015184289799999999
+Japan,392,ASPA,2,Hindus,0,0,0,0,1,0,0
+Japan,392,ASPA,2,Jews,0,0,0,0,0,1,0
+Japan,392,ASPA,2,Other_Religions,0,0,0.40617701599999995,0.23923996160000002,0,0,0.3545830224
+Kazakhstan,398,ASPA,1,Christians,0.952071576,0,0.04792842402,0,0,0,0
+Kazakhstan,398,ASPA,1,Muslims,0.0028875710900000003,0.98568328140000006,0.0099223602,0,0,0,0.0015067873000000002
+Kazakhstan,398,ASPA,1,Unaffiliated,0.207645446,0.44688653219999996,0.3454680218,0,0,0,0
+Kazakhstan,398,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Kazakhstan,398,ASPA,1,Hindus,0,0,0,0,1,0,0
+Kazakhstan,398,ASPA,1,Jews,0,0,0,0,0,1,0
+Kazakhstan,398,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Kazakhstan,398,ASPA,2,Christians,0.952071576,0,0.04792842402,0,0,0,0
+Kazakhstan,398,ASPA,2,Muslims,9.7495397e-4,0.999025046,0,0,0,0,0
+Kazakhstan,398,ASPA,2,Unaffiliated,0.1213702569,0.5353525205999999,0.34327722250000003,0,0,0,0
+Kazakhstan,398,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Kazakhstan,398,ASPA,2,Hindus,0,0,0,0,1,0,0
+Kazakhstan,398,ASPA,2,Jews,0,0,0,0,0,1,0
+Kazakhstan,398,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Jordan,400,MENA,1,Christians,1,0,0,0,0,0,0
+Jordan,400,MENA,1,Muslims,0,1,0,0,0,0,0
+Jordan,400,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Jordan,400,MENA,1,Buddhists,0,0,0,1,0,0,0
+Jordan,400,MENA,1,Hindus,0,0,0,0,1,0,0
+Jordan,400,MENA,1,Jews,0,0,0,0,0,1,0
+Jordan,400,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Jordan,400,MENA,2,Christians,1,0,0,0,0,0,0
+Jordan,400,MENA,2,Muslims,0,1,0,0,0,0,0
+Jordan,400,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Jordan,400,MENA,2,Buddhists,0,0,0,1,0,0,0
+Jordan,400,MENA,2,Hindus,0,0,0,0,1,0,0
+Jordan,400,MENA,2,Jews,0,0,0,0,0,1,0
+Jordan,400,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Kenya,404,SSAF,1,Christians,0.9538683193,0.01316468968,0.00995825957,0,0,0,0.02300873148
+Kenya,404,SSAF,1,Muslims,0.03092729453,0.9612278163000001,0.00784488921,0,0,0,0
+Kenya,404,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Kenya,404,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Kenya,404,SSAF,1,Hindus,0,0,0,0,1,0,0
+Kenya,404,SSAF,1,Jews,0,0,0,0,0,1,0
+Kenya,404,SSAF,1,Other_Religions,0.5254928666,0.05393200642,0,0,0,0,0.420575127
+Kenya,404,SSAF,2,Christians,0.9659749365,0.0068803183199999994,0.00556083512,0,0,0,0.02158391001
+Kenya,404,SSAF,2,Muslims,0.1484225465,0.8515774535,0,0,0,0,0
+Kenya,404,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Kenya,404,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Kenya,404,SSAF,2,Hindus,0,0,0,0,1,0,0
+Kenya,404,SSAF,2,Jews,0,0,0,0,0,1,0
+Kenya,404,SSAF,2,Other_Religions,0.5254928666,0.05393200642,0,0,0,0,0.420575127
+North Korea,408,ASPA,1,Christians,1,0,0,0,0,0,0
+North Korea,408,ASPA,1,Muslims,0,1,0,0,0,0,0
+North Korea,408,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+North Korea,408,ASPA,1,Buddhists,0,0,0,1,0,0,0
+North Korea,408,ASPA,1,Hindus,0,0,0,0,1,0,0
+North Korea,408,ASPA,1,Jews,0,0,0,0,0,1,0
+North Korea,408,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+North Korea,408,ASPA,2,Christians,1,0,0,0,0,0,0
+North Korea,408,ASPA,2,Muslims,0,1,0,0,0,0,0
+North Korea,408,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+North Korea,408,ASPA,2,Buddhists,0,0,0,1,0,0,0
+North Korea,408,ASPA,2,Hindus,0,0,0,0,1,0,0
+North Korea,408,ASPA,2,Jews,0,0,0,0,0,1,0
+North Korea,408,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Republic of Korea,410,ASPA,1,Christians,0.43606879829999995,0,0.5215776044,0.04235359733,0,0,0
+Republic of Korea,410,ASPA,1,Muslims,0,1,0,0,0,0,0
+Republic of Korea,410,ASPA,1,Unaffiliated,0.1281092358,0,0.8222014830000001,0.049689281220000006,0,0,0
+Republic of Korea,410,ASPA,1,Buddhists,0.0713636307,0,0.5772413449,0.33594424600000006,0,0,0.01545077834
+Republic of Korea,410,ASPA,1,Hindus,0,0,0,0,1,0,0
+Republic of Korea,410,ASPA,1,Jews,0,0,0,0,0,1,0
+Republic of Korea,410,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Republic of Korea,410,ASPA,2,Christians,0.4345893398,0,0.4917593479,0.07365131233,0,0,0
+Republic of Korea,410,ASPA,2,Muslims,0,1,0,0,0,0,0
+Republic of Korea,410,ASPA,2,Unaffiliated,0.225405169,0,0.7440510444999999,0.030543786559999998,0,0,0
+Republic of Korea,410,ASPA,2,Buddhists,0.23560857200000002,0,0.4407942113,0.32359721669999997,0,0,0
+Republic of Korea,410,ASPA,2,Hindus,0,0,0,0,1,0,0
+Republic of Korea,410,ASPA,2,Jews,0,0,0,0,0,1,0
+Republic of Korea,410,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Kosovo,412,EURO,1,Christians,1,0,0,0,0,0,0
+Kosovo,412,EURO,1,Muslims,8.357385000000001e-4,0.9979489084,0,0.00121535315,0,0,0
+Kosovo,412,EURO,1,Unaffiliated,0,0,1,0,0,0,0
+Kosovo,412,EURO,1,Buddhists,0,0,0,1,0,0,0
+Kosovo,412,EURO,1,Hindus,0,0,0,0,1,0,0
+Kosovo,412,EURO,1,Jews,0,0,0,0,0,1,0
+Kosovo,412,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Kosovo,412,EURO,2,Christians,0.986807192,0.013192808039999998,0,0,0,0,0
+Kosovo,412,EURO,2,Muslims,0,1,0,0,0,0,0
+Kosovo,412,EURO,2,Unaffiliated,0,0,1,0,0,0,0
+Kosovo,412,EURO,2,Buddhists,0,0,0,1,0,0,0
+Kosovo,412,EURO,2,Hindus,0,0,0,0,1,0,0
+Kosovo,412,EURO,2,Jews,0,0,0,0,0,1,0
+Kosovo,412,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Kuwait,414,MENA,1,Christians,1,0,0,0,0,0,0
+Kuwait,414,MENA,1,Muslims,0,1,0,0,0,0,0
+Kuwait,414,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Kuwait,414,MENA,1,Buddhists,0,0,0,1,0,0,0
+Kuwait,414,MENA,1,Hindus,0,0,0,0,1,0,0
+Kuwait,414,MENA,1,Jews,0,0,0,0,0,1,0
+Kuwait,414,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Kuwait,414,MENA,2,Christians,1,0,0,0,0,0,0
+Kuwait,414,MENA,2,Muslims,0,1,0,0,0,0,0
+Kuwait,414,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Kuwait,414,MENA,2,Buddhists,0,0,0,1,0,0,0
+Kuwait,414,MENA,2,Hindus,0,0,0,0,1,0,0
+Kuwait,414,MENA,2,Jews,0,0,0,0,0,1,0
+Kuwait,414,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Kyrgyzstan,417,ASPA,1,Christians,0.9286035214,0,0.07139647862000001,0,0,0,0
+Kyrgyzstan,417,ASPA,1,Muslims,0,0.9954816686,0.00451833144,0,0,0,0
+Kyrgyzstan,417,ASPA,1,Unaffiliated,0.04827030218,0.5778903877,0.3738393101,0,0,0,0
+Kyrgyzstan,417,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Kyrgyzstan,417,ASPA,1,Hindus,0,0,0,0,1,0,0
+Kyrgyzstan,417,ASPA,1,Jews,0,0,0,0,0,1,0
+Kyrgyzstan,417,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Kyrgyzstan,417,ASPA,2,Christians,0.9453827565999999,0.03503724186,0.019580001490000002,0,0,0,0
+Kyrgyzstan,417,ASPA,2,Muslims,0.0013264208599999998,0.9986735791,0,0,0,0,0
+Kyrgyzstan,417,ASPA,2,Unaffiliated,0.1589910273,0.7306048953,0.1104040774,0,0,0,0
+Kyrgyzstan,417,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Kyrgyzstan,417,ASPA,2,Hindus,0,0,0,0,1,0,0
+Kyrgyzstan,417,ASPA,2,Jews,0,0,0,0,0,1,0
+Kyrgyzstan,417,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Laos,418,ASPA,1,Christians,1,0,0,0,0,0,0
+Laos,418,ASPA,1,Muslims,0,1,0,0,0,0,0
+Laos,418,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Laos,418,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Laos,418,ASPA,1,Hindus,0,0,0,0,1,0,0
+Laos,418,ASPA,1,Jews,0,0,0,0,0,1,0
+Laos,418,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Laos,418,ASPA,2,Christians,1,0,0,0,0,0,0
+Laos,418,ASPA,2,Muslims,0,1,0,0,0,0,0
+Laos,418,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Laos,418,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Laos,418,ASPA,2,Hindus,0,0,0,0,1,0,0
+Laos,418,ASPA,2,Jews,0,0,0,0,0,1,0
+Laos,418,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Lebanon,422,MENA,1,Christians,1,0,0,0,0,0,0
+Lebanon,422,MENA,1,Muslims,0,1,0,0,0,0,0
+Lebanon,422,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Lebanon,422,MENA,1,Buddhists,0,0,0,1,0,0,0
+Lebanon,422,MENA,1,Hindus,0,0,0,0,1,0,0
+Lebanon,422,MENA,1,Jews,0,0,0,0,0,1,0
+Lebanon,422,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Lebanon,422,MENA,2,Christians,1,0,0,0,0,0,0
+Lebanon,422,MENA,2,Muslims,0,1,0,0,0,0,0
+Lebanon,422,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Lebanon,422,MENA,2,Buddhists,0,0,0,1,0,0,0
+Lebanon,422,MENA,2,Hindus,0,0,0,0,1,0,0
+Lebanon,422,MENA,2,Jews,0,0,0,0,0,1,0
+Lebanon,422,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Lesotho,426,SSAF,1,Christians,1,0,0,0,0,0,0
+Lesotho,426,SSAF,1,Muslims,0,1,0,0,0,0,0
+Lesotho,426,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Lesotho,426,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Lesotho,426,SSAF,1,Hindus,0,0,0,0,1,0,0
+Lesotho,426,SSAF,1,Jews,0,0,0,0,0,1,0
+Lesotho,426,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Lesotho,426,SSAF,2,Christians,1,0,0,0,0,0,0
+Lesotho,426,SSAF,2,Muslims,0,1,0,0,0,0,0
+Lesotho,426,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Lesotho,426,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Lesotho,426,SSAF,2,Hindus,0,0,0,0,1,0,0
+Lesotho,426,SSAF,2,Jews,0,0,0,0,0,1,0
+Lesotho,426,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Latvia,428,EURO,1,Christians,0.8786400257,0,0.11696347380000001,0,0,0,0.00439650052
+Latvia,428,EURO,1,Muslims,0,1,0,0,0,0,0
+Latvia,428,EURO,1,Unaffiliated,0.1396228494,0,0.8603771506,0,0,0,0
+Latvia,428,EURO,1,Buddhists,0,0,0,1,0,0,0
+Latvia,428,EURO,1,Hindus,0,0,0,0,1,0,0
+Latvia,428,EURO,1,Jews,0,0,0,0,0,1,0
+Latvia,428,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Latvia,428,EURO,2,Christians,0.9091589877,0,0.08706564079,0.00377537155,0,0,0
+Latvia,428,EURO,2,Muslims,0,1,0,0,0,0,0
+Latvia,428,EURO,2,Unaffiliated,0.08611150169,0,0.8959622631999999,0,0,0,0.0179262351
+Latvia,428,EURO,2,Buddhists,0,0,0,1,0,0,0
+Latvia,428,EURO,2,Hindus,0,0,0,0,1,0,0
+Latvia,428,EURO,2,Jews,0,0,0,0,0,1,0
+Latvia,428,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Liberia,430,SSAF,1,Christians,0.9848484848,0.008658008659999999,0.00216450216,0,0,0,0.0043290043299999996
+Liberia,430,SSAF,1,Muslims,0.1045751634,0.8823529412000001,0,0,0,0,0.01307189542
+Liberia,430,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Liberia,430,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Liberia,430,SSAF,1,Hindus,0,0,0,0,1,0,0
+Liberia,430,SSAF,1,Jews,0,0,0,0,0,1,0
+Liberia,430,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Liberia,430,SSAF,2,Christians,0.9661654135000001,0.02443609023,0,0,0,0,0.00939849624
+Liberia,430,SSAF,2,Muslims,0.08433734940000001,0.9156626506000001,0,0,0,0,0
+Liberia,430,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Liberia,430,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Liberia,430,SSAF,2,Hindus,0,0,0,0,1,0,0
+Liberia,430,SSAF,2,Jews,0,0,0,0,0,1,0
+Liberia,430,SSAF,2,Other_Religions,0.04347826086999999,0,0,0,0,0,0.9565217391
+Libya,434,MENA,1,Christians,1,0,0,0,0,0,0
+Libya,434,MENA,1,Muslims,0,1,0,0,0,0,0
+Libya,434,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Libya,434,MENA,1,Buddhists,0,0,0,1,0,0,0
+Libya,434,MENA,1,Hindus,0,0,0,0,1,0,0
+Libya,434,MENA,1,Jews,0,0,0,0,0,1,0
+Libya,434,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Libya,434,MENA,2,Christians,1,0,0,0,0,0,0
+Libya,434,MENA,2,Muslims,0,1,0,0,0,0,0
+Libya,434,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Libya,434,MENA,2,Buddhists,0,0,0,1,0,0,0
+Libya,434,MENA,2,Hindus,0,0,0,0,1,0,0
+Libya,434,MENA,2,Jews,0,0,0,0,0,1,0
+Libya,434,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Lithuania,440,EURO,1,Christians,0.8527250797000001,0,0.1472749203,0,0,0,0
+Lithuania,440,EURO,1,Muslims,0,1,0,0,0,0,0
+Lithuania,440,EURO,1,Unaffiliated,0.1521790623,0,0.8478209377,0,0,0,0
+Lithuania,440,EURO,1,Buddhists,0,0,0,1,0,0,0
+Lithuania,440,EURO,1,Hindus,0,0,0,0,1,0,0
+Lithuania,440,EURO,1,Jews,0,0,0,0,0,1,0
+Lithuania,440,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Lithuania,440,EURO,2,Christians,0.9579771154,0,0.042022884610000005,0,0,0,0
+Lithuania,440,EURO,2,Muslims,0,1,0,0,0,0,0
+Lithuania,440,EURO,2,Unaffiliated,0.16834918559999998,0,0.8316508144,0,0,0,0
+Lithuania,440,EURO,2,Buddhists,0,0,0,1,0,0,0
+Lithuania,440,EURO,2,Hindus,0,0,0,0,1,0,0
+Lithuania,440,EURO,2,Jews,0,0,0,0,0,1,0
+Lithuania,440,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Luxembourg,442,EURO,1,Christians,1,0,0,0,0,0,0
+Luxembourg,442,EURO,1,Muslims,0,1,0,0,0,0,0
+Luxembourg,442,EURO,1,Unaffiliated,0,0,1,0,0,0,0
+Luxembourg,442,EURO,1,Buddhists,0,0,0,1,0,0,0
+Luxembourg,442,EURO,1,Hindus,0,0,0,0,1,0,0
+Luxembourg,442,EURO,1,Jews,0,0,0,0,0,1,0
+Luxembourg,442,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Luxembourg,442,EURO,2,Christians,1,0,0,0,0,0,0
+Luxembourg,442,EURO,2,Muslims,0,1,0,0,0,0,0
+Luxembourg,442,EURO,2,Unaffiliated,0,0,1,0,0,0,0
+Luxembourg,442,EURO,2,Buddhists,0,0,0,1,0,0,0
+Luxembourg,442,EURO,2,Hindus,0,0,0,0,1,0,0
+Luxembourg,442,EURO,2,Jews,0,0,0,0,0,1,0
+Luxembourg,442,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Macao,446,ASPA,1,Christians,1,0,0,0,0,0,0
+Macao,446,ASPA,1,Muslims,0,1,0,0,0,0,0
+Macao,446,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Macao,446,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Macao,446,ASPA,1,Hindus,0,0,0,0,1,0,0
+Macao,446,ASPA,1,Jews,0,0,0,0,0,1,0
+Macao,446,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Macao,446,ASPA,2,Christians,1,0,0,0,0,0,0
+Macao,446,ASPA,2,Muslims,0,1,0,0,0,0,0
+Macao,446,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Macao,446,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Macao,446,ASPA,2,Hindus,0,0,0,0,1,0,0
+Macao,446,ASPA,2,Jews,0,0,0,0,0,1,0
+Macao,446,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Madagascar,450,SSAF,1,Christians,1,0,0,0,0,0,0
+Madagascar,450,SSAF,1,Muslims,0,1,0,0,0,0,0
+Madagascar,450,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Madagascar,450,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Madagascar,450,SSAF,1,Hindus,0,0,0,0,1,0,0
+Madagascar,450,SSAF,1,Jews,0,0,0,0,0,1,0
+Madagascar,450,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Madagascar,450,SSAF,2,Christians,1,0,0,0,0,0,0
+Madagascar,450,SSAF,2,Muslims,0,1,0,0,0,0,0
+Madagascar,450,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Madagascar,450,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Madagascar,450,SSAF,2,Hindus,0,0,0,0,1,0,0
+Madagascar,450,SSAF,2,Jews,0,0,0,0,0,1,0
+Madagascar,450,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Malawi,454,SSAF,1,Christians,1,0,0,0,0,0,0
+Malawi,454,SSAF,1,Muslims,0,1,0,0,0,0,0
+Malawi,454,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Malawi,454,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Malawi,454,SSAF,1,Hindus,0,0,0,0,1,0,0
+Malawi,454,SSAF,1,Jews,0,0,0,0,0,1,0
+Malawi,454,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Malawi,454,SSAF,2,Christians,1,0,0,0,0,0,0
+Malawi,454,SSAF,2,Muslims,0,1,0,0,0,0,0
+Malawi,454,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Malawi,454,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Malawi,454,SSAF,2,Hindus,0,0,0,0,1,0,0
+Malawi,454,SSAF,2,Jews,0,0,0,0,0,1,0
+Malawi,454,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Malaysia,458,ASPA,1,Christians,0.8658041144,0.08827922505000001,0.03059248953,0,0,0,0.01532417097
+Malaysia,458,ASPA,1,Muslims,0.00146461584,0.9916501196999999,0.00688526446,0,0,0,0
+Malaysia,458,ASPA,1,Unaffiliated,0.027573042120000002,0.21647667439999999,0.5956626958,0.122819046,0,0,0.03746854175
+Malaysia,458,ASPA,1,Buddhists,0.06993723892,0.047644758749999995,0.1477858381,0.7036537297,0,0,0.03097843457
+Malaysia,458,ASPA,1,Hindus,0,0.034608083989999996,0.02051713335,0,0.9448747826999999,0,0
+Malaysia,458,ASPA,1,Jews,0,0,0,0,0,1,0
+Malaysia,458,ASPA,1,Other_Religions,0.30183363799999996,0.02031502572,0.1860068036,0.1180754602,0,0,0.3737690724
+Malaysia,458,ASPA,2,Christians,0.9042619429,0.07190498877,0.00793883223,0.01589423608,0,0,0
+Malaysia,458,ASPA,2,Muslims,0.00566585733,0.9935065824999999,0,8.2756019e-4,0,0,0
+Malaysia,458,ASPA,2,Unaffiliated,0.027573042120000002,0.21647667439999999,0.5956626958,0.122819046,0,0,0.03746854175
+Malaysia,458,ASPA,2,Buddhists,0.050839379170000004,0.024255177250000003,0.050126735379999995,0.8674485851999999,0,0,0.007330123050000001
+Malaysia,458,ASPA,2,Hindus,0,0,0,0.023026449690000002,0.9769735503,0,0
+Malaysia,458,ASPA,2,Jews,0,0,0,0,0,1,0
+Malaysia,458,ASPA,2,Other_Religions,0.23458419800000002,0.01578877705,0.14456392969999998,0.1424331026,0,0,0.4626299927
+Maldives,462,ASPA,1,Christians,1,0,0,0,0,0,0
+Maldives,462,ASPA,1,Muslims,0,1,0,0,0,0,0
+Maldives,462,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Maldives,462,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Maldives,462,ASPA,1,Hindus,0,0,0,0,1,0,0
+Maldives,462,ASPA,1,Jews,0,0,0,0,0,1,0
+Maldives,462,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Maldives,462,ASPA,2,Christians,1,0,0,0,0,0,0
+Maldives,462,ASPA,2,Muslims,0,1,0,0,0,0,0
+Maldives,462,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Maldives,462,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Maldives,462,ASPA,2,Hindus,0,0,0,0,1,0,0
+Maldives,462,ASPA,2,Jews,0,0,0,0,0,1,0
+Maldives,462,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Mali,466,SSAF,1,Christians,1,0,0,0,0,0,0
+Mali,466,SSAF,1,Muslims,0.00243902439,0.9975609756,0,0,0,0,0
+Mali,466,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Mali,466,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Mali,466,SSAF,1,Hindus,0,0,0,0,1,0,0
+Mali,466,SSAF,1,Jews,0,0,0,0,0,1,0
+Mali,466,SSAF,1,Other_Religions,0,0.40572551760000003,0,0,0,0,0.5942744823999999
+Mali,466,SSAF,2,Christians,0.9666666667,0.03333333333,0,0,0,0,0
+Mali,466,SSAF,2,Muslims,0,1,0,0,0,0,0
+Mali,466,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Mali,466,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Mali,466,SSAF,2,Hindus,0,0,0,0,1,0,0
+Mali,466,SSAF,2,Jews,0,0,0,0,0,1,0
+Mali,466,SSAF,2,Other_Religions,0,0.40572551760000003,0,0,0,0,0.5942744823999999
+Malta,470,EURO,1,Christians,1,0,0,0,0,0,0
+Malta,470,EURO,1,Muslims,0,1,0,0,0,0,0
+Malta,470,EURO,1,Unaffiliated,0,0,1,0,0,0,0
+Malta,470,EURO,1,Buddhists,0,0,0,1,0,0,0
+Malta,470,EURO,1,Hindus,0,0,0,0,1,0,0
+Malta,470,EURO,1,Jews,0,0,0,0,0,1,0
+Malta,470,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Malta,470,EURO,2,Christians,1,0,0,0,0,0,0
+Malta,470,EURO,2,Muslims,0,1,0,0,0,0,0
+Malta,470,EURO,2,Unaffiliated,0,0,1,0,0,0,0
+Malta,470,EURO,2,Buddhists,0,0,0,1,0,0,0
+Malta,470,EURO,2,Hindus,0,0,0,0,1,0,0
+Malta,470,EURO,2,Jews,0,0,0,0,0,1,0
+Malta,470,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Martinique,474,LACA,1,Christians,1,0,0,0,0,0,0
+Martinique,474,LACA,1,Muslims,0,1,0,0,0,0,0
+Martinique,474,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Martinique,474,LACA,1,Buddhists,0,0,0,1,0,0,0
+Martinique,474,LACA,1,Hindus,0,0,0,0,1,0,0
+Martinique,474,LACA,1,Jews,0,0,0,0,0,1,0
+Martinique,474,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Martinique,474,LACA,2,Christians,1,0,0,0,0,0,0
+Martinique,474,LACA,2,Muslims,0,1,0,0,0,0,0
+Martinique,474,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Martinique,474,LACA,2,Buddhists,0,0,0,1,0,0,0
+Martinique,474,LACA,2,Hindus,0,0,0,0,1,0,0
+Martinique,474,LACA,2,Jews,0,0,0,0,0,1,0
+Martinique,474,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Mauretania,478,SSAF,1,Christians,1,0,0,0,0,0,0
+Mauretania,478,SSAF,1,Muslims,0,1,0,0,0,0,0
+Mauretania,478,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Mauretania,478,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Mauretania,478,SSAF,1,Hindus,0,0,0,0,1,0,0
+Mauretania,478,SSAF,1,Jews,0,0,0,0,0,1,0
+Mauretania,478,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Mauretania,478,SSAF,2,Christians,1,0,0,0,0,0,0
+Mauretania,478,SSAF,2,Muslims,0,1,0,0,0,0,0
+Mauretania,478,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Mauretania,478,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Mauretania,478,SSAF,2,Hindus,0,0,0,0,1,0,0
+Mauretania,478,SSAF,2,Jews,0,0,0,0,0,1,0
+Mauretania,478,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Mauritius,480,SSAF,1,Christians,1,0,0,0,0,0,0
+Mauritius,480,SSAF,1,Muslims,0,1,0,0,0,0,0
+Mauritius,480,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Mauritius,480,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Mauritius,480,SSAF,1,Hindus,0,0,0,0,1,0,0
+Mauritius,480,SSAF,1,Jews,0,0,0,0,0,1,0
+Mauritius,480,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Mauritius,480,SSAF,2,Christians,1,0,0,0,0,0,0
+Mauritius,480,SSAF,2,Muslims,0,1,0,0,0,0,0
+Mauritius,480,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Mauritius,480,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Mauritius,480,SSAF,2,Hindus,0,0,0,0,1,0,0
+Mauritius,480,SSAF,2,Jews,0,0,0,0,0,1,0
+Mauritius,480,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Mexico,484,LACA,1,Christians,0.7222335169,0,0.2665577077,0,0,0,0.01120877545
+Mexico,484,LACA,1,Muslims,0,1,0,0,0,0,0
+Mexico,484,LACA,1,Unaffiliated,0.2468002597,0,0.7531997402999999,0,0,0,0
+Mexico,484,LACA,1,Buddhists,0,0,0,1,0,0,0
+Mexico,484,LACA,1,Hindus,0,0,0,0,1,0,0
+Mexico,484,LACA,1,Jews,0,0,0,0,0,1,0
+Mexico,484,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Mexico,484,LACA,2,Christians,0.8390450846999999,0,0.1594543175,0,0,0,0.00150059779
+Mexico,484,LACA,2,Muslims,0,1,0,0,0,0,0
+Mexico,484,LACA,2,Unaffiliated,0.2468002597,0,0.7531997402999999,0,0,0,0
+Mexico,484,LACA,2,Buddhists,0,0,0,1,0,0,0
+Mexico,484,LACA,2,Hindus,0,0,0,0,1,0,0
+Mexico,484,LACA,2,Jews,0,0,0,0,0,1,0
+Mexico,484,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Mongolia,496,ASPA,1,Christians,1,0,0,0,0,0,0
+Mongolia,496,ASPA,1,Muslims,0,1,0,0,0,0,0
+Mongolia,496,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Mongolia,496,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Mongolia,496,ASPA,1,Hindus,0,0,0,0,1,0,0
+Mongolia,496,ASPA,1,Jews,0,0,0,0,0,1,0
+Mongolia,496,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Mongolia,496,ASPA,2,Christians,1,0,0,0,0,0,0
+Mongolia,496,ASPA,2,Muslims,0,1,0,0,0,0,0
+Mongolia,496,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Mongolia,496,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Mongolia,496,ASPA,2,Hindus,0,0,0,0,1,0,0
+Mongolia,496,ASPA,2,Jews,0,0,0,0,0,1,0
+Mongolia,496,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Moldova,498,EURO,1,Christians,0.9742179677999999,0,0.02578203217,0,0,0,0
+Moldova,498,EURO,1,Muslims,0,1,0,0,0,0,0
+Moldova,498,EURO,1,Unaffiliated,0.5533674268,0,0.4466325732,0,0,0,0
+Moldova,498,EURO,1,Buddhists,0,0,0,1,0,0,0
+Moldova,498,EURO,1,Hindus,0,0,0,0,1,0,0
+Moldova,498,EURO,1,Jews,0,0,0,0,0,1,0
+Moldova,498,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Moldova,498,EURO,2,Christians,0.989517172,0.007409053180000001,0.0030737748399999997,0,0,0,0
+Moldova,498,EURO,2,Muslims,0,1,0,0,0,0,0
+Moldova,498,EURO,2,Unaffiliated,0.5533674268,0,0.4466325732,0,0,0,0
+Moldova,498,EURO,2,Buddhists,0,0,0,1,0,0,0
+Moldova,498,EURO,2,Hindus,0,0,0,0,1,0,0
+Moldova,498,EURO,2,Jews,0,0,0,0,0,1,0
+Moldova,498,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Montenegro,499,EURO,1,Christians,1,0,0,0,0,0,0
+Montenegro,499,EURO,1,Muslims,0,1,0,0,0,0,0
+Montenegro,499,EURO,1,Unaffiliated,0,0,1,0,0,0,0
+Montenegro,499,EURO,1,Buddhists,0,0,0,1,0,0,0
+Montenegro,499,EURO,1,Hindus,0,0,0,0,1,0,0
+Montenegro,499,EURO,1,Jews,0,0,0,0,0,1,0
+Montenegro,499,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Montenegro,499,EURO,2,Christians,1,0,0,0,0,0,0
+Montenegro,499,EURO,2,Muslims,0,1,0,0,0,0,0
+Montenegro,499,EURO,2,Unaffiliated,0,0,1,0,0,0,0
+Montenegro,499,EURO,2,Buddhists,0,0,0,1,0,0,0
+Montenegro,499,EURO,2,Hindus,0,0,0,0,1,0,0
+Montenegro,499,EURO,2,Jews,0,0,0,0,0,1,0
+Montenegro,499,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Morocco,504,MENA,1,Christians,1,0,0,0,0,0,0
+Morocco,504,MENA,1,Muslims,0,1,0,0,0,0,0
+Morocco,504,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Morocco,504,MENA,1,Buddhists,0,0,0,1,0,0,0
+Morocco,504,MENA,1,Hindus,0,0,0,0,1,0,0
+Morocco,504,MENA,1,Jews,0,0,0,0,0,1,0
+Morocco,504,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Morocco,504,MENA,2,Christians,1,0,0,0,0,0,0
+Morocco,504,MENA,2,Muslims,0,1,0,0,0,0,0
+Morocco,504,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Morocco,504,MENA,2,Buddhists,0,0,0,1,0,0,0
+Morocco,504,MENA,2,Hindus,0,0,0,0,1,0,0
+Morocco,504,MENA,2,Jews,0,0,0,0,0,1,0
+Morocco,504,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Mozambique,508,SSAF,1,Christians,1,0,0,0,0,0,0
+Mozambique,508,SSAF,1,Muslims,0,1,0,0,0,0,0
+Mozambique,508,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Mozambique,508,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Mozambique,508,SSAF,1,Hindus,0,0,0,0,1,0,0
+Mozambique,508,SSAF,1,Jews,0,0,0,0,0,1,0
+Mozambique,508,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Mozambique,508,SSAF,2,Christians,1,0,0,0,0,0,0
+Mozambique,508,SSAF,2,Muslims,0,1,0,0,0,0,0
+Mozambique,508,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Mozambique,508,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Mozambique,508,SSAF,2,Hindus,0,0,0,0,1,0,0
+Mozambique,508,SSAF,2,Jews,0,0,0,0,0,1,0
+Mozambique,508,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Oman,512,MENA,1,Christians,1,0,0,0,0,0,0
+Oman,512,MENA,1,Muslims,0,1,0,0,0,0,0
+Oman,512,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Oman,512,MENA,1,Buddhists,0,0,0,1,0,0,0
+Oman,512,MENA,1,Hindus,0,0,0,0,1,0,0
+Oman,512,MENA,1,Jews,0,0,0,0,0,1,0
+Oman,512,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Oman,512,MENA,2,Christians,1,0,0,0,0,0,0
+Oman,512,MENA,2,Muslims,0,1,0,0,0,0,0
+Oman,512,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Oman,512,MENA,2,Buddhists,0,0,0,1,0,0,0
+Oman,512,MENA,2,Hindus,0,0,0,0,1,0,0
+Oman,512,MENA,2,Jews,0,0,0,0,0,1,0
+Oman,512,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Namibia,516,SSAF,1,Christians,1,0,0,0,0,0,0
+Namibia,516,SSAF,1,Muslims,0,1,0,0,0,0,0
+Namibia,516,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Namibia,516,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Namibia,516,SSAF,1,Hindus,0,0,0,0,1,0,0
+Namibia,516,SSAF,1,Jews,0,0,0,0,0,1,0
+Namibia,516,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Namibia,516,SSAF,2,Christians,1,0,0,0,0,0,0
+Namibia,516,SSAF,2,Muslims,0,1,0,0,0,0,0
+Namibia,516,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Namibia,516,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Namibia,516,SSAF,2,Hindus,0,0,0,0,1,0,0
+Namibia,516,SSAF,2,Jews,0,0,0,0,0,1,0
+Namibia,516,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Nepal,524,ASPA,1,Christians,1,0,0,0,0,0,0
+Nepal,524,ASPA,1,Muslims,0,0.9714285714,0,0,0,0,0.028571428569999998
+Nepal,524,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Nepal,524,ASPA,1,Buddhists,0,0,0,0.8928571429000001,0.03571428571,0,0.07142857142999999
+Nepal,524,ASPA,1,Hindus,0.02067183463,0,0,0,0.9664082687,0,0.01291989664
+Nepal,524,ASPA,1,Jews,0,0,0,0,0,1,0
+Nepal,524,ASPA,1,Other_Religions,0.1333333333,0,0,0,0.06666666667,0,0.8
+Nepal,524,ASPA,2,Christians,1,0,0,0,0,0,0
+Nepal,524,ASPA,2,Muslims,0,0.9677419355000001,0,0,0,0,0.03225806452
+Nepal,524,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Nepal,524,ASPA,2,Buddhists,0.08333333333000001,0,0,0.8958333333,0.020833333330000002,0,0
+Nepal,524,ASPA,2,Hindus,0.03577235772,0,0,0.00487804878,0.9512195122,0,0.008130081300000001
+Nepal,524,ASPA,2,Jews,0,0,0,0,0,1,0
+Nepal,524,ASPA,2,Other_Religions,0.1333333333,0,0,0,0.06666666667,0,0.8
+Netherlands,528,EURO,1,Christians,0.43843287140000003,0.008707222879999999,0.5459556803000001,0.0026915867799999996,0,0,0.0042126386
+Netherlands,528,EURO,1,Muslims,0,0.9778085789,0,0,0,0,0.02219142107
+Netherlands,528,EURO,1,Unaffiliated,0.0265750216,0,0.9622345305000001,0,0,0,0.01119044793
+Netherlands,528,EURO,1,Buddhists,0,0,0,1,0,0,0
+Netherlands,528,EURO,1,Hindus,0.039947305179999996,0,0.1447393106,0,0.8153133842,0,0
+Netherlands,528,EURO,1,Jews,0,0,0,0,0,1,0
+Netherlands,528,EURO,1,Other_Religions,0.2661340264,0,0.5533687621,0.03201401605,0,0,0.1484831955
+Netherlands,528,EURO,2,Christians,0.6094867881,0.01665288803,0.35889738549999994,0.01067521556,0,0,0.0042877227200000005
+Netherlands,528,EURO,2,Muslims,0.03082619147,0.7925033003999999,0.1766705082,0,0,0,0
+Netherlands,528,EURO,2,Unaffiliated,0.07606945059,0.03600888834,0.8461094864,0.0050025930399999995,0,0,0.036809581620000004
+Netherlands,528,EURO,2,Buddhists,0,0,0,1,0,0,0
+Netherlands,528,EURO,2,Hindus,0.039947305179999996,0,0.1447393106,0,0.8153133842,0,0
+Netherlands,528,EURO,2,Jews,0,0,0,0,0,1,0
+Netherlands,528,EURO,2,Other_Religions,0.2661340264,0,0.5533687621,0.03201401605,0,0,0.1484831955
+Curacao,531,LACA,1,Christians,1,0,0,0,0,0,0
+Curacao,531,LACA,1,Muslims,0,1,0,0,0,0,0
+Curacao,531,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Curacao,531,LACA,1,Buddhists,0,0,0,1,0,0,0
+Curacao,531,LACA,1,Hindus,0,0,0,0,1,0,0
+Curacao,531,LACA,1,Jews,0,0,0,0,0,1,0
+Curacao,531,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Curacao,531,LACA,2,Christians,1,0,0,0,0,0,0
+Curacao,531,LACA,2,Muslims,0,1,0,0,0,0,0
+Curacao,531,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Curacao,531,LACA,2,Buddhists,0,0,0,1,0,0,0
+Curacao,531,LACA,2,Hindus,0,0,0,0,1,0,0
+Curacao,531,LACA,2,Jews,0,0,0,0,0,1,0
+Curacao,531,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Aruba,533,LACA,1,Christians,1,0,0,0,0,0,0
+Aruba,533,LACA,1,Muslims,0,1,0,0,0,0,0
+Aruba,533,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Aruba,533,LACA,1,Buddhists,0,0,0,1,0,0,0
+Aruba,533,LACA,1,Hindus,0,0,0,0,1,0,0
+Aruba,533,LACA,1,Jews,0,0,0,0,0,1,0
+Aruba,533,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Aruba,533,LACA,2,Christians,1,0,0,0,0,0,0
+Aruba,533,LACA,2,Muslims,0,1,0,0,0,0,0
+Aruba,533,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Aruba,533,LACA,2,Buddhists,0,0,0,1,0,0,0
+Aruba,533,LACA,2,Hindus,0,0,0,0,1,0,0
+Aruba,533,LACA,2,Jews,0,0,0,0,0,1,0
+Aruba,533,LACA,2,Other_Religions,0,0,0,0,0,0,1
+New Caledonia,540,ASPA,1,Christians,1,0,0,0,0,0,0
+New Caledonia,540,ASPA,1,Muslims,0,1,0,0,0,0,0
+New Caledonia,540,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+New Caledonia,540,ASPA,1,Buddhists,0,0,0,1,0,0,0
+New Caledonia,540,ASPA,1,Hindus,0,0,0,0,1,0,0
+New Caledonia,540,ASPA,1,Jews,0,0,0,0,0,1,0
+New Caledonia,540,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+New Caledonia,540,ASPA,2,Christians,1,0,0,0,0,0,0
+New Caledonia,540,ASPA,2,Muslims,0,1,0,0,0,0,0
+New Caledonia,540,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+New Caledonia,540,ASPA,2,Buddhists,0,0,0,1,0,0,0
+New Caledonia,540,ASPA,2,Hindus,0,0,0,0,1,0,0
+New Caledonia,540,ASPA,2,Jews,0,0,0,0,0,1,0
+New Caledonia,540,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Vanuatu,548,ASPA,1,Christians,1,0,0,0,0,0,0
+Vanuatu,548,ASPA,1,Muslims,0,1,0,0,0,0,0
+Vanuatu,548,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Vanuatu,548,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Vanuatu,548,ASPA,1,Hindus,0,0,0,0,1,0,0
+Vanuatu,548,ASPA,1,Jews,0,0,0,0,0,1,0
+Vanuatu,548,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Vanuatu,548,ASPA,2,Christians,1,0,0,0,0,0,0
+Vanuatu,548,ASPA,2,Muslims,0,1,0,0,0,0,0
+Vanuatu,548,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Vanuatu,548,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Vanuatu,548,ASPA,2,Hindus,0,0,0,0,1,0,0
+Vanuatu,548,ASPA,2,Jews,0,0,0,0,0,1,0
+Vanuatu,548,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+New Zealand,554,ASPA,1,Christians,0.5505975499,0.00181172665,0.44196191949999997,0,0,0,0.00562880394
+New Zealand,554,ASPA,1,Muslims,0,1,0,0,0,0,0
+New Zealand,554,ASPA,1,Unaffiliated,0.07285585624,0,0.880864302,0.01743799735,0.00452170004,0,0.02432014433
+New Zealand,554,ASPA,1,Buddhists,0,0,0,1,0,0,0
+New Zealand,554,ASPA,1,Hindus,0.08671808174000001,0,0.09579619769,0,0.8174857206,0,0
+New Zealand,554,ASPA,1,Jews,0,0,0,0,0,1,0
+New Zealand,554,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+New Zealand,554,ASPA,2,Christians,0.6229109639,0.005544823359999999,0.33600312639999996,0.01098446269,0.0014550458,0,0.02310157785
+New Zealand,554,ASPA,2,Muslims,0,1,0,0,0,0,0
+New Zealand,554,ASPA,2,Unaffiliated,0.05646572496,0,0.9152531607000001,0.00887041065,0,0,0.01941070374
+New Zealand,554,ASPA,2,Buddhists,0,0,0,1,0,0,0
+New Zealand,554,ASPA,2,Hindus,0.117445051,0,0.1597648453,0,0.7227901037,0,0
+New Zealand,554,ASPA,2,Jews,0,0,0,0,0,1,0
+New Zealand,554,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Nicaragua,558,LACA,1,Christians,0.9028261581,0,0.09717384193999999,0,0,0,0
+Nicaragua,558,LACA,1,Muslims,0,1,0,0,0,0,0
+Nicaragua,558,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Nicaragua,558,LACA,1,Buddhists,0,0,0,1,0,0,0
+Nicaragua,558,LACA,1,Hindus,0,0,0,0,1,0,0
+Nicaragua,558,LACA,1,Jews,0,0,0,0,0,1,0
+Nicaragua,558,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Nicaragua,558,LACA,2,Christians,0.9505039752000001,0,0.04949602477,0,0,0,0
+Nicaragua,558,LACA,2,Muslims,0,1,0,0,0,0,0
+Nicaragua,558,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Nicaragua,558,LACA,2,Buddhists,0,0,0,1,0,0,0
+Nicaragua,558,LACA,2,Hindus,0,0,0,0,1,0,0
+Nicaragua,558,LACA,2,Jews,0,0,0,0,0,1,0
+Nicaragua,558,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Niger,562,SSAF,1,Christians,0.8821975408,0.09787885691999999,0.01992360226,0,0,0,0
+Niger,562,SSAF,1,Muslims,0,1,0,0,0,0,0
+Niger,562,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Niger,562,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Niger,562,SSAF,1,Hindus,0,0,0,0,1,0,0
+Niger,562,SSAF,1,Jews,0,0,0,0,0,1,0
+Niger,562,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Niger,562,SSAF,2,Christians,0.8927150912999999,0.09423002139999999,0.01305488727,0,0,0,0
+Niger,562,SSAF,2,Muslims,0.0037678118999999997,0.9962321881,0,0,0,0,0
+Niger,562,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Niger,562,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Niger,562,SSAF,2,Hindus,0,0,0,0,1,0,0
+Niger,562,SSAF,2,Jews,0,0,0,0,0,1,0
+Niger,562,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Nigeria,566,SSAF,1,Christians,0.9759008411000001,0.0049434879300000005,0.01159466973,0,0,0,0.0075610012
+Nigeria,566,SSAF,1,Muslims,0,0.9842700395999999,0.01572996041,0,0,0,0
+Nigeria,566,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Nigeria,566,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Nigeria,566,SSAF,1,Hindus,0,0,0,0,1,0,0
+Nigeria,566,SSAF,1,Jews,0,0,0,0,0,1,0
+Nigeria,566,SSAF,1,Other_Religions,0.4498045112,0.06551528777,0,0,0,0,0.4846802011
+Nigeria,566,SSAF,2,Christians,0.9894856742,0.00924193136,0.00127239449,0,0,0,0
+Nigeria,566,SSAF,2,Muslims,0.02581743575,0.9741825642999999,0,0,0,0,0
+Nigeria,566,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Nigeria,566,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Nigeria,566,SSAF,2,Hindus,0,0,0,0,1,0,0
+Nigeria,566,SSAF,2,Jews,0,0,0,0,0,1,0
+Nigeria,566,SSAF,2,Other_Religions,0.3790757513,0.1122752848,0,0,0,0,0.5086489639
+Norway,578,EURO,1,Christians,0.7136363636,0,0.27727272729999997,0.00909090909,0,0,0
+Norway,578,EURO,1,Muslims,0,0.8421052632,0.1578947368,0,0,0,0
+Norway,578,EURO,1,Unaffiliated,0.1714285714,0,0.8285714286,0,0,0,0
+Norway,578,EURO,1,Buddhists,0,0,0,1,0,0,0
+Norway,578,EURO,1,Hindus,0,0,0,0,1,0,0
+Norway,578,EURO,1,Jews,0,0,0,0,0,1,0
+Norway,578,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Norway,578,EURO,2,Christians,0.785467128,0,0.2041522491,0.00692041522,0,0,0.00346020761
+Norway,578,EURO,2,Muslims,0,0.8421052632,0.1578947368,0,0,0,0
+Norway,578,EURO,2,Unaffiliated,0.303030303,0.01515151515,0.6666666667,0,0,0,0.01515151515
+Norway,578,EURO,2,Buddhists,0,0,0,1,0,0,0
+Norway,578,EURO,2,Hindus,0,0,0,0,1,0,0
+Norway,578,EURO,2,Jews,0,0,0,0,0,1,0
+Norway,578,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Micronesia,583,ASPA,1,Christians,1,0,0,0,0,0,0
+Micronesia,583,ASPA,1,Muslims,0,1,0,0,0,0,0
+Micronesia,583,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Micronesia,583,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Micronesia,583,ASPA,1,Hindus,0,0,0,0,1,0,0
+Micronesia,583,ASPA,1,Jews,0,0,0,0,0,1,0
+Micronesia,583,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Micronesia,583,ASPA,2,Christians,1,0,0,0,0,0,0
+Micronesia,583,ASPA,2,Muslims,0,1,0,0,0,0,0
+Micronesia,583,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Micronesia,583,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Micronesia,583,ASPA,2,Hindus,0,0,0,0,1,0,0
+Micronesia,583,ASPA,2,Jews,0,0,0,0,0,1,0
+Micronesia,583,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Pakistan,586,ASPA,1,Christians,1,0,0,0,0,0,0
+Pakistan,586,ASPA,1,Muslims,0,1,0,0,0,0,0
+Pakistan,586,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Pakistan,586,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Pakistan,586,ASPA,1,Hindus,0,0,0,0,1,0,0
+Pakistan,586,ASPA,1,Jews,0,0,0,0,0,1,0
+Pakistan,586,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Pakistan,586,ASPA,2,Christians,1,0,0,0,0,0,0
+Pakistan,586,ASPA,2,Muslims,0,1,0,0,0,0,0
+Pakistan,586,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Pakistan,586,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Pakistan,586,ASPA,2,Hindus,0,0,0,0,1,0,0
+Pakistan,586,ASPA,2,Jews,0,0,0,0,0,1,0
+Pakistan,586,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Panama,591,LACA,1,Christians,0.9463699339,0,0.05363006606,0,0,0,0
+Panama,591,LACA,1,Muslims,0,1,0,0,0,0,0
+Panama,591,LACA,1,Unaffiliated,0.2352438648,0,0.7647561352,0,0,0,0
+Panama,591,LACA,1,Buddhists,0,0,0,1,0,0,0
+Panama,591,LACA,1,Hindus,0,0,0,0,1,0,0
+Panama,591,LACA,1,Jews,0,0,0,0,0,1,0
+Panama,591,LACA,1,Other_Religions,0.03681230481,0,0.502293354,0,0,0,0.4608943412
+Panama,591,LACA,2,Christians,0.9660205802,0,0.03342540144,0,0,0,5.540184e-4
+Panama,591,LACA,2,Muslims,0,1,0,0,0,0,0
+Panama,591,LACA,2,Unaffiliated,0.2352438648,0,0.7647561352,0,0,0,0
+Panama,591,LACA,2,Buddhists,0,0,0,1,0,0,0
+Panama,591,LACA,2,Hindus,0,0,0,0,1,0,0
+Panama,591,LACA,2,Jews,0,0,0,0,0,1,0
+Panama,591,LACA,2,Other_Religions,0.03681230481,0,0.502293354,0,0,0,0.4608943412
+Papua New Guinea,598,ASPA,1,Christians,1,0,0,0,0,0,0
+Papua New Guinea,598,ASPA,1,Muslims,0,1,0,0,0,0,0
+Papua New Guinea,598,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Papua New Guinea,598,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Papua New Guinea,598,ASPA,1,Hindus,0,0,0,0,1,0,0
+Papua New Guinea,598,ASPA,1,Jews,0,0,0,0,0,1,0
+Papua New Guinea,598,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Papua New Guinea,598,ASPA,2,Christians,1,0,0,0,0,0,0
+Papua New Guinea,598,ASPA,2,Muslims,0,1,0,0,0,0,0
+Papua New Guinea,598,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Papua New Guinea,598,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Papua New Guinea,598,ASPA,2,Hindus,0,0,0,0,1,0,0
+Papua New Guinea,598,ASPA,2,Jews,0,0,0,0,0,1,0
+Papua New Guinea,598,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Paraguay,600,LACA,1,Christians,0.9847900112000001,0,0.015209988800000001,0,0,0,0
+Paraguay,600,LACA,1,Muslims,0,1,0,0,0,0,0
+Paraguay,600,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Paraguay,600,LACA,1,Buddhists,0,0,0,1,0,0,0
+Paraguay,600,LACA,1,Hindus,0,0,0,0,1,0,0
+Paraguay,600,LACA,1,Jews,0,0,0,0,0,1,0
+Paraguay,600,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Paraguay,600,LACA,2,Christians,0.99322721,0,0.0067727900500000006,0,0,0,0
+Paraguay,600,LACA,2,Muslims,0,1,0,0,0,0,0
+Paraguay,600,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Paraguay,600,LACA,2,Buddhists,0,0,0,1,0,0,0
+Paraguay,600,LACA,2,Hindus,0,0,0,0,1,0,0
+Paraguay,600,LACA,2,Jews,0,0,0,0,0,1,0
+Paraguay,600,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Peru,604,LACA,1,Christians,0.8590968316,0,0.13845078389999999,0,0,0,0.0024523845
+Peru,604,LACA,1,Muslims,0,1,0,0,0,0,0
+Peru,604,LACA,1,Unaffiliated,0.3087479892,0,0.6912520108,0,0,0,0
+Peru,604,LACA,1,Buddhists,0,0,0,1,0,0,0
+Peru,604,LACA,1,Hindus,0,0,0,0,1,0,0
+Peru,604,LACA,1,Jews,0,0,0,0,0,1,0
+Peru,604,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Peru,604,LACA,2,Christians,0.9013520149,0,0.09864798512,0,0,0,0
+Peru,604,LACA,2,Muslims,0,1,0,0,0,0,0
+Peru,604,LACA,2,Unaffiliated,0.3087479892,0,0.6912520108,0,0,0,0
+Peru,604,LACA,2,Buddhists,0,0,0,1,0,0,0
+Peru,604,LACA,2,Hindus,0,0,0,0,1,0,0
+Peru,604,LACA,2,Jews,0,0,0,0,0,1,0
+Peru,604,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Philippines,608,ASPA,1,Christians,0.9916286825,0.00435374301,0.0026783829799999995,0,0,0,0.0013391914899999998
+Philippines,608,ASPA,1,Muslims,0,1,0,0,0,0,0
+Philippines,608,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Philippines,608,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Philippines,608,ASPA,1,Hindus,0,0,0,0,1,0,0
+Philippines,608,ASPA,1,Jews,0,0,0,0,0,1,0
+Philippines,608,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Philippines,608,ASPA,2,Christians,0.9919354246000001,0.00419421302,0.00258024159,0.0012901208,0,0,0
+Philippines,608,ASPA,2,Muslims,0,1,0,0,0,0,0
+Philippines,608,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Philippines,608,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Philippines,608,ASPA,2,Hindus,0,0,0,0,1,0,0
+Philippines,608,ASPA,2,Jews,0,0,0,0,0,1,0
+Philippines,608,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Poland,616,EURO,1,Christians,0.8891263506,0,0.11087364940000001,0,0,0,0
+Poland,616,EURO,1,Muslims,0,1,0,0,0,0,0
+Poland,616,EURO,1,Unaffiliated,0.2399865578,0,0.7600134421999999,0,0,0,0
+Poland,616,EURO,1,Buddhists,0,0,0,1,0,0,0
+Poland,616,EURO,1,Hindus,0,0,0,0,1,0,0
+Poland,616,EURO,1,Jews,0,0,0,0,0,1,0
+Poland,616,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Poland,616,EURO,2,Christians,0.945580238,0.0018847861099999998,0.05253497593,0,0,0,0
+Poland,616,EURO,2,Muslims,0,1,0,0,0,0,0
+Poland,616,EURO,2,Unaffiliated,0.2399865578,0,0.7600134421999999,0,0,0,0
+Poland,616,EURO,2,Buddhists,0,0,0,1,0,0,0
+Poland,616,EURO,2,Hindus,0,0,0,0,1,0,0
+Poland,616,EURO,2,Jews,0,0,0,0,0,1,0
+Poland,616,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Portugal,620,EURO,1,Christians,0.7873254858,0,0.2088339601,0.00104808208,0.0013789373699999998,0,0.0014135345699999998
+Portugal,620,EURO,1,Muslims,0,1,0,0,0,0,0
+Portugal,620,EURO,1,Unaffiliated,0.09508980675,0,0.8809966351999999,0,0,0,0.02391355803
+Portugal,620,EURO,1,Buddhists,0,0,0,1,0,0,0
+Portugal,620,EURO,1,Hindus,0,0,0,0,1,0,0
+Portugal,620,EURO,1,Jews,0,0,0,0,0,1,0
+Portugal,620,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Portugal,620,EURO,2,Christians,0.8576264007000001,0,0.1406233963,5.2681368e-4,0,0,0.00122338931
+Portugal,620,EURO,2,Muslims,0,1,0,0,0,0,0
+Portugal,620,EURO,2,Unaffiliated,0.386366703,0,0.613633297,0,0,0,0
+Portugal,620,EURO,2,Buddhists,0,0,0,1,0,0,0
+Portugal,620,EURO,2,Hindus,0,0,0,0,1,0,0
+Portugal,620,EURO,2,Jews,0,0,0,0,0,1,0
+Portugal,620,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Guinea-Bissau,624,SSAF,1,Christians,0.9968944098999999,0.0031055900600000003,0,0,0,0,0
+Guinea-Bissau,624,SSAF,1,Muslims,0,1,0,0,0,0,0
+Guinea-Bissau,624,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Guinea-Bissau,624,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Guinea-Bissau,624,SSAF,1,Hindus,0,0,0,0,1,0,0
+Guinea-Bissau,624,SSAF,1,Jews,0,0,0,0,0,1,0
+Guinea-Bissau,624,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Guinea-Bissau,624,SSAF,2,Christians,1,0,0,0,0,0,0
+Guinea-Bissau,624,SSAF,2,Muslims,0.00561797753,0.9943820225000001,0,0,0,0,0
+Guinea-Bissau,624,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Guinea-Bissau,624,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Guinea-Bissau,624,SSAF,2,Hindus,0,0,0,0,1,0,0
+Guinea-Bissau,624,SSAF,2,Jews,0,0,0,0,0,1,0
+Guinea-Bissau,624,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+East Timor,626,ASPA,1,Christians,1,0,0,0,0,0,0
+East Timor,626,ASPA,1,Muslims,0,1,0,0,0,0,0
+East Timor,626,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+East Timor,626,ASPA,1,Buddhists,0,0,0,1,0,0,0
+East Timor,626,ASPA,1,Hindus,0,0,0,0,1,0,0
+East Timor,626,ASPA,1,Jews,0,0,0,0,0,1,0
+East Timor,626,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+East Timor,626,ASPA,2,Christians,1,0,0,0,0,0,0
+East Timor,626,ASPA,2,Muslims,0,1,0,0,0,0,0
+East Timor,626,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+East Timor,626,ASPA,2,Buddhists,0,0,0,1,0,0,0
+East Timor,626,ASPA,2,Hindus,0,0,0,0,1,0,0
+East Timor,626,ASPA,2,Jews,0,0,0,0,0,1,0
+East Timor,626,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Puerto Rico,630,LACA,1,Christians,0.8857553313,0,0.113381907,0,0,0,8.6276173e-4
+Puerto Rico,630,LACA,1,Muslims,0,1,0,0,0,0,0
+Puerto Rico,630,LACA,1,Unaffiliated,0.2874186632,0,0.7125813368,0,0,0,0
+Puerto Rico,630,LACA,1,Buddhists,0,0,0,1,0,0,0
+Puerto Rico,630,LACA,1,Hindus,0,0,0,0,1,0,0
+Puerto Rico,630,LACA,1,Jews,0,0,0,0,0,1,0
+Puerto Rico,630,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Puerto Rico,630,LACA,2,Christians,0.9514498043999999,0,0.047806657579999995,0,0,0,7.435380599999999e-4
+Puerto Rico,630,LACA,2,Muslims,0,1,0,0,0,0,0
+Puerto Rico,630,LACA,2,Unaffiliated,0.2874186632,0,0.7125813368,0,0,0,0
+Puerto Rico,630,LACA,2,Buddhists,0,0,0,1,0,0,0
+Puerto Rico,630,LACA,2,Hindus,0,0,0,0,1,0,0
+Puerto Rico,630,LACA,2,Jews,0,0,0,0,0,1,0
+Puerto Rico,630,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Qatar,634,MENA,1,Christians,1,0,0,0,0,0,0
+Qatar,634,MENA,1,Muslims,0,1,0,0,0,0,0
+Qatar,634,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Qatar,634,MENA,1,Buddhists,0,0,0,1,0,0,0
+Qatar,634,MENA,1,Hindus,0,0,0,0,1,0,0
+Qatar,634,MENA,1,Jews,0,0,0,0,0,1,0
+Qatar,634,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Qatar,634,MENA,2,Christians,1,0,0,0,0,0,0
+Qatar,634,MENA,2,Muslims,0,1,0,0,0,0,0
+Qatar,634,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Qatar,634,MENA,2,Buddhists,0,0,0,1,0,0,0
+Qatar,634,MENA,2,Hindus,0,0,0,0,1,0,0
+Qatar,634,MENA,2,Jews,0,0,0,0,0,1,0
+Qatar,634,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Réunion,638,SSAF,1,Christians,1,0,0,0,0,0,0
+Réunion,638,SSAF,1,Muslims,0,1,0,0,0,0,0
+Réunion,638,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Réunion,638,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Réunion,638,SSAF,1,Hindus,0,0,0,0,1,0,0
+Réunion,638,SSAF,1,Jews,0,0,0,0,0,1,0
+Réunion,638,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Réunion,638,SSAF,2,Christians,1,0,0,0,0,0,0
+Réunion,638,SSAF,2,Muslims,0,1,0,0,0,0,0
+Réunion,638,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Réunion,638,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Réunion,638,SSAF,2,Hindus,0,0,0,0,1,0,0
+Réunion,638,SSAF,2,Jews,0,0,0,0,0,1,0
+Réunion,638,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Romania,642,EURO,1,Christians,0.9753206245,0,0.024679375490000002,0,0,0,0
+Romania,642,EURO,1,Muslims,0,1,0,0,0,0,0
+Romania,642,EURO,1,Unaffiliated,0,0,1,0,0,0,0
+Romania,642,EURO,1,Buddhists,0,0,0,1,0,0,0
+Romania,642,EURO,1,Hindus,0,0,0,0,1,0,0
+Romania,642,EURO,1,Jews,0,0,0,0,0,1,0
+Romania,642,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Romania,642,EURO,2,Christians,0.9880665519999999,0,0.01091051751,0,0,0,0.00102293046
+Romania,642,EURO,2,Muslims,0,1,0,0,0,0,0
+Romania,642,EURO,2,Unaffiliated,0,0,1,0,0,0,0
+Romania,642,EURO,2,Buddhists,0,0,0,1,0,0,0
+Romania,642,EURO,2,Hindus,0,0,0,0,1,0,0
+Romania,642,EURO,2,Jews,0,0,0,0,0,1,0
+Romania,642,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Russia,643,EURO,1,Christians,0.8945975484,0,0.1054024516,0,0,0,0
+Russia,643,EURO,1,Muslims,0,0.9839253226,0.01607467741,0,0,0,0
+Russia,643,EURO,1,Unaffiliated,0.3741020046,0.01895433184,0.5867127595,0,0,0,0.02023090405
+Russia,643,EURO,1,Buddhists,0,0,0,1,0,0,0
+Russia,643,EURO,1,Hindus,0,0,0,0,1,0,0
+Russia,643,EURO,1,Jews,0,0,0,0,0,1,0
+Russia,643,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Russia,643,EURO,2,Christians,0.968309201,0,0.026101803330000003,0.00209940907,0,0,0.00348958659
+Russia,643,EURO,2,Muslims,0,0.9468155930000001,0.05318440697,0,0,0,0
+Russia,643,EURO,2,Unaffiliated,0.43124803479999996,0.01883285811,0.5499191071,0,0,0,0
+Russia,643,EURO,2,Buddhists,0,0,0,1,0,0,0
+Russia,643,EURO,2,Hindus,0,0,0,0,1,0,0
+Russia,643,EURO,2,Jews,0,0,0,0,0,1,0
+Russia,643,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Rwanda,646,SSAF,1,Christians,0.9827816303,0.013030387420000001,0.0041879822500000006,0,0,0,0
+Rwanda,646,SSAF,1,Muslims,0.06929356715,0.9307064328,0,0,0,0,0
+Rwanda,646,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Rwanda,646,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Rwanda,646,SSAF,1,Hindus,0,0,0,0,1,0,0
+Rwanda,646,SSAF,1,Jews,0,0,0,0,0,1,0
+Rwanda,646,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Rwanda,646,SSAF,2,Christians,0.9911562663,0.00884373366,0,0,0,0,0
+Rwanda,646,SSAF,2,Muslims,0.04001164794,0.9599883521,0,0,0,0,0
+Rwanda,646,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Rwanda,646,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Rwanda,646,SSAF,2,Hindus,0,0,0,0,1,0,0
+Rwanda,646,SSAF,2,Jews,0,0,0,0,0,1,0
+Rwanda,646,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Saint Luica,662,LACA,1,Christians,1,0,0,0,0,0,0
+Saint Luica,662,LACA,1,Muslims,0,1,0,0,0,0,0
+Saint Luica,662,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Saint Luica,662,LACA,1,Buddhists,0,0,0,1,0,0,0
+Saint Luica,662,LACA,1,Hindus,0,0,0,0,1,0,0
+Saint Luica,662,LACA,1,Jews,0,0,0,0,0,1,0
+Saint Luica,662,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Saint Luica,662,LACA,2,Christians,1,0,0,0,0,0,0
+Saint Luica,662,LACA,2,Muslims,0,1,0,0,0,0,0
+Saint Luica,662,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Saint Luica,662,LACA,2,Buddhists,0,0,0,1,0,0,0
+Saint Luica,662,LACA,2,Hindus,0,0,0,0,1,0,0
+Saint Luica,662,LACA,2,Jews,0,0,0,0,0,1,0
+Saint Luica,662,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Saint Vincent and the Grenadines,670,LACA,1,Christians,1,0,0,0,0,0,0
+Saint Vincent and the Grenadines,670,LACA,1,Muslims,0,1,0,0,0,0,0
+Saint Vincent and the Grenadines,670,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Saint Vincent and the Grenadines,670,LACA,1,Buddhists,0,0,0,1,0,0,0
+Saint Vincent and the Grenadines,670,LACA,1,Hindus,0,0,0,0,1,0,0
+Saint Vincent and the Grenadines,670,LACA,1,Jews,0,0,0,0,0,1,0
+Saint Vincent and the Grenadines,670,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Saint Vincent and the Grenadines,670,LACA,2,Christians,1,0,0,0,0,0,0
+Saint Vincent and the Grenadines,670,LACA,2,Muslims,0,1,0,0,0,0,0
+Saint Vincent and the Grenadines,670,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Saint Vincent and the Grenadines,670,LACA,2,Buddhists,0,0,0,1,0,0,0
+Saint Vincent and the Grenadines,670,LACA,2,Hindus,0,0,0,0,1,0,0
+Saint Vincent and the Grenadines,670,LACA,2,Jews,0,0,0,0,0,1,0
+Saint Vincent and the Grenadines,670,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Sao Tome & Principe,678,SSAF,1,Christians,1,0,0,0,0,0,0
+Sao Tome & Principe,678,SSAF,1,Muslims,0,1,0,0,0,0,0
+Sao Tome & Principe,678,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Sao Tome & Principe,678,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Sao Tome & Principe,678,SSAF,1,Hindus,0,0,0,0,1,0,0
+Sao Tome & Principe,678,SSAF,1,Jews,0,0,0,0,0,1,0
+Sao Tome & Principe,678,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Sao Tome & Principe,678,SSAF,2,Christians,1,0,0,0,0,0,0
+Sao Tome & Principe,678,SSAF,2,Muslims,0,1,0,0,0,0,0
+Sao Tome & Principe,678,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Sao Tome & Principe,678,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Sao Tome & Principe,678,SSAF,2,Hindus,0,0,0,0,1,0,0
+Sao Tome & Principe,678,SSAF,2,Jews,0,0,0,0,0,1,0
+Sao Tome & Principe,678,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Saudi Arabia,682,MENA,1,Christians,1,0,0,0,0,0,0
+Saudi Arabia,682,MENA,1,Muslims,0,1,0,0,0,0,0
+Saudi Arabia,682,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Saudi Arabia,682,MENA,1,Buddhists,0,0,0,1,0,0,0
+Saudi Arabia,682,MENA,1,Hindus,0,0,0,0,1,0,0
+Saudi Arabia,682,MENA,1,Jews,0,0,0,0,0,1,0
+Saudi Arabia,682,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Saudi Arabia,682,MENA,2,Christians,1,0,0,0,0,0,0
+Saudi Arabia,682,MENA,2,Muslims,0,1,0,0,0,0,0
+Saudi Arabia,682,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Saudi Arabia,682,MENA,2,Buddhists,0,0,0,1,0,0,0
+Saudi Arabia,682,MENA,2,Hindus,0,0,0,0,1,0,0
+Saudi Arabia,682,MENA,2,Jews,0,0,0,0,0,1,0
+Saudi Arabia,682,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Senegal,686,SSAF,1,Christians,0.9449454749999999,0.055054524980000005,0,0,0,0,0
+Senegal,686,SSAF,1,Muslims,0,0.9910892769,0.00483431451,0,0,0,0.0040764085500000005
+Senegal,686,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Senegal,686,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Senegal,686,SSAF,1,Hindus,0,0,0,0,1,0,0
+Senegal,686,SSAF,1,Jews,0,0,0,0,0,1,0
+Senegal,686,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Senegal,686,SSAF,2,Christians,0.9418247161,0.0581752839,0,0,0,0,0
+Senegal,686,SSAF,2,Muslims,0,1,0,0,0,0,0
+Senegal,686,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Senegal,686,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Senegal,686,SSAF,2,Hindus,0,0,0,0,1,0,0
+Senegal,686,SSAF,2,Jews,0,0,0,0,0,1,0
+Senegal,686,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Serbia,688,EURO,1,Christians,0.9713494156,0,0.02865058438,0,0,0,0
+Serbia,688,EURO,1,Muslims,0,0.9407361077999999,0.05926389218,0,0,0,0
+Serbia,688,EURO,1,Unaffiliated,0.6619425054,0,0.3380574946,0,0,0,0
+Serbia,688,EURO,1,Buddhists,0,0,0,1,0,0,0
+Serbia,688,EURO,1,Hindus,0,0,0,0,1,0,0
+Serbia,688,EURO,1,Jews,0,0,0,0,0,1,0
+Serbia,688,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Serbia,688,EURO,2,Christians,0.9636764195,0,0.03632358047,0,0,0,0
+Serbia,688,EURO,2,Muslims,0,0.9407361077999999,0.05926389218,0,0,0,0
+Serbia,688,EURO,2,Unaffiliated,0.5900390147,0,0.40996098529999997,0,0,0,0
+Serbia,688,EURO,2,Buddhists,0,0,0,1,0,0,0
+Serbia,688,EURO,2,Hindus,0,0,0,0,1,0,0
+Serbia,688,EURO,2,Jews,0,0,0,0,0,1,0
+Serbia,688,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Seychelles,690,SSAF,1,Christians,1,0,0,0,0,0,0
+Seychelles,690,SSAF,1,Muslims,0,1,0,0,0,0,0
+Seychelles,690,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Seychelles,690,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Seychelles,690,SSAF,1,Hindus,0,0,0,0,1,0,0
+Seychelles,690,SSAF,1,Jews,0,0,0,0,0,1,0
+Seychelles,690,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Seychelles,690,SSAF,2,Christians,1,0,0,0,0,0,0
+Seychelles,690,SSAF,2,Muslims,0,1,0,0,0,0,0
+Seychelles,690,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Seychelles,690,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Seychelles,690,SSAF,2,Hindus,0,0,0,0,1,0,0
+Seychelles,690,SSAF,2,Jews,0,0,0,0,0,1,0
+Seychelles,690,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Sierra Leone,694,SSAF,1,Christians,1,0,0,0,0,0,0
+Sierra Leone,694,SSAF,1,Muslims,0,1,0,0,0,0,0
+Sierra Leone,694,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Sierra Leone,694,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Sierra Leone,694,SSAF,1,Hindus,0,0,0,0,1,0,0
+Sierra Leone,694,SSAF,1,Jews,0,0,0,0,0,1,0
+Sierra Leone,694,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Sierra Leone,694,SSAF,2,Christians,1,0,0,0,0,0,0
+Sierra Leone,694,SSAF,2,Muslims,0,1,0,0,0,0,0
+Sierra Leone,694,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Sierra Leone,694,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Sierra Leone,694,SSAF,2,Hindus,0,0,0,0,1,0,0
+Sierra Leone,694,SSAF,2,Jews,0,0,0,0,0,1,0
+Sierra Leone,694,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Singapore,702,ASPA,1,Christians,0.7070729889999999,0.02372941811,0.2053655195,0.04754395699,0.016288116420000002,0,0
+Singapore,702,ASPA,1,Muslims,0,0.9680949483000001,0.03190505173,0,0,0,0
+Singapore,702,ASPA,1,Unaffiliated,0.1490816025,0.02004498901,0.6178484596,0.16786456009999998,0.01297632817,0,0.0321840606
+Singapore,702,ASPA,1,Buddhists,0.06377648579,0,0.2646123105,0.6533784108999999,0,0,0.01823279279
+Singapore,702,ASPA,1,Hindus,0.03037931153,0,0.1435502608,0.01039524863,0.8156751791000001,0,0
+Singapore,702,ASPA,1,Jews,0,0,0,0,0,1,0
+Singapore,702,ASPA,1,Other_Religions,0.12708307330000002,0.00663217115,0.3405215084,0.21217656340000002,0.00634899954,0,0.30723768419999997
+Singapore,702,ASPA,2,Christians,0.8291248452000001,0.00650006769,0.1288764359,0.0289985835,0,0,0.00650006769
+Singapore,702,ASPA,2,Muslims,0,1,0,0,0,0,0
+Singapore,702,ASPA,2,Unaffiliated,0.1725991393,0.02306192497,0.6638545138,0.140484422,0,0,0
+Singapore,702,ASPA,2,Buddhists,0.1363006511,0.0074934755900000006,0.22917589419999998,0.5842502937999999,0.00622338039,0,0.03655630492
+Singapore,702,ASPA,2,Hindus,0,0,0.08535879874,0,0.8537860548,0,0.06085514641
+Singapore,702,ASPA,2,Jews,0,0,0,0,0,1,0
+Singapore,702,ASPA,2,Other_Religions,0.15937255820000001,0,0.4780552671,0.1270735656,0.0060316634300000005,0,0.2294669456
+Slovakia,703,EURO,1,Christians,0.8005002909,0,0.1891001877,0.008538375590000001,0,0,0.0018611457900000001
+Slovakia,703,EURO,1,Muslims,0,1,0,0,0,0,0
+Slovakia,703,EURO,1,Unaffiliated,0.06283259507,0,0.8814637176,0.03586886217,0,0.01459524255,0.0052395826400000005
+Slovakia,703,EURO,1,Buddhists,0,0,0,1,0,0,0
+Slovakia,703,EURO,1,Hindus,0,0,0,0,1,0,0
+Slovakia,703,EURO,1,Jews,0,0,0,0,0,1,0
+Slovakia,703,EURO,1,Other_Religions,0.5242861987,0,0.3072520418,0,0,0,0.1684617595
+Slovakia,703,EURO,2,Christians,0.8521223481,0.00116345185,0.140367991,0.0023065368399999998,0,0,0.00403967223
+Slovakia,703,EURO,2,Muslims,0,1,0,0,0,0,0
+Slovakia,703,EURO,2,Unaffiliated,0.2110112229,0,0.7652786893,0.023710087799999998,0,0,0
+Slovakia,703,EURO,2,Buddhists,0,0,0,1,0,0,0
+Slovakia,703,EURO,2,Hindus,0,0,0,0,1,0,0
+Slovakia,703,EURO,2,Jews,0,0,0,0,0,1,0
+Slovakia,703,EURO,2,Other_Religions,0.5242861987,0,0.3072520418,0,0,0,0.1684617595
+Viet Nam,704,ASPA,1,Christians,1,0,0,0,0,0,0
+Viet Nam,704,ASPA,1,Muslims,0,1,0,0,0,0,0
+Viet Nam,704,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Viet Nam,704,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Viet Nam,704,ASPA,1,Hindus,0,0,0,0,1,0,0
+Viet Nam,704,ASPA,1,Jews,0,0,0,0,0,1,0
+Viet Nam,704,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Viet Nam,704,ASPA,2,Christians,1,0,0,0,0,0,0
+Viet Nam,704,ASPA,2,Muslims,0,1,0,0,0,0,0
+Viet Nam,704,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Viet Nam,704,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Viet Nam,704,ASPA,2,Hindus,0,0,0,0,1,0,0
+Viet Nam,704,ASPA,2,Jews,0,0,0,0,0,1,0
+Viet Nam,704,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Slovenia,705,EURO,1,Christians,0.7783783784,0,0.2108108108,0.00540540541,0,0,0.00540540541
+Slovenia,705,EURO,1,Muslims,0,0.9428571429,0.057142857139999996,0,0,0,0
+Slovenia,705,EURO,1,Unaffiliated,0.1355932203,0,0.8474576270999999,0.01694915254,0,0,0
+Slovenia,705,EURO,1,Buddhists,0,0,0,1,0,0,0
+Slovenia,705,EURO,1,Hindus,0,0,0,0,1,0,0
+Slovenia,705,EURO,1,Jews,0,0,0,0,0,1,0
+Slovenia,705,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Slovenia,705,EURO,2,Christians,0.7920353982,0,0.20353982299999998,0,0,0,0.00442477876
+Slovenia,705,EURO,2,Muslims,0,0.9428571429,0.057142857139999996,0,0,0,0
+Slovenia,705,EURO,2,Unaffiliated,0.0612244898,0,0.9387755101999999,0,0,0,0
+Slovenia,705,EURO,2,Buddhists,0,0,0,1,0,0,0
+Slovenia,705,EURO,2,Hindus,0,0,0,0,1,0,0
+Slovenia,705,EURO,2,Jews,0,0,0,0,0,1,0
+Slovenia,705,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Somalia,706,SSAF,1,Christians,1,0,0,0,0,0,0
+Somalia,706,SSAF,1,Muslims,0,1,0,0,0,0,0
+Somalia,706,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Somalia,706,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Somalia,706,SSAF,1,Hindus,0,0,0,0,1,0,0
+Somalia,706,SSAF,1,Jews,0,0,0,0,0,1,0
+Somalia,706,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Somalia,706,SSAF,2,Christians,1,0,0,0,0,0,0
+Somalia,706,SSAF,2,Muslims,0,1,0,0,0,0,0
+Somalia,706,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Somalia,706,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Somalia,706,SSAF,2,Hindus,0,0,0,0,1,0,0
+Somalia,706,SSAF,2,Jews,0,0,0,0,0,1,0
+Somalia,706,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+South Africa,710,SSAF,1,Christians,0.9009414437,0.006794026159999999,0.06148953023,0,0,0,0.03077499986
+South Africa,710,SSAF,1,Muslims,0.056474940939999996,0.9435250591000001,0,0,0,0,0
+South Africa,710,SSAF,1,Unaffiliated,0.205461812,0,0.794538188,0,0,0,0
+South Africa,710,SSAF,1,Buddhists,0,0,0,1,0,0,0
+South Africa,710,SSAF,1,Hindus,0,0,0,0,1,0,0
+South Africa,710,SSAF,1,Jews,0,0,0,0,0,1,0
+South Africa,710,SSAF,1,Other_Religions,0.2235144904,0,0.02541914313,0,0,0,0.7510663665
+South Africa,710,SSAF,2,Christians,0.9801487308,0,0.01134408638,0,0.0014981586599999998,0,0.007009024139999999
+South Africa,710,SSAF,2,Muslims,0.056474940939999996,0.9435250591000001,0,0,0,0,0
+South Africa,710,SSAF,2,Unaffiliated,0.4379790477,0,0.5620209522999999,0,0,0,0
+South Africa,710,SSAF,2,Buddhists,0,0,0,1,0,0,0
+South Africa,710,SSAF,2,Hindus,0,0,0,0,1,0,0
+South Africa,710,SSAF,2,Jews,0,0,0,0,0,1,0
+South Africa,710,SSAF,2,Other_Religions,0.33640612859999997,0,0.01573831057,0,0,0,0.6478555608000001
+Zimbabwe,716,SSAF,1,Christians,1,0,0,0,0,0,0
+Zimbabwe,716,SSAF,1,Muslims,0,1,0,0,0,0,0
+Zimbabwe,716,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Zimbabwe,716,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Zimbabwe,716,SSAF,1,Hindus,0,0,0,0,1,0,0
+Zimbabwe,716,SSAF,1,Jews,0,0,0,0,0,1,0
+Zimbabwe,716,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Zimbabwe,716,SSAF,2,Christians,1,0,0,0,0,0,0
+Zimbabwe,716,SSAF,2,Muslims,0,1,0,0,0,0,0
+Zimbabwe,716,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Zimbabwe,716,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Zimbabwe,716,SSAF,2,Hindus,0,0,0,0,1,0,0
+Zimbabwe,716,SSAF,2,Jews,0,0,0,0,0,1,0
+Zimbabwe,716,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Spain,724,EURO,1,Christians,0.5011525466,0.00306960834,0.48324640350000003,0.00610805877,0,0,0.00642338282
+Spain,724,EURO,1,Muslims,0,1,0,0,0,0,0
+Spain,724,EURO,1,Unaffiliated,0.17301340459999998,0.00881612206,0.8181704734,0,0,0,0
+Spain,724,EURO,1,Buddhists,0,0,0,1,0,0,0
+Spain,724,EURO,1,Hindus,0,0,0,0,1,0,0
+Spain,724,EURO,1,Jews,0,0,0,0,0,1,0
+Spain,724,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Spain,724,EURO,2,Christians,0.5280315295,0.0053665317300000005,0.4582137231,0,0,0,0.00838821567
+Spain,724,EURO,2,Muslims,0,1,0,0,0,0,0
+Spain,724,EURO,2,Unaffiliated,0.1232592574,0.01603670907,0.8607040335,0,0,0,0
+Spain,724,EURO,2,Buddhists,0,0,0,1,0,0,0
+Spain,724,EURO,2,Hindus,0,0,0,0,1,0,0
+Spain,724,EURO,2,Jews,0,0,0,0,0,1,0
+Spain,724,EURO,2,Other_Religions,0,0,0,0,0,0,1
+South Sudan,728,SSAF,1,Christians,1,0,0,0,0,0,0
+South Sudan,728,SSAF,1,Muslims,0,1,0,0,0,0,0
+South Sudan,728,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+South Sudan,728,SSAF,1,Buddhists,0,0,0,1,0,0,0
+South Sudan,728,SSAF,1,Hindus,0,0,0,0,1,0,0
+South Sudan,728,SSAF,1,Jews,0,0,0,0,0,1,0
+South Sudan,728,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+South Sudan,728,SSAF,2,Christians,1,0,0,0,0,0,0
+South Sudan,728,SSAF,2,Muslims,0,1,0,0,0,0,0
+South Sudan,728,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+South Sudan,728,SSAF,2,Buddhists,0,0,0,1,0,0,0
+South Sudan,728,SSAF,2,Hindus,0,0,0,0,1,0,0
+South Sudan,728,SSAF,2,Jews,0,0,0,0,0,1,0
+South Sudan,728,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Sudan,729,MENA,1,Christians,1,0,0,0,0,0,0
+Sudan,729,MENA,1,Muslims,0,1,0,0,0,0,0
+Sudan,729,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Sudan,729,MENA,1,Buddhists,0,0,0,1,0,0,0
+Sudan,729,MENA,1,Hindus,0,0,0,0,1,0,0
+Sudan,729,MENA,1,Jews,0,0,0,0,0,1,0
+Sudan,729,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Sudan,729,MENA,2,Christians,1,0,0,0,0,0,0
+Sudan,729,MENA,2,Muslims,0,1,0,0,0,0,0
+Sudan,729,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Sudan,729,MENA,2,Buddhists,0,0,0,1,0,0,0
+Sudan,729,MENA,2,Hindus,0,0,0,0,1,0,0
+Sudan,729,MENA,2,Jews,0,0,0,0,0,1,0
+Sudan,729,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Western Sahara,732,MENA,1,Christians,1,0,0,0,0,0,0
+Western Sahara,732,MENA,1,Muslims,0,1,0,0,0,0,0
+Western Sahara,732,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Western Sahara,732,MENA,1,Buddhists,0,0,0,1,0,0,0
+Western Sahara,732,MENA,1,Hindus,0,0,0,0,1,0,0
+Western Sahara,732,MENA,1,Jews,0,0,0,0,0,1,0
+Western Sahara,732,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Western Sahara,732,MENA,2,Christians,1,0,0,0,0,0,0
+Western Sahara,732,MENA,2,Muslims,0,1,0,0,0,0,0
+Western Sahara,732,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Western Sahara,732,MENA,2,Buddhists,0,0,0,1,0,0,0
+Western Sahara,732,MENA,2,Hindus,0,0,0,0,1,0,0
+Western Sahara,732,MENA,2,Jews,0,0,0,0,0,1,0
+Western Sahara,732,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Suriname,740,LACA,1,Christians,0.8922900079999999,0.0053983700099999995,0.08371218282,0,0,0.005348644620000001,0.013250794500000001
+Suriname,740,LACA,1,Muslims,0.04932542087,0.8877026739,0.06297190522,0,0,0,0
+Suriname,740,LACA,1,Unaffiliated,0.2236953302,0,0.7763046697999999,0,0,0,0
+Suriname,740,LACA,1,Buddhists,0,0,0,1,0,0,0
+Suriname,740,LACA,1,Hindus,0.02712791744,0,0,0,0.9728720826,0,0
+Suriname,740,LACA,1,Jews,0,0,0,0,0,1,0
+Suriname,740,LACA,1,Other_Religions,0.2450460406,0.032390215879999996,0.10208909690000001,0,0,0,0.6204746467
+Suriname,740,LACA,2,Christians,0.9192072638000001,0.01073240889,0.05620691584,0.00681257169,0,0,0.00704083974
+Suriname,740,LACA,2,Muslims,0.1586788972,0.6166914827,0.07579516153,0,0.1488344586,0,0
+Suriname,740,LACA,2,Unaffiliated,0.4828627838,0,0.4456422897,0,0.01598463134,0,0.05551029514
+Suriname,740,LACA,2,Buddhists,0,0,0,1,0,0,0
+Suriname,740,LACA,2,Hindus,0.06283085929,0,0.01567564296,0,0.9214934977999999,0,0
+Suriname,740,LACA,2,Jews,0,0,0,0,0,1,0
+Suriname,740,LACA,2,Other_Religions,0.2450460406,0.032390215879999996,0.10208909690000001,0,0,0,0.6204746467
+Swaziland,748,SSAF,1,Christians,1,0,0,0,0,0,0
+Swaziland,748,SSAF,1,Muslims,0,1,0,0,0,0,0
+Swaziland,748,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Swaziland,748,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Swaziland,748,SSAF,1,Hindus,0,0,0,0,1,0,0
+Swaziland,748,SSAF,1,Jews,0,0,0,0,0,1,0
+Swaziland,748,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Swaziland,748,SSAF,2,Christians,1,0,0,0,0,0,0
+Swaziland,748,SSAF,2,Muslims,0,1,0,0,0,0,0
+Swaziland,748,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Swaziland,748,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Swaziland,748,SSAF,2,Hindus,0,0,0,0,1,0,0
+Swaziland,748,SSAF,2,Jews,0,0,0,0,0,1,0
+Swaziland,748,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Sweden,752,EURO,1,Christians,0.49542818439999997,0,0.4861333357,0.006954166029999999,0,0,0.011484313909999998
+Sweden,752,EURO,1,Muslims,0,0.7820370994,0.2179629006,0,0,0,0
+Sweden,752,EURO,1,Unaffiliated,0.1467973368,0.0103057284,0.7870405059,0.01173875465,0.014973755929999999,0,0.029143918310000003
+Sweden,752,EURO,1,Buddhists,0,0,0,1,0,0,0
+Sweden,752,EURO,1,Hindus,0,0,0,0,1,0,0
+Sweden,752,EURO,1,Jews,0,0,0,0,0,1,0
+Sweden,752,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Sweden,752,EURO,2,Christians,0.6489571676,0.01676031062,0.3059099065,0.01072806334,0,0,0.01764455191
+Sweden,752,EURO,2,Muslims,0,0.7820370994,0.2179629006,0,0,0,0
+Sweden,752,EURO,2,Unaffiliated,0.1215073969,0.015934433930000002,0.8124797449000001,0,0,0,0.05007842427
+Sweden,752,EURO,2,Buddhists,0,0,0,1,0,0,0
+Sweden,752,EURO,2,Hindus,0,0,0,0,1,0,0
+Sweden,752,EURO,2,Jews,0,0,0,0,0,1,0
+Sweden,752,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Switzerland,756,EURO,1,Christians,0.623246493,0.0020040080199999998,0.3527054108,0.0020040080199999998,0,0.0020040080199999998,0.018036072139999998
+Switzerland,756,EURO,1,Muslims,0,0.9090909091,0.09090909091,0,0,0,0
+Switzerland,756,EURO,1,Unaffiliated,0.1724137931,0.04310344828,0.7413793103,0.01724137931,0,0,0.02586206897
+Switzerland,756,EURO,1,Buddhists,0,0,0,1,0,0,0
+Switzerland,756,EURO,1,Hindus,0,0,0,0,1,0,0
+Switzerland,756,EURO,1,Jews,0,0,0,0,0,1,0
+Switzerland,756,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Switzerland,756,EURO,2,Christians,0.6666666667,0.0017825311899999999,0.3137254902,0.00534759358,0.0017825311899999999,0.0017825311899999999,0.008912655969999999
+Switzerland,756,EURO,2,Muslims,0,0.9090909091,0.09090909091,0,0,0,0
+Switzerland,756,EURO,2,Unaffiliated,0.1551724138,0,0.8189655172000001,0.01724137931,0,0,0.00862068966
+Switzerland,756,EURO,2,Buddhists,0,0,0,1,0,0,0
+Switzerland,756,EURO,2,Hindus,0,0,0,0,1,0,0
+Switzerland,756,EURO,2,Jews,0,0,0,0,0,1,0
+Switzerland,756,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Syria,760,MENA,1,Christians,1,0,0,0,0,0,0
+Syria,760,MENA,1,Muslims,0,1,0,0,0,0,0
+Syria,760,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Syria,760,MENA,1,Buddhists,0,0,0,1,0,0,0
+Syria,760,MENA,1,Hindus,0,0,0,0,1,0,0
+Syria,760,MENA,1,Jews,0,0,0,0,0,1,0
+Syria,760,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Syria,760,MENA,2,Christians,1,0,0,0,0,0,0
+Syria,760,MENA,2,Muslims,0,1,0,0,0,0,0
+Syria,760,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Syria,760,MENA,2,Buddhists,0,0,0,1,0,0,0
+Syria,760,MENA,2,Hindus,0,0,0,0,1,0,0
+Syria,760,MENA,2,Jews,0,0,0,0,0,1,0
+Syria,760,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Tajikistan,762,ASPA,1,Christians,1,0,0,0,0,0,0
+Tajikistan,762,ASPA,1,Muslims,0,1,0,0,0,0,0
+Tajikistan,762,ASPA,1,Unaffiliated,0,1,0,0,0,0,0
+Tajikistan,762,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Tajikistan,762,ASPA,1,Hindus,0,0,0,0,1,0,0
+Tajikistan,762,ASPA,1,Jews,0,0,0,0,0,1,0
+Tajikistan,762,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Tajikistan,762,ASPA,2,Christians,1,0,0,0,0,0,0
+Tajikistan,762,ASPA,2,Muslims,0,1,0,0,0,0,0
+Tajikistan,762,ASPA,2,Unaffiliated,0,1,0,0,0,0,0
+Tajikistan,762,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Tajikistan,762,ASPA,2,Hindus,0,0,0,0,1,0,0
+Tajikistan,762,ASPA,2,Jews,0,0,0,0,0,1,0
+Tajikistan,762,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Thailand,764,ASPA,1,Christians,0.7140425401,0,0,0.2859574599,0,0,0
+Thailand,764,ASPA,1,Muslims,0,0.9681242758,0,0.03187572423,0,0,0
+Thailand,764,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Thailand,764,ASPA,1,Buddhists,0.011295802649999999,0.00289282005,0.0076726732399999996,0.9781387041,0,0,0
+Thailand,764,ASPA,1,Hindus,0,0,0,0,1,0,0
+Thailand,764,ASPA,1,Jews,0,0,0,0,0,1,0
+Thailand,764,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Thailand,764,ASPA,2,Christians,0.7140425401,0,0,0.2859574599,0,0,0
+Thailand,764,ASPA,2,Muslims,0,0.9714672822,0,0.028532717750000002,0,0,0
+Thailand,764,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Thailand,764,ASPA,2,Buddhists,0.005308878489999999,0.00230990992,0.0038850839599999997,0.9884961275999999,0,0,0
+Thailand,764,ASPA,2,Hindus,0,0,0,0,1,0,0
+Thailand,764,ASPA,2,Jews,0,0,0,0,0,1,0
+Thailand,764,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Togo,768,SSAF,1,Christians,1,0,0,0,0,0,0
+Togo,768,SSAF,1,Muslims,0,1,0,0,0,0,0
+Togo,768,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Togo,768,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Togo,768,SSAF,1,Hindus,0,0,0,0,1,0,0
+Togo,768,SSAF,1,Jews,0,0,0,0,0,1,0
+Togo,768,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Togo,768,SSAF,2,Christians,1,0,0,0,0,0,0
+Togo,768,SSAF,2,Muslims,0,1,0,0,0,0,0
+Togo,768,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Togo,768,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Togo,768,SSAF,2,Hindus,0,0,0,0,1,0,0
+Togo,768,SSAF,2,Jews,0,0,0,0,0,1,0
+Togo,768,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Tonga,776,ASPA,1,Christians,1,0,0,0,0,0,0
+Tonga,776,ASPA,1,Muslims,0,1,0,0,0,0,0
+Tonga,776,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Tonga,776,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Tonga,776,ASPA,1,Hindus,0,0,0,0,1,0,0
+Tonga,776,ASPA,1,Jews,0,0,0,0,0,1,0
+Tonga,776,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Tonga,776,ASPA,2,Christians,1,0,0,0,0,0,0
+Tonga,776,ASPA,2,Muslims,0,1,0,0,0,0,0
+Tonga,776,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Tonga,776,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Tonga,776,ASPA,2,Hindus,0,0,0,0,1,0,0
+Tonga,776,ASPA,2,Jews,0,0,0,0,0,1,0
+Tonga,776,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Trinidad & Tobago,780,LACA,1,Christians,1,0,0,0,0,0,0
+Trinidad & Tobago,780,LACA,1,Muslims,0,1,0,0,0,0,0
+Trinidad & Tobago,780,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+Trinidad & Tobago,780,LACA,1,Buddhists,0,0,0,1,0,0,0
+Trinidad & Tobago,780,LACA,1,Hindus,0,0,0,0,1,0,0
+Trinidad & Tobago,780,LACA,1,Jews,0,0,0,0,0,1,0
+Trinidad & Tobago,780,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Trinidad & Tobago,780,LACA,2,Christians,1,0,0,0,0,0,0
+Trinidad & Tobago,780,LACA,2,Muslims,0,1,0,0,0,0,0
+Trinidad & Tobago,780,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+Trinidad & Tobago,780,LACA,2,Buddhists,0,0,0,1,0,0,0
+Trinidad & Tobago,780,LACA,2,Hindus,0,0,0,0,1,0,0
+Trinidad & Tobago,780,LACA,2,Jews,0,0,0,0,0,1,0
+Trinidad & Tobago,780,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Arab United Emirates,784,MENA,1,Christians,1,0,0,0,0,0,0
+Arab United Emirates,784,MENA,1,Muslims,0,1,0,0,0,0,0
+Arab United Emirates,784,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Arab United Emirates,784,MENA,1,Buddhists,0,0,0,1,0,0,0
+Arab United Emirates,784,MENA,1,Hindus,0,0,0,0,1,0,0
+Arab United Emirates,784,MENA,1,Jews,0,0,0,0,0,1,0
+Arab United Emirates,784,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Arab United Emirates,784,MENA,2,Christians,1,0,0,0,0,0,0
+Arab United Emirates,784,MENA,2,Muslims,0,1,0,0,0,0,0
+Arab United Emirates,784,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Arab United Emirates,784,MENA,2,Buddhists,0,0,0,1,0,0,0
+Arab United Emirates,784,MENA,2,Hindus,0,0,0,0,1,0,0
+Arab United Emirates,784,MENA,2,Jews,0,0,0,0,0,1,0
+Arab United Emirates,784,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Tunisia,788,MENA,1,Christians,1,0,0,0,0,0,0
+Tunisia,788,MENA,1,Muslims,0,1,0,0,0,0,0
+Tunisia,788,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Tunisia,788,MENA,1,Buddhists,0,0,0,1,0,0,0
+Tunisia,788,MENA,1,Hindus,0,0,0,0,1,0,0
+Tunisia,788,MENA,1,Jews,0,0,0,0,0,1,0
+Tunisia,788,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Tunisia,788,MENA,2,Christians,1,0,0,0,0,0,0
+Tunisia,788,MENA,2,Muslims,0,1,0,0,0,0,0
+Tunisia,788,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Tunisia,788,MENA,2,Buddhists,0,0,0,1,0,0,0
+Tunisia,788,MENA,2,Hindus,0,0,0,0,1,0,0
+Tunisia,788,MENA,2,Jews,0,0,0,0,0,1,0
+Tunisia,788,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Türkiye,792,ASPA,1,Christians,1,0,0,0,0,0,0
+Türkiye,792,ASPA,1,Muslims,0,0.961223588,0.02986912125,0,0,0,0.00890729079
+Türkiye,792,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Türkiye,792,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Türkiye,792,ASPA,1,Hindus,0,0,0,0,1,0,0
+Türkiye,792,ASPA,1,Jews,0,0,0,0,0,1,0
+Türkiye,792,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Türkiye,792,ASPA,2,Christians,1,0,0,0,0,0,0
+Türkiye,792,ASPA,2,Muslims,0,0.9725107059,0.027489294129999998,0,0,0,0
+Türkiye,792,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Türkiye,792,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Türkiye,792,ASPA,2,Hindus,0,0,0,0,1,0,0
+Türkiye,792,ASPA,2,Jews,0,0,0,0,0,1,0
+Türkiye,792,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Turkmenistan,795,ASPA,1,Christians,1,0,0,0,0,0,0
+Turkmenistan,795,ASPA,1,Muslims,0,1,0,0,0,0,0
+Turkmenistan,795,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Turkmenistan,795,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Turkmenistan,795,ASPA,1,Hindus,0,0,0,0,1,0,0
+Turkmenistan,795,ASPA,1,Jews,0,0,0,0,0,1,0
+Turkmenistan,795,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Turkmenistan,795,ASPA,2,Christians,1,0,0,0,0,0,0
+Turkmenistan,795,ASPA,2,Muslims,0,1,0,0,0,0,0
+Turkmenistan,795,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Turkmenistan,795,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Turkmenistan,795,ASPA,2,Hindus,0,0,0,0,1,0,0
+Turkmenistan,795,ASPA,2,Jews,0,0,0,0,0,1,0
+Turkmenistan,795,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Uganda,800,SSAF,1,Christians,1,0,0,0,0,0,0
+Uganda,800,SSAF,1,Muslims,0,1,0,0,0,0,0
+Uganda,800,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Uganda,800,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Uganda,800,SSAF,1,Hindus,0,0,0,0,1,0,0
+Uganda,800,SSAF,1,Jews,0,0,0,0,0,1,0
+Uganda,800,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Uganda,800,SSAF,2,Christians,1,0,0,0,0,0,0
+Uganda,800,SSAF,2,Muslims,0,1,0,0,0,0,0
+Uganda,800,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Uganda,800,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Uganda,800,SSAF,2,Hindus,0,0,0,0,1,0,0
+Uganda,800,SSAF,2,Jews,0,0,0,0,0,1,0
+Uganda,800,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Ukraine,804,EURO,1,Christians,0.9544855525,9.423105099999999e-4,0.04457213702,0,0,0,0
+Ukraine,804,EURO,1,Muslims,0,1,0,0,0,0,0
+Ukraine,804,EURO,1,Unaffiliated,0.45148681009999997,0,0.5485131899,0,0,0,0
+Ukraine,804,EURO,1,Buddhists,0,0,0,1,0,0,0
+Ukraine,804,EURO,1,Hindus,0,0,0,0,1,0,0
+Ukraine,804,EURO,1,Jews,0,0,0,0,0,1,0
+Ukraine,804,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Ukraine,804,EURO,2,Christians,0.9908705566,0.00111570036,0.00801374303,0,0,0,0
+Ukraine,804,EURO,2,Muslims,0,1,0,0,0,0,0
+Ukraine,804,EURO,2,Unaffiliated,0.5363461674,0,0.46365383260000004,0,0,0,0
+Ukraine,804,EURO,2,Buddhists,0,0,0,1,0,0,0
+Ukraine,804,EURO,2,Hindus,0,0,0,0,1,0,0
+Ukraine,804,EURO,2,Jews,0,0,0,0,0,1,0
+Ukraine,804,EURO,2,Other_Religions,0,0,0,0,0,0,1
+North Macedonia,807,EURO,1,Christians,1,0,0,0,0,0,0
+North Macedonia,807,EURO,1,Muslims,0,1,0,0,0,0,0
+North Macedonia,807,EURO,1,Unaffiliated,0,0,1,0,0,0,0
+North Macedonia,807,EURO,1,Buddhists,0,0,0,1,0,0,0
+North Macedonia,807,EURO,1,Hindus,0,0,0,0,1,0,0
+North Macedonia,807,EURO,1,Jews,0,0,0,0,0,1,0
+North Macedonia,807,EURO,1,Other_Religions,0,0,0,0,0,0,1
+North Macedonia,807,EURO,2,Christians,1,0,0,0,0,0,0
+North Macedonia,807,EURO,2,Muslims,0,1,0,0,0,0,0
+North Macedonia,807,EURO,2,Unaffiliated,0,0,1,0,0,0,0
+North Macedonia,807,EURO,2,Buddhists,0,0,0,1,0,0,0
+North Macedonia,807,EURO,2,Hindus,0,0,0,0,1,0,0
+North Macedonia,807,EURO,2,Jews,0,0,0,0,0,1,0
+North Macedonia,807,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Egypt,818,MENA,1,Christians,1,0,0,0,0,0,0
+Egypt,818,MENA,1,Muslims,0,1,0,0,0,0,0
+Egypt,818,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Egypt,818,MENA,1,Buddhists,0,0,0,1,0,0,0
+Egypt,818,MENA,1,Hindus,0,0,0,0,1,0,0
+Egypt,818,MENA,1,Jews,0,0,0,0,0,1,0
+Egypt,818,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Egypt,818,MENA,2,Christians,1,0,0,0,0,0,0
+Egypt,818,MENA,2,Muslims,0,1,0,0,0,0,0
+Egypt,818,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Egypt,818,MENA,2,Buddhists,0,0,0,1,0,0,0
+Egypt,818,MENA,2,Hindus,0,0,0,0,1,0,0
+Egypt,818,MENA,2,Jews,0,0,0,0,0,1,0
+Egypt,818,MENA,2,Other_Religions,0,0,0,0,0,0,1
+United Kingdom,826,EURO,1,Christians,0.3804141087,0,0.616419438,0,0,0.00316645326,0
+United Kingdom,826,EURO,1,Muslims,0,0.9209647273,0.07903527270999999,0,0,0,0
+United Kingdom,826,EURO,1,Unaffiliated,0.00864717063,0,0.9727467578,0,0,0,0.01860607159
+United Kingdom,826,EURO,1,Buddhists,0,0,0,1,0,0,0
+United Kingdom,826,EURO,1,Hindus,0,0,0,0,1,0,0
+United Kingdom,826,EURO,1,Jews,0,0,0,0,0,1,0
+United Kingdom,826,EURO,1,Other_Religions,0,0,0,0,0,0,1
+United Kingdom,826,EURO,2,Christians,0.5397457142,0,0.4547577642,0.00210109063,0,0,0.00339543099
+United Kingdom,826,EURO,2,Muslims,0,0.9535774137999999,0.046422586179999996,0,0,0,0
+United Kingdom,826,EURO,2,Unaffiliated,0.06617037796,0.01360825568,0.9012741612,0.01364861951,0,0,0.00529858565
+United Kingdom,826,EURO,2,Buddhists,0,0,0,1,0,0,0
+United Kingdom,826,EURO,2,Hindus,0,0,0,0,1,0,0
+United Kingdom,826,EURO,2,Jews,0,0,0,0,0,1,0
+United Kingdom,826,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Channel Islands,830,EURO,1,Christians,1,0,0,0,0,0,0
+Channel Islands,830,EURO,1,Muslims,0,1,0,0,0,0,0
+Channel Islands,830,EURO,1,Unaffiliated,0,0,1,0,0,0,0
+Channel Islands,830,EURO,1,Buddhists,0,0,0,1,0,0,0
+Channel Islands,830,EURO,1,Hindus,0,0,0,0,1,0,0
+Channel Islands,830,EURO,1,Jews,0,0,0,0,0,1,0
+Channel Islands,830,EURO,1,Other_Religions,0,0,0,0,0,0,1
+Channel Islands,830,EURO,2,Christians,1,0,0,0,0,0,0
+Channel Islands,830,EURO,2,Muslims,0,1,0,0,0,0,0
+Channel Islands,830,EURO,2,Unaffiliated,0,0,1,0,0,0,0
+Channel Islands,830,EURO,2,Buddhists,0,0,0,1,0,0,0
+Channel Islands,830,EURO,2,Hindus,0,0,0,0,1,0,0
+Channel Islands,830,EURO,2,Jews,0,0,0,0,0,1,0
+Channel Islands,830,EURO,2,Other_Religions,0,0,0,0,0,0,1
+Tanzania,834,SSAF,1,Christians,0.9583333333,0.02450980392,0.01225490196,0,0,0,0.00490196078
+Tanzania,834,SSAF,1,Muslims,0.021739130430000003,0.9695652174,0.00869565217,0,0,0,0
+Tanzania,834,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Tanzania,834,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Tanzania,834,SSAF,1,Hindus,0,0,0,0,1,0,0
+Tanzania,834,SSAF,1,Jews,0,0,0,0,0,1,0
+Tanzania,834,SSAF,1,Other_Religions,0.5789473684,0,0,0,0,0,0.4210526316
+Tanzania,834,SSAF,2,Christians,0.9701897019000001,0.0298102981,0,0,0,0,0
+Tanzania,834,SSAF,2,Muslims,0.02678571429,0.96875,0.00446428571,0,0,0,0
+Tanzania,834,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Tanzania,834,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Tanzania,834,SSAF,2,Hindus,0,0,0,0,1,0,0
+Tanzania,834,SSAF,2,Jews,0,0,0,0,0,1,0
+Tanzania,834,SSAF,2,Other_Religions,0.5733312764,0.021341149860000002,0,0,0,0,0.4053275738
+USA,840,NOAM,1,Christians,0.6315487933,0.0017715715000000002,0.33028730840000003,0.005812016079999999,0.00128611956,0.00117928705,0.02811490412
+USA,840,NOAM,1,Muslims,0.07136611296,0.7590187410999999,0.1564811352,0,0,0,0.01313401082
+USA,840,NOAM,1,Unaffiliated,0.1465921389,0.00597739086,0.7932258638999999,0.01234417136,0,0.011068079040000001,0.030792355950000003
+USA,840,NOAM,1,Buddhists,0.1117750111,0,0.466954284,0.41672193399999996,0,0,0.00454877096
+USA,840,NOAM,1,Hindus,0.057425728100000004,0,0.1037412517,0.0034879489400000004,0.8353450712999999,0,0
+USA,840,NOAM,1,Jews,0.00444248773,0.0040470906,0.2119737562,0.00585066667,0.007257255099999999,0.7358644645,0.030564279139999997
+USA,840,NOAM,1,Other_Religions,0.1464190174,0,0.4716740097,0,0,0,0.38190697290000003
+USA,840,NOAM,2,Christians,0.6888578663,0.0026585726399999997,0.28045973620000003,0.00474328748,5.7805337e-4,0.00203664581,0.02066583815
+USA,840,NOAM,2,Muslims,0.04701132155,0.8520466737,0.09446872820999999,0,0,0,0.006473276500000001
+USA,840,NOAM,2,Unaffiliated,0.19330287070000002,0.00171343615,0.7660691601,0.00701795124,3.810569e-5,0.00288640094,0.02897207521
+USA,840,NOAM,2,Buddhists,0.09812265978,0,0.46929181560000005,0.4234767049,0,0,0.00910881973
+USA,840,NOAM,2,Hindus,0.051101957110000006,0,0.1404083236,0,0.8078490744,0,6.4064491e-4
+USA,840,NOAM,2,Jews,0.0030510794899999997,0,0.1777745788,0.016395897660000002,0,0.7932841706000001,0.00949427351
+USA,840,NOAM,2,Other_Religions,0.033379327230000005,0,0.3305439826,0,0.03683629268,0,0.5992403974
+U.S. Virgin Islands,850,LACA,1,Christians,1,0,0,0,0,0,0
+U.S. Virgin Islands,850,LACA,1,Muslims,0,1,0,0,0,0,0
+U.S. Virgin Islands,850,LACA,1,Unaffiliated,0,0,1,0,0,0,0
+U.S. Virgin Islands,850,LACA,1,Buddhists,0,0,0,1,0,0,0
+U.S. Virgin Islands,850,LACA,1,Hindus,0,0,0,0,1,0,0
+U.S. Virgin Islands,850,LACA,1,Jews,0,0,0,0,0,1,0
+U.S. Virgin Islands,850,LACA,1,Other_Religions,0,0,0,0,0,0,1
+U.S. Virgin Islands,850,LACA,2,Christians,1,0,0,0,0,0,0
+U.S. Virgin Islands,850,LACA,2,Muslims,0,1,0,0,0,0,0
+U.S. Virgin Islands,850,LACA,2,Unaffiliated,0,0,1,0,0,0,0
+U.S. Virgin Islands,850,LACA,2,Buddhists,0,0,0,1,0,0,0
+U.S. Virgin Islands,850,LACA,2,Hindus,0,0,0,0,1,0,0
+U.S. Virgin Islands,850,LACA,2,Jews,0,0,0,0,0,1,0
+U.S. Virgin Islands,850,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Burkina Faso,854,SSAF,1,Christians,1,0,0,0,0,0,0
+Burkina Faso,854,SSAF,1,Muslims,0,1,0,0,0,0,0
+Burkina Faso,854,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Burkina Faso,854,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Burkina Faso,854,SSAF,1,Hindus,0,0,0,0,1,0,0
+Burkina Faso,854,SSAF,1,Jews,0,0,0,0,0,1,0
+Burkina Faso,854,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Burkina Faso,854,SSAF,2,Christians,1,0,0,0,0,0,0
+Burkina Faso,854,SSAF,2,Muslims,0,1,0,0,0,0,0
+Burkina Faso,854,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Burkina Faso,854,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Burkina Faso,854,SSAF,2,Hindus,0,0,0,0,1,0,0
+Burkina Faso,854,SSAF,2,Jews,0,0,0,0,0,1,0
+Burkina Faso,854,SSAF,2,Other_Religions,0,0,0,0,0,0,1
+Uruguay,858,LACA,1,Christians,0.6589255235,0,0.33241743980000005,0,0,0,0.0086570367
+Uruguay,858,LACA,1,Muslims,0,1,0,0,0,0,0
+Uruguay,858,LACA,1,Unaffiliated,0.09652317862,0,0.8891396629,0,0,0,0.014337158510000001
+Uruguay,858,LACA,1,Buddhists,0,0,0,1,0,0,0
+Uruguay,858,LACA,1,Hindus,0,0,0,0,1,0,0
+Uruguay,858,LACA,1,Jews,0,0,0,0,0,1,0
+Uruguay,858,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Uruguay,858,LACA,2,Christians,0.7622106961999999,0,0.2154131274,0,0,0,0.02237617637
+Uruguay,858,LACA,2,Muslims,0,1,0,0,0,0,0
+Uruguay,858,LACA,2,Unaffiliated,0.1475827267,0,0.8483403964999999,0,0,0,0.00407687682
+Uruguay,858,LACA,2,Buddhists,0,0,0,1,0,0,0
+Uruguay,858,LACA,2,Hindus,0,0,0,0,1,0,0
+Uruguay,858,LACA,2,Jews,0,0,0,0,0,1,0
+Uruguay,858,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Uzbekistan,860,ASPA,1,Christians,1,0,0,0,0,0,0
+Uzbekistan,860,ASPA,1,Muslims,0.004377183539999999,0.9956228165000001,0,0,0,0,0
+Uzbekistan,860,ASPA,1,Unaffiliated,0,0.9701316894,0.029868310619999998,0,0,0,0
+Uzbekistan,860,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Uzbekistan,860,ASPA,1,Hindus,0,0,0,0,1,0,0
+Uzbekistan,860,ASPA,1,Jews,0,0,0,0,0,1,0
+Uzbekistan,860,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Uzbekistan,860,ASPA,2,Christians,1,0,0,0,0,0,0
+Uzbekistan,860,ASPA,2,Muslims,0,1,0,0,0,0,0
+Uzbekistan,860,ASPA,2,Unaffiliated,0,0.9478583743,0.05214162574,0,0,0,0
+Uzbekistan,860,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Uzbekistan,860,ASPA,2,Hindus,0,0,0,0,1,0,0
+Uzbekistan,860,ASPA,2,Jews,0,0,0,0,0,1,0
+Uzbekistan,860,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Venezuela,862,LACA,1,Christians,0.8651658544,0,0.1283026737,0,0,0,0.006531471850000001
+Venezuela,862,LACA,1,Muslims,0,1,0,0,0,0,0
+Venezuela,862,LACA,1,Unaffiliated,0.39036541020000004,0,0.6096345898,0,0,0,0
+Venezuela,862,LACA,1,Buddhists,0,0,0,1,0,0,0
+Venezuela,862,LACA,1,Hindus,0,0,0,0,1,0,0
+Venezuela,862,LACA,1,Jews,0,0,0,0,0,1,0
+Venezuela,862,LACA,1,Other_Religions,0,0,0,0,0,0,1
+Venezuela,862,LACA,2,Christians,0.9001651578000001,0,0.09737983986,0,0,0,0.00245500232
+Venezuela,862,LACA,2,Muslims,0,1,0,0,0,0,0
+Venezuela,862,LACA,2,Unaffiliated,0.3715367207,0,0.6284632793,0,0,0,0
+Venezuela,862,LACA,2,Buddhists,0,0,0,1,0,0,0
+Venezuela,862,LACA,2,Hindus,0,0,0,0,1,0,0
+Venezuela,862,LACA,2,Jews,0,0,0,0,0,1,0
+Venezuela,862,LACA,2,Other_Religions,0,0,0,0,0,0,1
+Samoa,882,ASPA,1,Christians,1,0,0,0,0,0,0
+Samoa,882,ASPA,1,Muslims,0,1,0,0,0,0,0
+Samoa,882,ASPA,1,Unaffiliated,0,0,1,0,0,0,0
+Samoa,882,ASPA,1,Buddhists,0,0,0,1,0,0,0
+Samoa,882,ASPA,1,Hindus,0,0,0,0,1,0,0
+Samoa,882,ASPA,1,Jews,0,0,0,0,0,1,0
+Samoa,882,ASPA,1,Other_Religions,0,0,0,0,0,0,1
+Samoa,882,ASPA,2,Christians,1,0,0,0,0,0,0
+Samoa,882,ASPA,2,Muslims,0,1,0,0,0,0,0
+Samoa,882,ASPA,2,Unaffiliated,0,0,1,0,0,0,0
+Samoa,882,ASPA,2,Buddhists,0,0,0,1,0,0,0
+Samoa,882,ASPA,2,Hindus,0,0,0,0,1,0,0
+Samoa,882,ASPA,2,Jews,0,0,0,0,0,1,0
+Samoa,882,ASPA,2,Other_Religions,0,0,0,0,0,0,1
+Yemen,887,MENA,1,Christians,1,0,0,0,0,0,0
+Yemen,887,MENA,1,Muslims,0,1,0,0,0,0,0
+Yemen,887,MENA,1,Unaffiliated,0,0,1,0,0,0,0
+Yemen,887,MENA,1,Buddhists,0,0,0,1,0,0,0
+Yemen,887,MENA,1,Hindus,0,0,0,0,1,0,0
+Yemen,887,MENA,1,Jews,0,0,0,0,0,1,0
+Yemen,887,MENA,1,Other_Religions,0,0,0,0,0,0,1
+Yemen,887,MENA,2,Christians,1,0,0,0,0,0,0
+Yemen,887,MENA,2,Muslims,0,1,0,0,0,0,0
+Yemen,887,MENA,2,Unaffiliated,0,0,1,0,0,0,0
+Yemen,887,MENA,2,Buddhists,0,0,0,1,0,0,0
+Yemen,887,MENA,2,Hindus,0,0,0,0,1,0,0
+Yemen,887,MENA,2,Jews,0,0,0,0,0,1,0
+Yemen,887,MENA,2,Other_Religions,0,0,0,0,0,0,1
+Zambia,894,SSAF,1,Christians,1,0,0,0,0,0,0
+Zambia,894,SSAF,1,Muslims,0,1,0,0,0,0,0
+Zambia,894,SSAF,1,Unaffiliated,0,0,1,0,0,0,0
+Zambia,894,SSAF,1,Buddhists,0,0,0,1,0,0,0
+Zambia,894,SSAF,1,Hindus,0,0,0,0,1,0,0
+Zambia,894,SSAF,1,Jews,0,0,0,0,0,1,0
+Zambia,894,SSAF,1,Other_Religions,0,0,0,0,0,0,1
+Zambia,894,SSAF,2,Christians,1,0,0,0,0,0,0
+Zambia,894,SSAF,2,Muslims,0,1,0,0,0,0,0
+Zambia,894,SSAF,2,Unaffiliated,0,0,1,0,0,0,0
+Zambia,894,SSAF,2,Buddhists,0,0,0,1,0,0,0
+Zambia,894,SSAF,2,Hindus,0,0,0,0,1,0,0
+Zambia,894,SSAF,2,Jews,0,0,0,0,0,1,0
+Zambia,894,SSAF,2,Other_Religions,0,0,0,0,0,0,1

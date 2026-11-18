@@ -1,0 +1,46 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/log
+/Main_1
+Main_fertility_cap
+/demographic
+/migration and switching
+/migration no switching
+/migration
+/no migration no switching
+/no migration switching
+/switching
+.RDataTmp1
+/comparative
+/SC1
+.RDataTmp
+.RDataTmp
+.RDataTmp
+/SC_1
+.positai
+/test
+/fmfs
+/lmls
+/Mig
+/Nomig
+/test_no_mig
+/test_no_mig_ps
+/test_normal
+/test_normal_ps
+/.Rd2pdf23428
+/10OCT2026
+base_data_list (1).rda
+mrc.drawio
+mrc.drawio.pdf
+Test3.R
+Test3.R
+Test3.R
+Test3.R
+Test3.R
+Test3.R
+Test3.R
+
+# Pre-built vignette output
+vignettes/*.html

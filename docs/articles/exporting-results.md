@@ -1,0 +1,389 @@
+# Exporting Projection Results
+
+This vignette covers how to export MRC projection results to CSV files
+using [`save_csv_all()`](../reference/save_csv_all.md). For creating and
+running a projection, see the *Conducting an MRC Projection* vignette.
+For generating plots, see the *Visualising MRC Projection Results*
+vignette.
+
+All example tables below show rows for the **United States (code 840)**
+from a full 11-step projection with `light_migration = TRUE` and
+`light_switching = TRUE`. Religion columns are truncated to
+`Christians`, `Muslims`, and `Unaffiliated`; the full output contains
+all seven religions (plus seven post-switch columns when
+`post_switch = TRUE`).
+
+------------------------------------------------------------------------
+
+## `save_csv_all()`
+
+``` r
+
+library(measuringreligiouschange)
+
+save_csv_all(
+  obj,
+  objects = list("countries", "regions"),
+  # "countries" → country-level output (one row per country / period
+  #               / sex / age group, depending on file type).
+  # "regions"   → the same data aggregated to world regions.
+  #               Requires save_totals = TRUE in project().
+
+  folder = "output/my_projection",
+  # Directory for the CSV files; created if absent.
+  # Defaults to the projection's name.
+
+  demographic_files = TRUE, # enables files 1 – 6 below
+  switching_files = TRUE, # enables files 7 – 8 below
+  # Omit to inherit from the projection's setting.
+  migration_files = TRUE, # enables files 9 – 10 below
+  # Omit to inherit from the projection's setting.
+
+  order_by_name = FALSE, # FALSE → sort by ISO code; TRUE → alphabetical
+  progress_bar = TRUE
+)
+```
+
+------------------------------------------------------------------------
+
+## Files controlled by `demographic_files`
+
+### 1 · `projection_structure_data.csv`
+
+Population in thousands by age group, sex, and religion for every
+projected period. This is the core output of the projection.
+
+**Column structure**
+
+| Column         | Description                                        |
+|----------------|----------------------------------------------------|
+| `Country`      | Country name                                       |
+| `Country_code` | ISO 3166-1 numeric code                            |
+| `Year`         | Year at the end of the projection step             |
+| `Sex`          | `1` = males, `2` = females                         |
+| `Age_group`    | Five-year age group label (`0-4`, `5-9`, …, `95+`) |
+| `Christians` … | Population in that religious group (thousands)     |
+
+**Example rows — USA, year 2025**
+
+| Country | Country_code | Year | Sex | Age_group | Christians | Muslims | Unaffiliated | …   |
+|---------|--------------|------|-----|-----------|-----------:|--------:|-------------:|-----|
+| USA     | 840          | 2025 | 1   | 0-4       |       5631 |     167 |         3253 | …   |
+| USA     | 840          | 2025 | 1   | 5-9       |       5607 |     171 |         3788 | …   |
+| USA     | 840          | 2025 | 1   | 10-14     |       6245 |     158 |         3794 | …   |
+| USA     | 840          | 2025 | 2   | 0-4       |       5379 |     168 |         3106 | …   |
+| USA     | 840          | 2025 | 2   | 5-9       |       5579 |     171 |         3417 | …   |
+
+------------------------------------------------------------------------
+
+### 2 · `projection_deaths_data.csv`
+
+Deaths in thousands by age group, sex, religion, and projection period.
+
+**Column structure**
+
+| Column | Description |
+|----|----|
+| `Country` | Country name |
+| `Country_code` | ISO 3166-1 numeric code |
+| `Period` | Projection interval, e.g. `"2020-2025"` |
+| `Sex` | `1` = males, `2` = females |
+| `Age_group` | Five-year age group (`0`, `1-4`, `5-9`, …, `95+`) |
+| `Structure` | Demographic sub-structure; `"total"` is the main aggregated output (see note below) |
+| `Region` | World region abbreviation |
+| `Christians` … | Deaths in that religious group (thousands) |
+
+**Example rows — USA, period 2020–2025, males, `Structure = "total"`**
+
+| Country_code | Period | Sex | Age_group | Structure | Christians | Muslims | Unaffiliated | … |
+|----|----|----|----|----|---:|---:|---:|----|
+| 840 | 2020-2025 | 1 | 0 | total | 33.8 | 0.94 | 19.7 | … |
+| 840 | 2020-2025 | 1 | 1-4 | total | 5.5 | 0.16 | 3.7 | … |
+| 840 | 2020-2025 | 1 | 5-9 | total | 4.0 | 0.10 | 2.5 | … |
+
+> **Note on the `Structure` column.** The projection computes mortality
+> separately for several demographic sub-structures
+> (e.g. `"switching first"`, `"sw_first_migrants"`). The `"total"` rows
+> sum across all sub-structures and are the values typically used in
+> analysis.
+
+------------------------------------------------------------------------
+
+### 3 · `projection_births_data.csv`
+
+Births in thousands by fertile age group, religion, and projection
+period.
+
+**Column structure**
+
+| Column | Description |
+|----|----|
+| `Country` | Country name |
+| `Country_code` | ISO 3166-1 numeric code |
+| `Period` | Projection interval |
+| `Mother_age_group` | Fertile age group of the mother (`10-14` … `45-49`), plus `"TFR"` for the period total |
+| `Structure` | Demographic sub-structure; use `"total"` rows |
+| `Region` | World region |
+| `Total` | Total births across all religions |
+| `Christians` … | Births attributed to that religious group |
+
+**Example rows — USA, period 2020–2025, `Structure = "total"`**
+
+| Country_code | Period | Mother_age_group | Structure | Total | Christians | Muslims | Unaffiliated | … |
+|----|----|----|----|---:|---:|---:|---:|----|
+| 840 | 2020-2025 | 10-14 | total | 10.4 | 7.0 | 0.08 | 3.1 | … |
+| 840 | 2020-2025 | 15-19 | total | 716.7 | 457.4 | 6.4 | 221.0 | … |
+| 840 | 2020-2025 | 20-24 | total | 3209.7 | 1763.4 | 55.2 | 1139.7 | … |
+
+------------------------------------------------------------------------
+
+### 4 · `projection_asfr_data.csv`
+
+Age-specific fertility rates (ASFR) by religion and projection period.
+Uses the same structure as births but values are fertility rates, not
+counts.
+
+**Column structure** — same as `projection_births_data.csv`; `Total` and
+religion columns hold rates rather than birth counts.
+
+**Example rows — USA, period 2020–2025, `Structure = "total"`**
+
+| Country_code | Period | Mother_age_group | Structure | Total | Christians | Muslims | Unaffiliated | … |
+|----|----|----|----|---:|---:|---:|---:|----|
+| 840 | 2020-2025 | 10-14 | total | 0.00395 | 0.00429 | 0.00231 | 0.00380 | … |
+| 840 | 2020-2025 | 15-19 | total | 0.26487 | 0.29090 | 0.15669 | 0.25710 | … |
+| 840 | 2020-2025 | 20-24 | total | 1.18562 | 1.29089 | 1.08356 | 1.05020 | … |
+
+------------------------------------------------------------------------
+
+### 5 · `projection_fertility_exposure_data.csv`
+
+Female population (thousands) in each fertile age group used as the
+denominator when computing fertility rates. Same structure as
+`projection_births_data.csv`; values are population rather than births.
+
+**Example rows — USA, period 2020–2025, `Structure = "total"`**
+
+| Country_code | Period | Mother_age_group | Structure | Total | Christians | Muslims | Unaffiliated | … |
+|----|----|----|----|---:|---:|---:|---:|----|
+| 840 | 2020-2025 | 10-14 | total | 10512.6 | 6484.9 | 135.1 | 3225.5 | … |
+| 840 | 2020-2025 | 15-19 | total | 10823.3 | 6243.1 | 162.6 | 3631.1 | … |
+| 840 | 2020-2025 | 20-24 | total | 10828.9 | 5430.3 | 202.4 | 3798.3 | … |
+
+------------------------------------------------------------------------
+
+### 6 · `projection_fertility_differentials.csv`
+
+Religion-specific fertility multipliers applied at each fertile age
+group. A value of `1.0` means a religion’s fertility equals the national
+average for that age group; values above `1.0` indicate
+higher-than-average fertility. This is input data carried through to the
+output, not a projection result.
+
+**Column structure**
+
+| Column         | Description                                   |
+|----------------|-----------------------------------------------|
+| `Country`      | Country name                                  |
+| `Country_code` | ISO 3166-1 numeric code                       |
+| `Age_group`    | Fertile age group                             |
+| `Christians` … | Fertility multiplier for that religious group |
+
+**Example rows — USA**
+
+| Country_code | Age_group | Christians | Muslims | Unaffiliated | Buddhists | …   |
+|--------------|-----------|-----------:|--------:|-------------:|----------:|-----|
+| 840          | 15-19     |       1.72 |    0.93 |         1.43 |      0.73 | …   |
+| 840          | 20-24     |       1.72 |    0.93 |         1.43 |      0.73 | …   |
+| 840          | 25-29     |       1.32 |    1.11 |         1.10 |      0.87 | …   |
+
+------------------------------------------------------------------------
+
+## Files controlled by `switching_files`
+
+### 7 · `projection_switchers_data.csv`
+
+Number of people (thousands) who switched from each origin religion to
+each destination religion during a projection period.
+
+**Column structure**
+
+| Column | Description |
+|----|----|
+| `Country` | Country name |
+| `Country_code` | ISO 3166-1 numeric code |
+| `Period` | Projection interval |
+| `Origin_religion` | Religion the switchers left |
+| `Structure` | Demographic sub-structure; use `"total"` rows |
+| `Region` | World region |
+| `Christians` … `Other_Religions` | People who *stayed* in that religion during this period, or who had always been in it (non-converts) |
+| `Christians_post_switch` … `Other_Religions_post_switch` | People who *switched into* that religion from another (converts). Only present when `post_switch = TRUE`. |
+
+With `light_switching = TRUE` (recommended) there is one row per
+`(Country × Period × Origin_religion × Structure)` — the age–sex
+breakdown is collapsed to totals. With `light_switching = FALSE` the
+table is further disaggregated by `Sex` and `Age_group`.
+
+**Example rows — USA, period 2020–2025, `Structure = "total"`,
+`light_switching = TRUE`, `post_switch = TRUE`**
+
+| Country_code | Period | Origin_religion | Christians | Muslims | Unaffiliated | Buddhists | Hindus | Jews | Other_Religions |
+|----|----|----|---:|---:|---:|---:|---:|---:|---:|
+| 840 | 2020-2025 | Christians | 213 086.7 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| 840 | 2020-2025 | Muslims | 0.0 | 4 299.3 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| 840 | 2020-2025 | Unaffiliated | 0.0 | 0.0 | 100 776.3 | 0.0 | 0.0 | 0.0 | 0.0 |
+
+| Country_code | Period | Origin_religion | Christians_post_switch | Muslims_post_switch | Unaffiliated_post_switch | Buddhists_post_switch | Hindus_post_switch | Jews_post_switch | Other_Religions_post_switch |
+|----|----|----|---:|---:|---:|---:|---:|---:|---:|
+| 840 | 2020-2025 | Christians | 0.0 | 30.4 | 4 205.2 | 72.7 | 12.9 | 22.1 | 336.1 |
+| 840 | 2020-2025 | Muslims | 32.9 | 0.0 | 70.4 | 0.0 | 0.0 | 0.0 | 5.6 |
+| 840 | 2020-2025 | Unaffiliated | 1 652.2 | 38.9 | 0.0 | 96.4 | 0.2 | 70.7 | 293.3 |
+
+**Reading the table.** The diagonal of the first table (`Christians`
+column for `Origin_religion = "Christians"`) gives the count who
+*remained* in their religion. All off-diagonal regular-column cells are
+zero by construction — non-switching flows are tracked in the structure
+data file. The post-switch columns record converts: for example, 4 205.2
+thousand Christians became Unaffiliated and are counted in
+`Unaffiliated_post_switch`.
+
+------------------------------------------------------------------------
+
+**Example rows — USA, period 2020–2025, `Structure = "total"`,
+`light_switching = FALSE`, `post_switch = FALSE`**
+
+When `light_switching = FALSE` the table is disaggregated by `Sex` and
+`Age_group`. Because `post_switch = FALSE`, there are no post-switch
+columns.
+
+| Country_code | Period | Sex | Age_group | Origin_religion | Christians | Muslims | Unaffiliated | Other_Religions |
+|----|----|----|----|----|---:|---:|---:|---:|
+| 840 | 2020-2025 | 1 | 0-4 | Christians | 11 211.5 | 0.0 | 0.0 | 0.0 |
+| 840 | 2020-2025 | 1 | 5-9 | Christians | 11 752.0 | 0.0 | 0.0 | 0.0 |
+| 840 | 2020-2025 | 1 | 20-24 | Christians | 9 917.9 | 7.9 | 1 471.8 | 125.3 |
+| 840 | 2020-2025 | 1 | 25-29 | Christians | 9 819.9 | 7.8 | 1 457.3 | 124.0 |
+
+Switching only appears in age groups where the switching matrices
+contain non-zero off-diagonal entries. Young children (0–4, 5–9)
+typically show zero switching because conversion rates are near zero at
+those ages.
+
+------------------------------------------------------------------------
+
+### 8 · `projection_switching_matrices.csv`
+
+Transition probabilities: the proportion of people in each origin
+religion and age–sex group who switch to each destination religion
+during one projection period.
+
+**Column structure**
+
+| Column | Description |
+|----|----|
+| `Country` | Country name |
+| `Country_code` | ISO 3166-1 numeric code |
+| `Period` | Projection interval |
+| `Age_group` | Five-year age group |
+| `Sex` | `1` = males, `2` = females |
+| `Origin_religion` | Religion the people belong to at the start of the period |
+| `Christians` … | Probability of ending up in that religion at the end of the period |
+
+Each row’s destination-religion columns sum to 1.0.
+
+**Example rows — USA, period 2020–2025, males,
+`Origin_religion = "Christians"`**
+
+| Country_code | Period | Age_group | Sex | Origin_religion | Christians | Muslims | Unaffiliated | … |
+|----|----|----|----|----|---:|---:|---:|----|
+| 840 | 2020-2025 | 0-4 | 1 | Christians | 0.9613 | 0.0010 | 0.0367 | … |
+| 840 | 2020-2025 | 5-9 | 1 | Christians | 0.9613 | 0.0010 | 0.0367 | … |
+| 840 | 2020-2025 | 10-14 | 1 | Christians | 0.9613 | 0.0010 | 0.0367 | … |
+
+------------------------------------------------------------------------
+
+## Files controlled by `migration_files`
+
+### 9 · `projection_emigration_data.csv`
+
+Emigrant flows (thousands) from each country to each destination country
+by religion and projection period.
+
+**Column structure**
+
+| Column | Description |
+|----|----|
+| `Origin` | Name of the origin country |
+| `Country_code` | ISO code of the origin country |
+| `Period` | Projection interval |
+| `Structure` | Sub-structure label; `"total"` aggregates `"destination_processed"` and `"origin_processed"` flows |
+| `Destination` | ISO code of the destination country |
+| `Region` | World region of the origin country |
+| `Christians` … | Emigrant flow for that religious group (thousands) |
+
+With `light_migration = TRUE` (recommended) each row covers the full
+age–sex population; with `light_migration = FALSE` the table adds `Sex`
+and `Age_group` columns.
+
+**Example rows — USA, period 2020–2025, `Structure = "total"`,
+`light_migration = TRUE`**
+
+| Origin | Country_code | Period | Structure | Destination | Region | Christians | Muslims | Unaffiliated | … |
+|----|----|----|----|----|----|---:|---:|---:|----|
+| USA | 840 | 2020-2025 | total | 8 | NOAM | 0.006 | 0.000 | 0.002 | … |
+| USA | 840 | 2020-2025 | total | 12 | NOAM | 0.035 | 0.024 | 0.001 | … |
+| USA | 840 | 2020-2025 | total | 32 | NOAM | 0.012 | 0.001 | 0.003 | … |
+
+`Destination` contains the ISO 3166-1 numeric code of the receiving
+country as a character string.
+
+------------------------------------------------------------------------
+
+**Example rows — USA → Mexico (484), period 2020–2025,
+`Structure = "total"`, `light_migration = FALSE`**
+
+When `light_migration = FALSE` each age–sex group gets its own row.
+
+| Origin | Country_code | Period | Sex | Age_group | Structure | Destination | Christians | Muslims | Unaffiliated | Buddhists |
+|----|----|----|----|----|----|----|---:|---:|---:|---:|
+| USA | 840 | 2020-2025 | 1 | 0-4 | total | 484 | 5.919 | 0.006 | 0.663 | 0.005 |
+| USA | 840 | 2020-2025 | 1 | 5-9 | total | 484 | 5.229 | 0.003 | 0.476 | 0.006 |
+| USA | 840 | 2020-2025 | 1 | 10-14 | total | 484 | 4.196 | 0.002 | 0.342 | 0.005 |
+| USA | 840 | 2020-2025 | 1 | 15-19 | total | 484 | 3.374 | 0.002 | 0.347 | 0.005 |
+
+------------------------------------------------------------------------
+
+### 10 · `projection_immigration_data.csv`
+
+Immigrant flows (thousands) arriving at each country from each origin
+country. Mirror image of the emigration file, with `Destination` as the
+main country and `Origin` as the source.
+
+**Column structure** — same as `projection_emigration_data.csv` with the
+roles of `Origin` and `Destination` swapped.
+
+**Example rows — USA, period 2020–2025, `Structure = "total"`,
+`light_migration = TRUE`**
+
+| Destination | Country_code | Period | Structure | Origin | Region | Christians | Muslims | Unaffiliated | … |
+|----|----|----|----|----|----|---:|---:|---:|----|
+| USA | 840 | 2020-2025 | total | 4 | NOAM | 0.012 | 47.933 | 0.040 | … |
+| USA | 840 | 2020-2025 | total | 8 | NOAM | 0.000 | 0.001 | 0.000 | … |
+| USA | 840 | 2020-2025 | total | 32 | NOAM | 0.148 | 0.003 | 0.052 | … |
+
+`Origin` contains the ISO 3166-1 numeric code of the sending country as
+a character string.
+
+------------------------------------------------------------------------
+
+**Example rows — USA ← Afghanistan (4), period 2020–2025,
+`Structure = "total"`, `light_migration = FALSE`**
+
+When `light_migration = FALSE` immigration flows are disaggregated by
+`Sex` and `Age_group`. The majority of immigrants from Afghanistan
+arrive as Muslims.
+
+| Destination | Country_code | Period | Sex | Age_group | Structure | Origin | Christians | Muslims | Unaffiliated |
+|----|----|----|----|----|----|----|---:|---:|---:|
+| USA | 840 | 2020-2025 | 1 | 0-4 | total | 4 | 0.002 | 7.519 | 0.006 |
+| USA | 840 | 2020-2025 | 1 | 5-9 | total | 4 | 0.001 | 5.759 | 0.005 |
+| USA | 840 | 2020-2025 | 1 | 10-14 | total | 4 | 0.001 | 3.649 | 0.003 |

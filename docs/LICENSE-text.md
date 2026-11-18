@@ -1,0 +1,4 @@
+# License
+
+    YEAR: 2026
+    COPYRIGHT HOLDER: Center for Advanced Studies of Population and Religion & Pew Research Center
