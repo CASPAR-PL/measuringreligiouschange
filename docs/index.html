@@ -60,15 +60,17 @@
 </h1></div>
 <!-- badges: start -->
 
-<p>measuringreligiouschange is a package developed by Center for Advanced Studies of Population And Religion for Pew Research Center designed to create religious structure projections. It calculates 4 demographic processes: - fertility - mortality - switching - migration</p>
-<p>For fertility differences it uses calculated differentials which can be subject to convergence.</p>
+<p>measuringreligiouschange is a package developed by the Center for Advanced Studies of Population and Religion (CASPAR) for a joint project with the Pew Research Center as part of the Pew-Templeton Global Religious Futures project.</p>
+<p>The software package can generate religious group population projections at the global, regional and national level resulting from initial age-sex composition of populations, demographic processes (fertility, mortality and migration) and religious processes (transmission of religion between generations and religious switching). The package is a flexible tool that can be used to numerically reproduce the projections presented in the Pew Research Center report “The Future of World Religions: Population Growth Projections, 2020-2070”, generate other projection variants based on the included input data, or create projections from user-supplied input data and adjustments to demographic and religious processes.</p>
+<p>This package may be most useful for users with training in demographic analysis and some experience using and programming in R.</p>
+<p>For inquiries, please contact: <a href="mailto:caspar@uek.krakow.pl" class="email">caspar@uek.krakow.pl</a>.</p>
 <div class="section level2">
 <h2 id="vignettes">Vignettes<a class="anchor" aria-label="anchor" href="#vignettes"></a>
 </h2>
 <table class="table">
 <colgroup>
-<col width="43%">
-<col width="56%">
+<col width="50%">
+<col width="50%">
 </colgroup>
 <thead><tr>
 <th>Vignette</th>
@@ -103,24 +105,54 @@
 <span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"CASPAR-PL/measuringreligiouschange"</span><span class="op">)</span></span></code></pre></div>
 </div>
 <div class="section level2">
+<h2 id="user-manual">User manual<a class="anchor" aria-label="anchor" href="#user-manual"></a>
+</h2>
+<p>📖 <a href="MRC_manual_V1.0.2.pdf">Measuring Religious Change – User Manual (v1.0.2, PDF)</a></p>
+<p>The manual explains how to install and use the package step by step. It describes the MRC model and its input data (population structures, religious affiliation, fertility, mortality, migration and religious switching), and shows how to run projections, set up scenarios, modify input data, and save output files and plots.</p>
+</div>
+<div class="section level2">
 <h2 id="example">Example<a class="anchor" aria-label="anchor" href="#example"></a>
 </h2>
-<p>This is a basic example which shows you how to create and run a projection:</p>
+<p>A full projection for all countries using the included input data. Each projection object needs its own country list, and <code>post_switch</code> must match in both calls:</p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://github.com/CASPAR-PL/measuringreligiouschange" class="external-link">measuringreligiouschange</a></span><span class="op">)</span></span>
-<span><span class="va">cl</span>  <span class="op">&lt;-</span> <span class="fu"><a href="reference/create_country_list.html">create_country_list</a></span><span class="op">(</span>post_switch <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span>
+<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://caspar-pl.github.io/measuringreligiouschange/">measuringreligiouschange</a></span><span class="op">)</span></span>
+<span></span>
+<span><span class="va">cl</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/create_country_list.html">create_country_list</a></span><span class="op">(</span>post_switch <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span>
+<span></span>
 <span><span class="va">obj</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/variants_loader.html">variants_loader</a></span><span class="op">(</span><span class="fu"><a href="reference/create_projection_object.html">create_projection_object</a></span><span class="op">(</span></span>
-<span>  name        <span class="op">=</span> <span class="st">"MRC Projection"</span>,</span>
-<span>  <span class="va">cl</span>,</span>
-<span>  steps       <span class="op">=</span> <span class="fl">5L</span>,</span>
-<span>  migration   <span class="op">=</span> <span class="cn">FALSE</span>,</span>
-<span>  post_switch <span class="op">=</span> <span class="cn">FALSE</span></span>
+<span>  name                <span class="op">=</span> <span class="st">"my_projection"</span>,</span>
+<span>  country_object_list <span class="op">=</span> <span class="va">cl</span>,</span>
+<span>  steps               <span class="op">=</span> <span class="fl">10L</span>, <span class="co"># 5-year steps: 2020-2070</span></span>
+<span>  migration           <span class="op">=</span> <span class="cn">TRUE</span>,</span>
+<span>  switching           <span class="op">=</span> <span class="cn">TRUE</span>,</span>
+<span>  light_migration     <span class="op">=</span> <span class="cn">TRUE</span>,</span>
+<span>  light_switching     <span class="op">=</span> <span class="cn">TRUE</span>,</span>
+<span>  post_switch         <span class="op">=</span> <span class="cn">FALSE</span></span>
 <span><span class="op">)</span><span class="op">)</span></span>
-<span><span class="fu"><a href="reference/project.html">project</a></span><span class="op">(</span><span class="va">obj</span>, progress_bar <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span></code></pre></div>
-<p>Additionally it exports all data into .csv files and creates plots for each country:</p>
+<span></span>
+<span><span class="co"># save_totals = TRUE also computes regional and global aggregates</span></span>
+<span><span class="fu"><a href="reference/project.html">project</a></span><span class="op">(</span><span class="va">obj</span>, progress_bar <span class="op">=</span> <span class="cn">TRUE</span>, save_totals <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span></span></code></pre></div>
+<p><code><a href="reference/base_object_generator.html">base_object_generator()</a></code> does the same thing in one call. It creates a fresh country list and returns a validated, unresolved projection object with the main scenario settings (migration and switching on, religion-specific fertility differentials):</p>
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">obj</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/base_object_generator.html">base_object_generator</a></span><span class="op">(</span></span>
+<span>  object_name     <span class="op">=</span> <span class="st">"SC1"</span>,</span>
+<span>  steps           <span class="op">=</span> <span class="fl">10L</span>,</span>
+<span>  light_migration <span class="op">=</span> <span class="cn">TRUE</span>,</span>
+<span>  light_switching <span class="op">=</span> <span class="cn">TRUE</span>,</span>
+<span>  post_switch     <span class="op">=</span> <span class="cn">FALSE</span></span>
+<span><span class="op">)</span></span>
+<span><span class="fu"><a href="reference/project.html">project</a></span><span class="op">(</span><span class="va">obj</span>, progress_bar <span class="op">=</span> <span class="cn">TRUE</span>, save_totals <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span></span></code></pre></div>
+<p>Results can be exported to .csv files and plotted for each country. By default, output is written to a folder named after the projection:</p>
+<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu"><a href="reference/save_csv_all.html">save_csv_all</a></span><span class="op">(</span><span class="va">obj</span><span class="op">)</span></span>
-<span><span class="fu"><a href="reference/save_plots_all.html">save_plots_all</a></span><span class="op">(</span><span class="va">obj</span><span class="op">)</span></span></code></pre></div>
+<span><span class="fu"><a href="reference/save_plots_all.html">save_plots_all</a></span><span class="op">(</span><span class="va">obj</span><span class="op">)</span></span>
+<span><span class="fu"><a href="reference/save_plots_regions_all.html">save_plots_regions_all</a></span><span class="op">(</span><span class="va">obj</span><span class="op">)</span></span></code></pre></div>
+<p>A full projection takes a while to run. For a quick check, <code><a href="reference/test_object_generator.html">test_object_generator()</a></code> creates a one-step projection for three countries (Poland, the United Kingdom and the United States):</p>
+<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">obj_test</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/test_object_generator.html">test_object_generator</a></span><span class="op">(</span><span class="st">"my_test"</span><span class="op">)</span></span>
+<span><span class="fu"><a href="reference/project.html">project</a></span><span class="op">(</span><span class="va">obj_test</span>, progress_bar <span class="op">=</span> <span class="cn">FALSE</span>, save_totals <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span>
+<span><span class="fu"><a href="reference/save_csv_all.html">save_csv_all</a></span><span class="op">(</span><span class="va">obj_test</span>, objects <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/list.html" class="external-link">list</a></span><span class="op">(</span><span class="st">"countries"</span><span class="op">)</span><span class="op">)</span></span></code></pre></div>
+<p>See <code><a href="articles/conducting-projections.html">vignette("conducting-projections")</a></code> for a description of all settings.</p>
 </div>
 </div>
   </main><aside class="col-md-3"><div class="links">

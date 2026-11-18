@@ -76,11 +76,15 @@ A single projection object
 
 ## See also
 
-[`base_object_generator`](base_object_generator.md) for a full
-201-country projection, [`project`](project.md) to run the returned
-object, [`save_csv_all`](save_csv_all.md) and
-[`save_plots_all`](save_plots_all.md) to export results.
-[`vignette("conducting-projections")`](../articles/conducting-projections.md)
+[`base_object_generator`](https://caspar-pl.github.io/measuringreligiouschange/reference/base_object_generator.md)
+for a full 201-country projection,
+[`project`](https://caspar-pl.github.io/measuringreligiouschange/reference/project.md)
+to run the returned object,
+[`save_csv_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_csv_all.md)
+and
+[`save_plots_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_all.md)
+to export results.
+[`vignette("conducting-projections")`](https://caspar-pl.github.io/measuringreligiouschange/articles/conducting-projections.md)
 for the full projection workflow.
 
 ## Examples

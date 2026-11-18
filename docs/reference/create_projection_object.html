@@ -137,6 +137,397 @@ fertility differentials.</p>
     <div class="section level2">
     <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
     <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="va">test_po</span> <span class="op">&lt;-</span> <span class="fu">create_projection_object</span><span class="op">(</span>name <span class="op">=</span> <span class="st">"test"</span>, steps <span class="op">=</span> <span class="fl">5</span><span class="op">)</span></span></span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Australia [==&gt;------------------------------------------------------------------------------------] ETA  6s   3%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Austria [===&gt;-------------------------------------------------------------------------------------] ETA  6s   4%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Bahamas [===&gt;-------------------------------------------------------------------------------------] ETA  7s   4%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Bahrain [===&gt;-------------------------------------------------------------------------------------] ETA  6s   5%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Bangladesh [====&gt;---------------------------------------------------------------------------------] ETA  6s   5%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Armenia [====&gt;------------------------------------------------------------------------------------] ETA  6s   6%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Barbados [=====&gt;----------------------------------------------------------------------------------] ETA  7s   6%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Belgium [=====&gt;-----------------------------------------------------------------------------------] ETA  7s   7%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Bhutan [======&gt;-----------------------------------------------------------------------------------] ETA  7s   7%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Bolivia [======&gt;----------------------------------------------------------------------------------] ETA  7s   8%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Bosnia and Herzegovina [=====&gt;--------------------------------------------------------------------] ETA  7s   8%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Botswana [=======&gt;--------------------------------------------------------------------------------] ETA  7s   9%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Brazil [========&gt;---------------------------------------------------------------------------------] ETA  8s   9%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Belize [========&gt;---------------------------------------------------------------------------------] ETA  8s  10%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Solomon Islands [=======&gt;-------------------------------------------------------------------------] ETA  8s  10%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Brunei [=========&gt;--------------------------------------------------------------------------------] ETA  8s  11%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Bulgaria [=========&gt;------------------------------------------------------------------------------] ETA  7s  11%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Myanmar [==========&gt;------------------------------------------------------------------------------] ETA  7s  12%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Burundi [==========&gt;------------------------------------------------------------------------------] ETA  8s  12%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Belarus [===========&gt;-----------------------------------------------------------------------------] ETA  8s  13%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Cambodia [===========&gt;----------------------------------------------------------------------------] ETA  8s  13%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Cameroon [===========&gt;----------------------------------------------------------------------------] ETA  7s  14%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Canada [============&gt;-----------------------------------------------------------------------------] ETA  7s  14%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Cape Verde [============&gt;-------------------------------------------------------------------------] ETA  8s  15%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Central African Republic [==========&gt;-------------------------------------------------------------] ETA  8s  15%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Sri Lanka [=============&gt;-------------------------------------------------------------------------] ETA  7s  16%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Chad [==============&gt;-----------------------------------------------------------------------------] ETA  7s  16%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Chile [==============&gt;----------------------------------------------------------------------------] ETA  7s  17%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading China [===============&gt;---------------------------------------------------------------------------] ETA  7s  17%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading China,  Taiwan Province of China [==========&gt;-----------------------------------------------------] ETA  7s  18%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Colombia [===============&gt;------------------------------------------------------------------------] ETA  7s  18%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Comoros [================&gt;------------------------------------------------------------------------] ETA  7s  19%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Mayotte [================&gt;------------------------------------------------------------------------] ETA  7s  19%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Congo [=================&gt;-------------------------------------------------------------------------] ETA  7s  20%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Congo,  Dem. Rep. [===============&gt;---------------------------------------------------------------] ETA  7s  20%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Costa Rica [=================&gt;--------------------------------------------------------------------] ETA  7s  21%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Croatia [==================&gt;----------------------------------------------------------------------] ETA  7s  21%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Cuba [===================&gt;------------------------------------------------------------------------] ETA  7s  22%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Cyprus [===================&gt;----------------------------------------------------------------------] ETA  7s  22%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Czechia [===================&gt;---------------------------------------------------------------------] ETA  7s  23%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Benin [====================&gt;----------------------------------------------------------------------] ETA  7s  23%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Denmark [====================&gt;--------------------------------------------------------------------] ETA  7s  24%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Dominican Republic [==================&gt;-----------------------------------------------------------] ETA  7s  24%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Ecuador [=====================&gt;-------------------------------------------------------------------] ETA  7s  25%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading El Salvador [=====================&gt;---------------------------------------------------------------] ETA  7s  25%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Equatorial Guinea [===================&gt;-----------------------------------------------------------] ETA  7s  26%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Ethiopia [======================&gt;-----------------------------------------------------------------] ETA  7s  26%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Eritrea [=======================&gt;-----------------------------------------------------------------] ETA  7s  27%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Estonia [=======================&gt;-----------------------------------------------------------------] ETA  6s  27%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Fiji [=========================&gt;------------------------------------------------------------------] ETA  6s  28%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Finland [========================&gt;----------------------------------------------------------------] ETA  6s  28%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading France [=========================&gt;----------------------------------------------------------------] ETA  6s  29%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading French Guiana [=======================&gt;-----------------------------------------------------------] ETA  6s  29%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading French Polynesia [=======================&gt;--------------------------------------------------------] ETA  6s  30%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Djibouti [==========================&gt;-------------------------------------------------------------] ETA  6s  30%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Gabon [===========================&gt;---------------------------------------------------------------] ETA  6s  31%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Georgia [===========================&gt;-------------------------------------------------------------] ETA  6s  31%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Gambia [============================&gt;-------------------------------------------------------------] ETA  6s  32%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Palestine [===========================&gt;-----------------------------------------------------------] ETA  6s  32%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Germany [============================&gt;------------------------------------------------------------] ETA  6s  33%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Ghana [=============================&gt;-------------------------------------------------------------] ETA  6s  33%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Kiribati [=============================&gt;----------------------------------------------------------] ETA  6s  34%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Greece [==============================&gt;-----------------------------------------------------------] ETA  6s  34%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Grenada [==============================&gt;----------------------------------------------------------] ETA  6s  35%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Guadeloupe [=============================&gt;--------------------------------------------------------] ETA  6s  35%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Guam [================================&gt;-----------------------------------------------------------] ETA  6s  36%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Guatemala [===============================&gt;-------------------------------------------------------] ETA  6s  36%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Guinea [================================&gt;---------------------------------------------------------] ETA  6s  37%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Guyana [=================================&gt;--------------------------------------------------------] ETA  6s  37%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Haiti [=================================&gt;---------------------------------------------------------] ETA  6s  38%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Honduras [=================================&gt;------------------------------------------------------] ETA  6s  38%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading China,  Hong Kong SAR [============================&gt;----------------------------------------------] ETA  6s  39%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Hungary [==================================&gt;------------------------------------------------------] ETA  6s  39%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Iceland [==================================&gt;------------------------------------------------------] ETA  6s  40%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading India [====================================&gt;------------------------------------------------------] ETA  6s  40%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Indonesia [==================================&gt;----------------------------------------------------] ETA  6s  41%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Iran [=====================================&gt;------------------------------------------------------] ETA  6s  41%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Iraq [=====================================&gt;------------------------------------------------------] ETA  6s  42%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Ireland [=====================================&gt;---------------------------------------------------] ETA  6s  42%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Israel [======================================&gt;---------------------------------------------------] ETA  6s  43%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Italy [======================================&gt;----------------------------------------------------] ETA  6s  43%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Ivory Coast [====================================&gt;------------------------------------------------] ETA  6s  44%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Jamaica [======================================&gt;--------------------------------------------------] ETA  5s  44%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Japan [========================================&gt;--------------------------------------------------] ETA  5s  45%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Kazakhstan [======================================&gt;-----------------------------------------------] ETA  5s  45%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Jordan [========================================&gt;-------------------------------------------------] ETA  5s  46%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Kenya [=========================================&gt;-------------------------------------------------] ETA  5s  46%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading North Korea [=======================================&gt;---------------------------------------------] ETA  5s  47%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Republic of Korea [====================================&gt;------------------------------------------] ETA  5s  47%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Kosovo [==========================================&gt;-----------------------------------------------] ETA  5s  48%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Kuwait [==========================================&gt;-----------------------------------------------] ETA  5s  48%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Kyrgyzstan [=========================================&gt;--------------------------------------------] ETA  5s  49%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Laos [============================================&gt;-----------------------------------------------] ETA  5s  49%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Lebanon [===========================================&gt;---------------------------------------------] ETA  5s  50%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Lesotho [============================================&gt;--------------------------------------------] ETA  5s  50%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Latvia [=============================================&gt;--------------------------------------------] ETA  5s  51%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Liberia [=============================================&gt;-------------------------------------------] ETA  5s  51%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Libya [==============================================&gt;--------------------------------------------] ETA  5s  52%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Lithuania [============================================&gt;------------------------------------------] ETA  5s  52%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Luxembourg [============================================&gt;-----------------------------------------] ETA  5s  53%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Macao [===============================================&gt;-------------------------------------------] ETA  4s  53%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Madagascar [=============================================&gt;----------------------------------------] ETA  4s  54%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Malawi [================================================&gt;-----------------------------------------] ETA  4s  54%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Malaysia [===============================================&gt;----------------------------------------] ETA  4s  55%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Maldives [================================================&gt;---------------------------------------] ETA  4s  55%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Mali [==================================================&gt;-----------------------------------------] ETA  4s  56%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Malta [==================================================&gt;----------------------------------------] ETA  4s  56%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Martinique [================================================&gt;-------------------------------------] ETA  4s  57%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Mauritania [================================================&gt;-------------------------------------] ETA  4s  57%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Mauritius [=================================================&gt;-------------------------------------] ETA  4s  58%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Mexico [===================================================&gt;--------------------------------------] ETA  4s  58%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Mongolia [===================================================&gt;------------------------------------] ETA  4s  59%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Moldova [====================================================&gt;------------------------------------] ETA  4s  59%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Montenegro [==================================================&gt;-----------------------------------] ETA  4s  60%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Morocco [=====================================================&gt;-----------------------------------] ETA  4s  60%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Mozambique [===================================================&gt;----------------------------------] ETA  4s  61%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Oman [=======================================================&gt;------------------------------------] ETA  4s  61%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Namibia [======================================================&gt;----------------------------------] ETA  4s  62%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Nepal [========================================================&gt;----------------------------------] ETA  4s  62%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Netherlands [====================================================&gt;--------------------------------] ETA  3s  63%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Curacao [=======================================================&gt;---------------------------------] ETA  3s  63%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Aruba [=========================================================&gt;---------------------------------] ETA  3s  64%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading New Caledonia [====================================================&gt;------------------------------] ETA  3s  64%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Vanuatu [=========================================================&gt;-------------------------------] ETA  3s  65%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading New Zealand [======================================================&gt;------------------------------] ETA  3s  65%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Nicaragua [========================================================&gt;------------------------------] ETA  3s  66%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Niger [===========================================================&gt;-------------------------------] ETA  3s  66%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Nigeria [==========================================================&gt;------------------------------] ETA  3s  67%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Norway [===========================================================&gt;------------------------------] ETA  3s  67%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Micronesia [=========================================================&gt;----------------------------] ETA  3s  68%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Pakistan [===========================================================&gt;----------------------------] ETA  3s  68%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Panama [=============================================================&gt;----------------------------] ETA  3s  69%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Papua New Guinea [======================================================&gt;-------------------------] ETA  3s  69%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Paraguay [============================================================&gt;---------------------------] ETA  3s  70%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Peru [================================================================&gt;---------------------------] ETA  3s  70%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Philippines [===========================================================&gt;-------------------------] ETA  3s  71%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Poland [===============================================================&gt;--------------------------] ETA  3s  71%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Portugal [==============================================================&gt;-------------------------] ETA  3s  72%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Guinea-Bissau [===========================================================&gt;-----------------------] ETA  3s  72%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading East Timor [=============================================================&gt;------------------------] ETA  2s  73%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Puerto Rico [=============================================================&gt;-----------------------] ETA  2s  73%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Qatar [==================================================================&gt;------------------------] ETA  2s  74%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Réunion [=================================================================&gt;-----------------------] ETA  2s  74%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Romania [=================================================================&gt;-----------------------] ETA  2s  75%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Russia [===================================================================&gt;----------------------] ETA  2s  75%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Rwanda [===================================================================&gt;----------------------] ETA  2s  76%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading St. Lucia [=================================================================&gt;---------------------] ETA  2s  76%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Saint Vincent and the Grenadines [================================================&gt;---------------] ETA  2s  77%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Sao Tome &amp; Principe [==========================================================&gt;------------------] ETA  2s  77%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Saudi Arabia [================================================================&gt;-------------------] ETA  2s  78%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Senegal [=====================================================================&gt;-------------------] ETA  2s  78%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Serbia [======================================================================&gt;-------------------] ETA  2s  79%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Seychelles [===================================================================&gt;------------------] ETA  2s  79%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Sierra Leone [==================================================================&gt;-----------------] ETA  2s  80%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Singapore [=====================================================================&gt;-----------------] ETA  2s  80%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Slovakia [======================================================================&gt;-----------------] ETA  2s  81%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Viet Nam [======================================================================&gt;-----------------] ETA  2s  81%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Slovenia [=======================================================================&gt;----------------] ETA  2s  82%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Somalia [========================================================================&gt;----------------] ETA  2s  82%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading South Africa [====================================================================&gt;---------------] ETA  2s  83%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Zimbabwe [========================================================================&gt;---------------] ETA  2s  83%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Spain [===========================================================================&gt;---------------] ETA  1s  84%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading South Sudan [======================================================================&gt;--------------] ETA  1s  84%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Sudan [============================================================================&gt;--------------] ETA  1s  85%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Western Sahara [=====================================================================&gt;------------] ETA  1s  85%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Suriname [==========================================================================&gt;-------------] ETA  1s  86%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Eswatini [===========================================================================&gt;------------] ETA  1s  86%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Sweden [=============================================================================&gt;------------] ETA  1s  87%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Switzerland [=========================================================================&gt;-----------] ETA  1s  87%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Syria [===============================================================================&gt;-----------] ETA  1s  88%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Tajikistan [===========================================================================&gt;----------] ETA  1s  88%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Thailand [=============================================================================&gt;----------] ETA  1s  89%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Togo [=================================================================================&gt;----------] ETA  1s  89%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Tonga [================================================================================&gt;----------] ETA  1s  90%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Trinidad &amp; Tobago [======================================================================&gt;--------] ETA  1s  90%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading United Arab Emirates [====================================================================&gt;-------] ETA  1s  91%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Tunisia [================================================================================&gt;--------] ETA  1s  91%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Türkiye [================================================================================&gt;--------] ETA  1s  92%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Turkmenistan [============================================================================&gt;-------] ETA  1s  92%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Uganda [==================================================================================&gt;-------] ETA  1s  93%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Ukraine [==================================================================================&gt;------] ETA  1s  93%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading North Macedonia [===========================================================================&gt;-----] ETA  1s  94%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Egypt [=====================================================================================&gt;-----] ETA  1s  94%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading United Kingdom [=============================================================================&gt;----] ETA  0s  95%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Channel Islands [============================================================================&gt;----] ETA  0s  95%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Tanzania [===================================================================================&gt;----] ETA  0s  96%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading USA [========================================================================================&gt;----] ETA  0s  96%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading U.S. Virgin Islands [=========================================================================&gt;---] ETA  0s  97%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Burkina Faso [================================================================================&gt;---] ETA  0s  97%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Uruguay [======================================================================================&gt;--] ETA  0s  98%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Uzbekistan [===================================================================================&gt;--] ETA  0s  98%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Venezuela [=====================================================================================&gt;-] ETA  0s  99%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Samoa [=========================================================================================&gt;-] ETA  0s  99%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Yemen [==========================================================================================&gt;] ETA  0s 100%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Loading Zambia [==========================================================================================] ETA  0s 100%</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> [1] "Global starting parameters:"</span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> [1] "Migration: TRUE"</span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> [1] "Light migration: TRUE"</span>

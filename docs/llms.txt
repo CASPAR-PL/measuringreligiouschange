@@ -1,21 +1,35 @@
 # measuringreligiouschange
 
-measuringreligiouschange is a package developed by Center for Advanced
-Studies of Population And Religion for Pew Research Center designed to
-create religious structure projections. It calculates 4 demographic
-processes: - fertility - mortality - switching - migration
+measuringreligiouschange is a package developed by the Center for
+Advanced Studies of Population and Religion (CASPAR) for a joint project
+with the Pew Research Center as part of the Pew-Templeton Global
+Religious Futures project.
 
-For fertility differences it uses calculated differentials which can be
-subject to convergence.
+The software package can generate religious group population projections
+at the global, regional and national level resulting from initial
+age-sex composition of populations, demographic processes (fertility,
+mortality and migration) and religious processes (transmission of
+religion between generations and religious switching). The package is a
+flexible tool that can be used to numerically reproduce the projections
+presented in the Pew Research Center report “The Future of World
+Religions: Population Growth Projections, 2020-2070”, generate other
+projection variants based on the included input data, or create
+projections from user-supplied input data and adjustments to demographic
+and religious processes.
+
+This package may be most useful for users with training in demographic
+analysis and some experience using and programming in R.
+
+For inquiries, please contact: <caspar@uek.krakow.pl>.
 
 ## Vignettes
 
 | Vignette | Description |
 |----|----|
-| [`vignette("conducting-projections")`](articles/conducting-projections.md) | Create a country list, assemble and run a projection, export results to CSV |
-| [`vignette("visualising-projections")`](articles/visualising-projections.md) | Save country- and region-level plots; compare two scenarios side-by-side |
-| [`vignette("exporting-results")`](articles/exporting-results.md) | Column-by-column description of every CSV output file |
-| [`vignette("inner-workings")`](articles/inner-workings.md) | Internal architecture, class field reference, and projection flow diagrams |
+| [`vignette("conducting-projections")`](https://caspar-pl.github.io/measuringreligiouschange/articles/conducting-projections.md) | Create a country list, assemble and run a projection, export results to CSV |
+| [`vignette("visualising-projections")`](https://caspar-pl.github.io/measuringreligiouschange/articles/visualising-projections.md) | Save country- and region-level plots; compare two scenarios side-by-side |
+| [`vignette("exporting-results")`](https://caspar-pl.github.io/measuringreligiouschange/articles/exporting-results.md) | Column-by-column description of every CSV output file |
+| [`vignette("inner-workings")`](https://caspar-pl.github.io/measuringreligiouschange/articles/inner-workings.md) | Internal architecture, class field reference, and projection flow diagrams |
 
 ## Installation
 
@@ -28,94 +42,160 @@ GitHub:
 pak::pak("CASPAR-PL/measuringreligiouschange")
 ```
 
+## User manual
+
+📖 [Measuring Religious Change – User Manual (v1.0.2,
+PDF)](https://caspar-pl.github.io/measuringreligiouschange/MRC_manual_V1.0.2.pdf)
+
+The manual explains how to install and use the package step by step. It
+describes the MRC model and its input data (population structures,
+religious affiliation, fertility, mortality, migration and religious
+switching), and shows how to run projections, set up scenarios, modify
+input data, and save output files and plots.
+
 ## Example
 
-This is a basic example which shows you how to create and run a
-projection:
+A full projection for all countries using the included input data. Each
+projection object needs its own country list, and `post_switch` must
+match in both calls:
 
 ``` r
 
 library(measuringreligiouschange)
-cl  <- create_country_list(post_switch = FALSE)
+
+cl <- create_country_list(post_switch = FALSE)
+
 obj <- variants_loader(create_projection_object(
-  name        = "MRC Projection",
-  cl,
-  steps       = 5L,
-  migration   = FALSE,
-  post_switch = FALSE
+  name                = "my_projection",
+  country_object_list = cl,
+  steps               = 10L, # 5-year steps: 2020-2070
+  migration           = TRUE,
+  switching           = TRUE,
+  light_migration     = TRUE,
+  light_switching     = TRUE,
+  post_switch         = FALSE
 ))
-project(obj, progress_bar = FALSE)
+
+# save_totals = TRUE also computes regional and global aggregates
+project(obj, progress_bar = TRUE, save_totals = TRUE)
 ```
 
-Additionally it exports all data into .csv files and creates plots for
-each country:
+[`base_object_generator()`](https://caspar-pl.github.io/measuringreligiouschange/reference/base_object_generator.md)
+does the same thing in one call. It creates a fresh country list and
+returns a validated, unresolved projection object with the main scenario
+settings (migration and switching on, religion-specific fertility
+differentials):
+
+``` r
+
+obj <- base_object_generator(
+  object_name     = "SC1",
+  steps           = 10L,
+  light_migration = TRUE,
+  light_switching = TRUE,
+  post_switch     = FALSE
+)
+project(obj, progress_bar = TRUE, save_totals = TRUE)
+```
+
+Results can be exported to .csv files and plotted for each country. By
+default, output is written to a folder named after the projection:
 
 ``` r
 
 save_csv_all(obj)
 save_plots_all(obj)
+save_plots_regions_all(obj)
 ```
+
+A full projection takes a while to run. For a quick check,
+[`test_object_generator()`](https://caspar-pl.github.io/measuringreligiouschange/reference/test_object_generator.md)
+creates a one-step projection for three countries (Poland, the United
+Kingdom and the United States):
+
+``` r
+
+obj_test <- test_object_generator("my_test")
+project(obj_test, progress_bar = FALSE, save_totals = FALSE)
+save_csv_all(obj_test, objects = list("countries"))
+```
+
+See
+[`vignette("conducting-projections")`](https://caspar-pl.github.io/measuringreligiouschange/articles/conducting-projections.md)
+for a description of all settings.
 
 # Package index
 
 ## All functions
 
-- [`base_data_list`](base_data_list.md) : default data list
-- [`base_object_generator()`](base_object_generator.md) : Generate main
-  Pew scenarios
-- [`Country_object-class`](Country_object-class.md)
-  [`Country_object`](Country_object-class.md) : Reference Class
-  representing a country as Country_object
-- [`create_country_list()`](create_country_list.md) : Loading data and
-  creating list of Country_objects
-- [`create_projection_object()`](create_projection_object.md) : Creating
-  projection_object
-- [`create_region_list()`](create_region_list.md) : Creating list of
-  Region_objects
-- [`data_asfr`](data_asfr.md) : Age-Specific Fertility Rates dataset
-- [`data_births_ratio`](data_births_ratio.md) : Sex ratio at birth
-  dataset
-- [`data_fertility_differentials`](data_fertility_differentials.md) :
-  Fertility differentials dataset
-- [`data_migration_destination`](data_migration_destination.md) :
-  Migration destination matrices dataset.
-- [`data_migration_rates`](data_migration_rates.md) : Out-migration
-  rates dataset
-- [`data_population`](data_population.md) : Population dataset
-- [`data_regions`](data_regions.md) : Regions dataset
-- [`data_structure`](data_structure.md) : Population structure dataset
-- [`data_survivability`](data_survivability.md) : Survival rates (nSx)
-  dataset
-- [`data_switching`](data_switching.md) : religion switching dataset
-- [`info_variants`](info_variants.md) : Scenario variants settings
-  dataset
-- [`project()`](project.md) : Conducting MRC projection
-- [`Projection_object-class`](Projection_object-class.md)
-  [`Projection_object`](Projection_object-class.md) : A reference class
-  containing data and parameters needed for projection.
-- [`Region_object-class`](Region_object-class.md)
-  [`Region_object`](Region_object-class.md) : Reference Class
-  representing a region as Region_object
-- [`save_csv_all()`](save_csv_all.md) : Saving projection results to CSV
-  files
-- [`save_plots_all()`](save_plots_all.md) : Creating and saving
-  projection results plots to PDF files
-- [`save_plots_comparative_all()`](save_plots_comparative_all.md) :
-  Saving country comparative plots to .pdf file(s)
-- [`save_plots_comparative_regions_all()`](save_plots_comparative_regions_all.md)
+- [`base_data_list`](https://caspar-pl.github.io/measuringreligiouschange/reference/base_data_list.md)
+  : default data list
+- [`base_object_generator()`](https://caspar-pl.github.io/measuringreligiouschange/reference/base_object_generator.md)
+  : Generate main Pew scenarios
+- [`Country_object-class`](https://caspar-pl.github.io/measuringreligiouschange/reference/Country_object-class.md)
+  [`Country_object`](https://caspar-pl.github.io/measuringreligiouschange/reference/Country_object-class.md)
+  : Reference Class representing a country as Country_object
+- [`create_country_list()`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_country_list.md)
+  : Loading data and creating list of Country_objects
+- [`create_projection_object()`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_projection_object.md)
+  : Creating projection_object
+- [`create_region_list()`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_region_list.md)
+  : Creating list of Region_objects
+- [`data_asfr`](https://caspar-pl.github.io/measuringreligiouschange/reference/data_asfr.md)
+  : Age-Specific Fertility Rates dataset
+- [`data_births_ratio`](https://caspar-pl.github.io/measuringreligiouschange/reference/data_births_ratio.md)
+  : Sex ratio at birth dataset
+- [`data_fertility_differentials`](https://caspar-pl.github.io/measuringreligiouschange/reference/data_fertility_differentials.md)
+  : Fertility differentials dataset
+- [`data_migration_destination`](https://caspar-pl.github.io/measuringreligiouschange/reference/data_migration_destination.md)
+  : Migration destination matrices dataset.
+- [`data_migration_rates`](https://caspar-pl.github.io/measuringreligiouschange/reference/data_migration_rates.md)
+  : Out-migration rates dataset
+- [`data_population`](https://caspar-pl.github.io/measuringreligiouschange/reference/data_population.md)
+  : Population dataset
+- [`data_regions`](https://caspar-pl.github.io/measuringreligiouschange/reference/data_regions.md)
+  : Regions dataset
+- [`data_structure`](https://caspar-pl.github.io/measuringreligiouschange/reference/data_structure.md)
+  : Population structure dataset
+- [`data_survivability`](https://caspar-pl.github.io/measuringreligiouschange/reference/data_survivability.md)
+  : Survival rates (nSx) dataset
+- [`data_switching`](https://caspar-pl.github.io/measuringreligiouschange/reference/data_switching.md)
+  : religion switching dataset
+- [`info_variants`](https://caspar-pl.github.io/measuringreligiouschange/reference/info_variants.md)
+  : Scenario variants settings dataset
+- [`project()`](https://caspar-pl.github.io/measuringreligiouschange/reference/project.md)
+  : Conducting MRC projection
+- [`Projection_object-class`](https://caspar-pl.github.io/measuringreligiouschange/reference/Projection_object-class.md)
+  [`Projection_object`](https://caspar-pl.github.io/measuringreligiouschange/reference/Projection_object-class.md)
+  : A reference class containing data and parameters needed for
+  projection.
+- [`Region_object-class`](https://caspar-pl.github.io/measuringreligiouschange/reference/Region_object-class.md)
+  [`Region_object`](https://caspar-pl.github.io/measuringreligiouschange/reference/Region_object-class.md)
+  : Reference Class representing a region as Region_object
+- [`save_csv_all()`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_csv_all.md)
+  : Saving projection results to CSV files
+- [`save_plots_all()`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_all.md)
+  : Creating and saving projection results plots to PDF files
+- [`save_plots_comparative_all()`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_comparative_all.md)
+  : Saving country comparative plots to .pdf file(s)
+- [`save_plots_comparative_regions_all()`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_comparative_regions_all.md)
   : Saving region comparative plots to .pdf file(s)
-- [`save_plots_regions_all()`](save_plots_regions_all.md) : Creating and
-  saving region projection results plots to PDF files
-- [`test_object_generator()`](test_object_generator.md) : Generate a
-  3-country test projection
-- [`variants_loader()`](variants_loader.md) : Calculate variant and
-  create modified country_list_object
+- [`save_plots_regions_all()`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_regions_all.md)
+  : Creating and saving region projection results plots to PDF files
+- [`test_object_generator()`](https://caspar-pl.github.io/measuringreligiouschange/reference/test_object_generator.md)
+  : Generate a 3-country test projection
+- [`variants_loader()`](https://caspar-pl.github.io/measuringreligiouschange/reference/variants_loader.md)
+  : Calculate variant and create modified country_list_object
 
 # Articles
 
 ### All vignettes
 
-- [Conducting an MRC Projection](conducting-projections.md):
-- [Exporting Projection Results](exporting-results.md):
-- [Inner Workings](inner-workings.md):
-- [Visualising MRC Projection Results](visualising-projections.md):
+- [Conducting an MRC
+  Projection](https://caspar-pl.github.io/measuringreligiouschange/articles/conducting-projections.md):
+- [Exporting Projection
+  Results](https://caspar-pl.github.io/measuringreligiouschange/articles/exporting-results.md):
+- [Inner
+  Workings](https://caspar-pl.github.io/measuringreligiouschange/articles/inner-workings.md):
+- [Visualising MRC Projection
+  Results](https://caspar-pl.github.io/measuringreligiouschange/articles/visualising-projections.md):

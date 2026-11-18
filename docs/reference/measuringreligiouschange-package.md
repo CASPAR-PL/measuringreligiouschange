@@ -25,29 +25,32 @@ programming in R. For inquiries, please contact: caspar@uek.krakow.pl.
 
 The package ships four vignettes:
 
-- [`vignette("conducting-projections")`](../articles/conducting-projections.md):
+- [`vignette("conducting-projections")`](https://caspar-pl.github.io/measuringreligiouschange/articles/conducting-projections.md):
 
   How to create a country list, assemble and run a projection, and
   export results to CSV using
-  [`create_country_list`](create_country_list.md),
-  [`create_projection_object`](create_projection_object.md),
-  [`variants_loader`](variants_loader.md), and [`project`](project.md).
+  [`create_country_list`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_country_list.md),
+  [`create_projection_object`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_projection_object.md),
+  [`variants_loader`](https://caspar-pl.github.io/measuringreligiouschange/reference/variants_loader.md),
+  and
+  [`project`](https://caspar-pl.github.io/measuringreligiouschange/reference/project.md).
 
-- [`vignette("visualising-projections")`](../articles/visualising-projections.md):
+- [`vignette("visualising-projections")`](https://caspar-pl.github.io/measuringreligiouschange/articles/visualising-projections.md):
 
   How to save country-level and region-level plots using
-  [`save_plots_all`](save_plots_all.md) and
-  [`save_plots_regions_all`](save_plots_regions_all.md), and how to
-  compare two scenarios side-by-side with
-  [`save_plots_comparative_all`](save_plots_comparative_all.md).
+  [`save_plots_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_all.md)
+  and
+  [`save_plots_regions_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_regions_all.md),
+  and how to compare two scenarios side-by-side with
+  [`save_plots_comparative_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_comparative_all.md).
 
-- [`vignette("exporting-results")`](../articles/exporting-results.md):
+- [`vignette("exporting-results")`](https://caspar-pl.github.io/measuringreligiouschange/articles/exporting-results.md):
 
   Column-by-column description of every CSV output file produced by
-  [`save_csv_all`](save_csv_all.md), including example rows for the
-  United States (ISO 840).
+  [`save_csv_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_csv_all.md),
+  including example rows for the United States (ISO 840).
 
-- [`vignette("inner-workings")`](../articles/inner-workings.md):
+- [`vignette("inner-workings")`](https://caspar-pl.github.io/measuringreligiouschange/articles/inner-workings.md):
 
   Internal architecture: `Country_object` and `Projection_object` field
   reference, the `Loader.R` pipeline, and flow diagrams for the main

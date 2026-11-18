@@ -70,14 +70,16 @@ represents a single country.
 
 ## See also
 
-[`create_projection_object`](create_projection_object.md) to assemble a
-projection from this list, [`variants_loader`](variants_loader.md) to
-validate the assembled object, [`project`](project.md) to run the
-projection.
-[`vignette("conducting-projections")`](../articles/conducting-projections.md)
+[`create_projection_object`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_projection_object.md)
+to assemble a projection from this list,
+[`variants_loader`](https://caspar-pl.github.io/measuringreligiouschange/reference/variants_loader.md)
+to validate the assembled object,
+[`project`](https://caspar-pl.github.io/measuringreligiouschange/reference/project.md)
+to run the projection.
+[`vignette("conducting-projections")`](https://caspar-pl.github.io/measuringreligiouschange/articles/conducting-projections.md)
 for a complete worked example.
-[`vignette("inner-workings")`](../articles/inner-workings.md) for the
-internal data-loading pipeline.
+[`vignette("inner-workings")`](https://caspar-pl.github.io/measuringreligiouschange/articles/inner-workings.md)
+for the internal data-loading pipeline.
 
 ## Examples
 

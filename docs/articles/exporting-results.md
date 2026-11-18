@@ -1,10 +1,11 @@
 # Exporting Projection Results
 
 This vignette covers how to export MRC projection results to CSV files
-using [`save_csv_all()`](../reference/save_csv_all.md). For creating and
-running a projection, see the *Conducting an MRC Projection* vignette.
-For generating plots, see the *Visualising MRC Projection Results*
-vignette.
+using
+[`save_csv_all()`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_csv_all.md).
+For creating and running a projection, see the *Conducting an MRC
+Projection* vignette. For generating plots, see the *Visualising MRC
+Projection Results* vignette.
 
 All example tables below show rows for the **United States (code 840)**
 from a full 11-step projection with `light_migration = TRUE` and

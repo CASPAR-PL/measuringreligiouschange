@@ -4,19 +4,20 @@ This vignette walks through the full workflow for creating and running
 an MRC projection using the package’s exported API.
 
 - For saving plots: [Visualising MRC Projection
-  Results](visualising-projections.md)
+  Results](https://caspar-pl.github.io/measuringreligiouschange/articles/visualising-projections.md)
 - For exporting to CSV: [Exporting Projection
-  Results](exporting-results.md)
-- For internal architecture: [Inner Workings](inner-workings.md)
+  Results](https://caspar-pl.github.io/measuringreligiouschange/articles/exporting-results.md)
+- For internal architecture: [Inner
+  Workings](https://caspar-pl.github.io/measuringreligiouschange/articles/inner-workings.md)
 
 ------------------------------------------------------------------------
 
 ## 1 Create a country list — `create_country_list()`
 
-[`create_country_list()`](../reference/create_country_list.md) loads and
-prepares all input data for every country. It must be called separately
-for each projection object you intend to run — two projections cannot
-share the same country list.
+[`create_country_list()`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_country_list.md)
+loads and prepares all input data for every country. It must be called
+separately for each projection object you intend to run — two
+projections cannot share the same country list.
 
 ``` r
 
@@ -43,14 +44,15 @@ cl <- create_country_list(
 
 ## 2 Assemble a projection — `create_projection_object()` + `variants_loader()`
 
-[`create_projection_object()`](../reference/create_projection_object.md)
+[`create_projection_object()`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_projection_object.md)
 assembles all projection settings into an object.
 
-[`variants_loader()`](../reference/variants_loader.md) checks that the
-country list and projection settings are mutually consistent (in
-particular that their `post_switch` flags match) and prints a summary of
-the active settings before returning the validated object. It must be
-called before [`project()`](../reference/project.md).
+[`variants_loader()`](https://caspar-pl.github.io/measuringreligiouschange/reference/variants_loader.md)
+checks that the country list and projection settings are mutually
+consistent (in particular that their `post_switch` flags match) and
+prints a summary of the active settings before returning the validated
+object. It must be called before
+[`project()`](https://caspar-pl.github.io/measuringreligiouschange/reference/project.md).
 
 ``` r
 
@@ -87,8 +89,8 @@ obj <- variants_loader(create_projection_object(
 
 Each projection requires its **own** country list. To run a second
 scenario (e.g. with `no_diff = TRUE`), call
-[`create_country_list()`](../reference/create_country_list.md) again
-before creating the second projection object.
+[`create_country_list()`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_country_list.md)
+again before creating the second projection object.
 
 ``` r
 

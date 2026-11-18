@@ -59,7 +59,8 @@ Collate:
     'scenarios.R'
     'wrappers.R'
     'zzz.R'
-URL: https://github.com/CASPAR-PL/measuringreligiouschange
+URL: https://caspar-pl.github.io/measuringreligiouschange/,
+    https://github.com/CASPAR-PL/measuringreligiouschange
 BugReports: https://github.com/CASPAR-PL/measuringreligiouschange/issues
 Suggests:
     testthat (>= 3.0.0),

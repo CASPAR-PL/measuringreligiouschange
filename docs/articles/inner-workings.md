@@ -6,7 +6,8 @@ algorithm illustrated by a flow diagram extracted from the package’s
 design document.
 
 For the user-facing workflow that drives these internals, see
-[Conducting an MRC Projection](conducting-projections.md).
+[Conducting an MRC
+Projection](https://caspar-pl.github.io/measuringreligiouschange/articles/conducting-projections.md).
 
 ------------------------------------------------------------------------
 
@@ -16,8 +17,8 @@ For the user-facing workflow that drives these internals, see
 
 One `Country_object` instance is created per country by
 `object_loader()` inside
-[`create_country_list()`](../reference/create_country_list.md). It
-carries all demographic inputs, projection settings, and accumulated
+[`create_country_list()`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_country_list.md).
+It carries all demographic inputs, projection settings, and accumulated
 outputs for a single country throughout the full projection lifetime.
 
 **Identity fields**
@@ -71,8 +72,9 @@ outputs for a single country throughout the full projection lifetime.
 ### `Projection_object`
 
 One `Projection_object` is assembled by
-[`create_projection_object()`](../reference/create_projection_object.md)
-and validated by [`variants_loader()`](../reference/variants_loader.md).
+[`create_projection_object()`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_projection_object.md)
+and validated by
+[`variants_loader()`](https://caspar-pl.github.io/measuringreligiouschange/reference/variants_loader.md).
 It acts as the top-level container for an entire projection scenario —
 holding the list of country objects, the global settings, and pointers
 to region aggregates.
@@ -90,14 +92,14 @@ to region aggregates.
 | `post_switch` | logical | If `FALSE` (default), switched individuals remain in the general population and may switch again in subsequent steps. If `TRUE`, they are moved into separate `*_post_switch` output columns and excluded from further switching. |
 | `light_migration` | logical | If `TRUE`, migration output is collapsed to period totals rather than age–sex breakdowns. |
 | `light_switching` | logical | If `TRUE`, switching output is collapsed to period totals. |
-| `resolved` | logical | Becomes `TRUE` after [`project()`](../reference/project.md) completes; prevents re-projection of the same object. |
+| `resolved` | logical | Becomes `TRUE` after [`project()`](https://caspar-pl.github.io/measuringreligiouschange/reference/project.md) completes; prevents re-projection of the same object. |
 
 **Container fields**
 
 | Field | Type | Description |
 |----|----|----|
 | `country_object_list` | list | Named list of `Country_object` instances, one per country. Keys follow the pattern `"c840"` for ISO code 840. |
-| `region_object_list` | list | Named list of `Region_object` instances. Populated after [`project()`](../reference/project.md) when `save_totals = TRUE`. |
+| `region_object_list` | list | Named list of `Region_object` instances. Populated after [`project()`](https://caspar-pl.github.io/measuringreligiouschange/reference/project.md) when `save_totals = TRUE`. |
 
 ------------------------------------------------------------------------
 
@@ -106,8 +108,8 @@ to region aggregates.
 `Loader.R` contains every function involved in transforming the raw
 `base_data_list` into fully populated `Country_object` instances. The
 public entry point is
-[`create_country_list()`](../reference/create_country_list.md); all
-other functions are internal.
+[`create_country_list()`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_country_list.md);
+all other functions are internal.
 
 ### `base_data_list` slot reference
 
@@ -265,12 +267,12 @@ If the total is non-zero the function calls
 Once `object_loader()` registers a `Country_object` with a
 `Projection_object`, the `projection_owner` field is set to the
 projection’s name.
-[`create_projection_object()`](../reference/create_projection_object.md)
+[`create_projection_object()`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_projection_object.md)
 checks this field on every country and raises an error if any are
 already owned, preventing the same list from being shared between two
 projections. To run a second scenario, call
-[`create_country_list()`](../reference/create_country_list.md) again
-from scratch.
+[`create_country_list()`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_country_list.md)
+again from scratch.
 
 ------------------------------------------------------------------------
 
@@ -409,9 +411,10 @@ structure.
 
 ![](figures/diag_projection_step.png)
 
-[`project()`](../reference/project.md) wraps `dem_proj_no_mig()` (or its
-migration equivalent) in an outer loop over all projection steps. The
-first decision at each step is whether **migration** is enabled.
+[`project()`](https://caspar-pl.github.io/measuringreligiouschange/reference/project.md)
+wraps `dem_proj_no_mig()` (or its migration equivalent) in an outer loop
+over all projection steps. The first decision at each step is whether
+**migration** is enabled.
 
 ### Migration = FALSE
 

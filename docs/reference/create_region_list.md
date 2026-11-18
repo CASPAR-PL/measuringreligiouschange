@@ -2,8 +2,8 @@
 
 Function for creating a list of Region_objects from a region-mapping
 data frame. In most workflows this is called automatically by
-[`create_projection_object`](create_projection_object.md); call it
-directly only when you need to customise the region list before
+[`create_projection_object`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_projection_object.md);
+call it directly only when you need to customise the region list before
 assembling a projection.
 
 ## Usage
@@ -17,8 +17,9 @@ create_region_list(region_data = base_data_list[[11]])
 - region_data:
 
   Data frame; mapping region names to region identifiers. See
-  [`data_regions`](data_regions.md). Defaults to the regions table
-  stored in [`base_data_list`](base_data_list.md)
+  [`data_regions`](https://caspar-pl.github.io/measuringreligiouschange/reference/data_regions.md).
+  Defaults to the regions table stored in
+  [`base_data_list`](https://caspar-pl.github.io/measuringreligiouschange/reference/base_data_list.md)
   (`base_data_list[[11]]`).
 
 ## Value
@@ -27,9 +28,10 @@ List of Region_objects, one per row in `region_data`.
 
 ## See also
 
-[`create_projection_object`](create_projection_object.md) which calls
-this automatically, [`base_data_list`](base_data_list.md) for the
-default region mapping data.
+[`create_projection_object`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_projection_object.md)
+which calls this automatically,
+[`base_data_list`](https://caspar-pl.github.io/measuringreligiouschange/reference/base_data_list.md)
+for the default region mapping data.
 
 ## Examples
 

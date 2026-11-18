@@ -77,10 +77,11 @@ file(s) to \`folder\` and prints a completion message.
 
 ## See also
 
-[`save_plots_all`](save_plots_all.md) for single-scenario country plots.
-[`save_plots_comparative_regions_all`](save_plots_comparative_regions_all.md)
+[`save_plots_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_all.md)
+for single-scenario country plots.
+[`save_plots_comparative_regions_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_comparative_regions_all.md)
 for the region-level equivalent.
-[`vignette("visualising-projections")`](../articles/visualising-projections.md)
+[`vignette("visualising-projections")`](https://caspar-pl.github.io/measuringreligiouschange/articles/visualising-projections.md)
 for a guide to all comparative plot types and how the content flags map
 to type numbers.
 

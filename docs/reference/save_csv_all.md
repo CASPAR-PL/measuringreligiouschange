@@ -88,12 +88,13 @@ Progress bar and time of execution.
 
 ## See also
 
-[`project`](project.md) to run the projection before exporting.
-[`save_plots_all`](save_plots_all.md) to export visualisations instead
-of raw data.
-[`vignette("exporting-results")`](../articles/exporting-results.md) for
-a column-by-column description of every output file including example
-rows.
+[`project`](https://caspar-pl.github.io/measuringreligiouschange/reference/project.md)
+to run the projection before exporting.
+[`save_plots_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_all.md)
+to export visualisations instead of raw data.
+[`vignette("exporting-results")`](https://caspar-pl.github.io/measuringreligiouschange/articles/exporting-results.md)
+for a column-by-column description of every output file including
+example rows.
 
 ## Examples
 

@@ -40,15 +40,18 @@ Progress bar and time of execution, modifies projection object
 
 ## See also
 
-[`create_country_list`](create_country_list.md),
-[`create_projection_object`](create_projection_object.md),
-[`variants_loader`](variants_loader.md) to set up a projection before
-calling this function. [`save_csv_all`](save_csv_all.md) and
-[`save_plots_all`](save_plots_all.md) to export results afterwards.
-[`vignette("conducting-projections")`](../articles/conducting-projections.md)
+[`create_country_list`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_country_list.md),
+[`create_projection_object`](https://caspar-pl.github.io/measuringreligiouschange/reference/create_projection_object.md),
+[`variants_loader`](https://caspar-pl.github.io/measuringreligiouschange/reference/variants_loader.md)
+to set up a projection before calling this function.
+[`save_csv_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_csv_all.md)
+and
+[`save_plots_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_all.md)
+to export results afterwards.
+[`vignette("conducting-projections")`](https://caspar-pl.github.io/measuringreligiouschange/articles/conducting-projections.md)
 for a full walkthrough.
-[`vignette("inner-workings")`](../articles/inner-workings.md) for the
-internal projection algorithm.
+[`vignette("inner-workings")`](https://caspar-pl.github.io/measuringreligiouschange/articles/inner-workings.md)
+for the internal projection algorithm.
 
 ## Examples
 

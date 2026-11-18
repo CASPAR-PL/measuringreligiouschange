@@ -86,10 +86,11 @@ Called for its side effects. Saves region plots as PDF file(s) to
 
 ## See also
 
-[`save_plots_all`](save_plots_all.md) for country-level plots,
-[`save_plots_comparative_all`](save_plots_comparative_all.md) to compare
-scenarios.
-[`vignette("visualising-projections")`](../articles/visualising-projections.md)
+[`save_plots_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_all.md)
+for country-level plots,
+[`save_plots_comparative_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_comparative_all.md)
+to compare scenarios.
+[`vignette("visualising-projections")`](https://caspar-pl.github.io/measuringreligiouschange/articles/visualising-projections.md)
 for a complete guide including which variants each flag controls.
 
 ## Examples

@@ -87,10 +87,11 @@ Called for its side effects. Saves country plots as PDF file(s) to
 
 ## See also
 
-[`save_plots_regions_all`](save_plots_regions_all.md) for region-level
-plots, [`save_plots_comparative_all`](save_plots_comparative_all.md) to
-compare two scenarios side by side.
-[`vignette("visualising-projections")`](../articles/visualising-projections.md)
+[`save_plots_regions_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_regions_all.md)
+for region-level plots,
+[`save_plots_comparative_all`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_comparative_all.md)
+to compare two scenarios side by side.
+[`vignette("visualising-projections")`](https://caspar-pl.github.io/measuringreligiouschange/articles/visualising-projections.md)
 for a complete guide to all plot variants and the `demographic_plots`,
 `migration_plots`, and `switching_plots` flags.
 

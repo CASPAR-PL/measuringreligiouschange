@@ -3,8 +3,9 @@
 This vignette explains how to save and interpret MRC projection plots
 using the two exported plotting workflows. For how to create and run a
 projection, see [Conducting an MRC
-Projection](conducting-projections.md). For CSV export, see [Exporting
-Projection Results](exporting-results.md).
+Projection](https://caspar-pl.github.io/measuringreligiouschange/articles/conducting-projections.md).
+For CSV export, see [Exporting Projection
+Results](https://caspar-pl.github.io/measuringreligiouschange/articles/exporting-results.md).
 
 All example images below were generated from a full 11-step, 201-country
 projection for the **United States (ISO 840)** with
@@ -18,9 +19,9 @@ instantly.
 
 ## 1 Country-level plots — `save_plots_all()`
 
-[`save_plots_all()`](../reference/save_plots_all.md) generates every
-applicable plot variant for every country and saves them as PDF files
-(one per country, or a single combined file).
+[`save_plots_all()`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_all.md)
+generates every applicable plot variant for every country and saves them
+as PDF files (one per country, or a single combined file).
 
 ``` r
 
@@ -195,11 +196,12 @@ Variant 13: Religious retention over time in the USA — Christians.
 
 ## 2 Region-level plots — `save_plots_regions_all()`
 
-[`save_plots_regions_all()`](../reference/save_plots_regions_all.md)
+[`save_plots_regions_all()`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_regions_all.md)
 accepts the same arguments as
-[`save_plots_all()`](../reference/save_plots_all.md) and generates the
-same variant groups aggregated to world regions. It requires
-`save_totals = TRUE` in [`project()`](../reference/project.md).
+[`save_plots_all()`](https://caspar-pl.github.io/measuringreligiouschange/reference/save_plots_all.md)
+and generates the same variant groups aggregated to world regions. It
+requires `save_totals = TRUE` in
+[`project()`](https://caspar-pl.github.io/measuringreligiouschange/reference/project.md).
 
 ``` r
 
